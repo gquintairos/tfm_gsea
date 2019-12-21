@@ -1,0 +1,19 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PYGM	glycogen phosphorylase, muscle associated [Source:HGNC Symbol;Acc:HGNC:9726]	null	null	2367	0.6058553457260132	-0.1486572	No	
+row_1	PHKA1	phosphorylase kinase regulatory subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:8925]	null	null	2494	0.5845023393630981	-0.10337675	No	
+row_2	PHKG1	phosphorylase kinase catalytic subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:8930]	null	null	4193	0.18182457983493805	-0.23436758	No	
+row_3	AGL	amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase [Source:HGNC Symbol;Acc:HGNC:321]	null	null	4246	0.1656976044178009	-0.22295515	No	
+row_4	GAA	glucosidase alpha, acid [Source:HGNC Symbol;Acc:HGNC:4065]	null	null	4844	-0.02618389017879963	-0.27264577	No	
+row_5	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	null	null	4936	-0.05481202155351639	-0.2753249	No	
+row_6	PPP1R3B	protein phosphatase 1 regulatory subunit 3B [Source:HGNC Symbol;Acc:HGNC:14942]	null	null	5325	-0.1752489060163498	-0.29237854	No	
+row_7	PYGL	glycogen phosphorylase L [Source:HGNC Symbol;Acc:HGNC:9725]	null	null	8257	-0.6652089953422546	-0.48464528	Yes	
+row_8	PPP1CB	protein phosphatase 1 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9282]	null	null	8470	-0.6828305125236511	-0.43741512	Yes	
+row_9	PHKA2	phosphorylase kinase regulatory subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:8926]	null	null	8684	-0.7007970809936523	-0.38854185	Yes	
+row_10	PGM2	phosphoglucomutase 2 [Source:HGNC Symbol;Acc:HGNC:8906]	null	null	8783	-0.7094742655754089	-0.32877508	Yes	
+row_11	PYGB	glycogen phosphorylase B [Source:HGNC Symbol;Acc:HGNC:9723]	null	null	9009	-0.7259334921836853	-0.27853012	Yes	
+row_12	PHKG2	phosphorylase kinase catalytic subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:8931]	null	null	10285	-0.8113179206848145	-0.31189218	Yes	
+row_13	PPP1R3D	protein phosphatase 1 regulatory subunit 3D [Source:HGNC Symbol;Acc:HGNC:9294]	null	null	10628	-0.8331555128097534	-0.2615521	Yes	
+row_14	PFKM	phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]	null	null	10703	-0.8375570178031921	-0.18734916	Yes	
+row_15	PPP1CA	protein phosphatase 1 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9281]	null	null	11010	-0.86359041929245	-0.13092902	Yes	
+row_16	PGM1	phosphoglucomutase 1 [Source:HGNC Symbol;Acc:HGNC:8905]	null	null	11113	-0.8733084201812744	-0.055731297	Yes	
+row_17	PHKB	phosphorylase kinase regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:8927]	null	null	11214	-0.8845864534378052	0.020727662	Yes	

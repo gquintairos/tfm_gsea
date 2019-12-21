@@ -1,0 +1,31 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LILRB4	leukocyte immunoglobulin like receptor B4 [Source:HGNC Symbol;Acc:HGNC:6608]	null	null	317	0.8716041445732117	0.01518102	No	
+row_1	CD226	CD226 molecule [Source:HGNC Symbol;Acc:HGNC:16961]	null	null	334	0.8690046668052673	0.05658664	No	
+row_2	CCR7	C-C motif chemokine receptor 7 [Source:HGNC Symbol;Acc:HGNC:1608]	null	null	369	0.8621946573257446	0.09608091	No	
+row_3	DUSP22	dual specificity phosphatase 22 [Source:HGNC Symbol;Acc:HGNC:16077]	null	null	802	0.8012450933456421	0.097727805	No	
+row_4	EZR	ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	null	null	1197	0.7533360123634338	0.10034166	No	
+row_5	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	null	null	1734	0.6887961030006409	0.08734419	No	
+row_6	PTPN6	protein tyrosine phosphatase non-receptor type 6 [Source:HGNC Symbol;Acc:HGNC:9658]	null	null	3105	0.47050365805625916	-0.0094231665	No	
+row_7	RPS3	ribosomal protein S3 [Source:HGNC Symbol;Acc:HGNC:10420]	null	null	4641	0.04316091164946556	-0.14168687	No	
+row_8	DUSP3	dual specificity phosphatase 3 [Source:HGNC Symbol;Acc:HGNC:3069]	null	null	4910	-0.045709989964962006	-0.16289872	No	
+row_9	PRKD2	protein kinase D2 [Source:HGNC Symbol;Acc:HGNC:17293]	null	null	5496	-0.22359421849250793	-0.2031016	No	
+row_10	CEACAM1	carcinoembryonic antigen related cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:1814]	null	null	5654	-0.26069900393486023	-0.20400521	No	
+row_11	PTPN22	protein tyrosine phosphatase non-receptor type 22 [Source:HGNC Symbol;Acc:HGNC:9652]	null	null	5795	-0.2926997244358063	-0.20184411	No	
+row_12	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	null	null	8375	-0.6750528216362	-0.3943839	Yes	
+row_13	PHPT1	phosphohistidine phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:30033]	null	null	8709	-0.7034414410591125	-0.38888726	Yes	
+row_14	KCNN4	potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293]	null	null	8980	-0.7239887118339539	-0.37686276	Yes	
+row_15	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	null	null	8988	-0.7242588996887207	-0.34179926	Yes	
+row_16	CYLD	CYLD lysine 63 deubiquitinase [Source:HGNC Symbol;Acc:HGNC:2584]	null	null	9067	-0.730197548866272	-0.31265926	Yes	
+row_17	BTN2A2	butyrophilin subfamily 2 member A2 [Source:HGNC Symbol;Acc:HGNC:1137]	null	null	9147	-0.7373557686805725	-0.28325424	Yes	
+row_18	PAWR	pro-apoptotic WT1 regulator [Source:HGNC Symbol;Acc:HGNC:8614]	null	null	9340	-0.7507989406585693	-0.26308018	Yes	
+row_19	TESPA1	thymocyte expressed, positive selection associated 1 [Source:HGNC Symbol;Acc:HGNC:29109]	null	null	9540	-0.764227569103241	-0.2428575	Yes	
+row_20	ELF1	E74 like ETS transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3316]	null	null	9621	-0.76956707239151	-0.21195331	Yes	
+row_21	RAB29	RAB29, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9789]	null	null	9679	-0.7728299498558044	-0.17887475	Yes	
+row_22	GBP1	guanylate binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4182]	null	null	9682	-0.7732090353965759	-0.14096223	Yes	
+row_23	UBASH3A	ubiquitin associated and SH3 domain containing A [Source:HGNC Symbol;Acc:HGNC:12462]	null	null	10220	-0.8071572184562683	-0.14821687	Yes	
+row_24	PTPN2	protein tyrosine phosphatase non-receptor type 2 [Source:HGNC Symbol;Acc:HGNC:9650]	null	null	10474	-0.8231777548789978	-0.12981808	Yes	
+row_25	MALT1	MALT1 paracaspase [Source:HGNC Symbol;Acc:HGNC:6819]	null	null	10646	-0.8342902660369873	-0.10369276	Yes	
+row_26	LCK	LCK proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6524]	null	null	10904	-0.8545842170715332	-0.08409711	Yes	
+row_27	THY1	Thy-1 cell surface antigen [Source:HGNC Symbol;Acc:HGNC:11801]	null	null	11085	-0.8704643249511719	-0.056977846	Yes	
+row_28	CD300A	CD300a molecule [Source:HGNC Symbol;Acc:HGNC:19319]	null	null	11279	-0.8935219049453735	-0.029860934	Yes	
+row_29	ADA	adenosine deaminase [Source:HGNC Symbol;Acc:HGNC:186]	null	null	11357	-0.9101305603981018	0.008229946	Yes	

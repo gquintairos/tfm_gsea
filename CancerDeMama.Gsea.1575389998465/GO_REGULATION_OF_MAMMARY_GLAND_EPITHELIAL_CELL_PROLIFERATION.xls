@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	null	null	0	1.0	0.09947539	Yes	
+row_1	BAX	BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]	null	null	66	0.9311255216598511	0.1893143	Yes	
+row_2	HOXA5	homeobox A5 [Source:HGNC Symbol;Acc:HGNC:5106]	null	null	250	0.8883451223373413	0.2698415	Yes	
+row_3	ZNF703	zinc finger protein 703 [Source:HGNC Symbol;Acc:HGNC:25883]	null	null	347	0.8739733099937439	0.35266688	Yes	
+row_4	PHB2	prohibitin 2 [Source:HGNC Symbol;Acc:HGNC:30306]	null	null	710	0.8336321115493774	0.4200816	Yes	
+row_5	PYGO2	pygopus family PHD finger 2 [Source:HGNC Symbol;Acc:HGNC:30257]	null	null	1732	0.7613332867622375	0.45206714	Yes	
+row_6	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	null	null	1843	0.7547528743743896	0.5224331	Yes	
+row_7	DEAF1	DEAF1 transcription factor [Source:HGNC Symbol;Acc:HGNC:14677]	null	null	2896	0.6935915350914001	0.54635173	Yes	
+row_8	GATA3	GATA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:4172]	null	null	7437	0.37690237164497375	0.3893117	No	
+row_9	RREB1	ras responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:10449]	null	null	13078	-0.09699012339115143	0.15729389	No	
+row_10	MST1	macrophage stimulating 1 [Source:HGNC Symbol;Acc:HGNC:7380]	null	null	13293	-0.11286789923906326	0.15935187	No	
+row_11	KDM5B	lysine demethylase 5B [Source:HGNC Symbol;Acc:HGNC:18039]	null	null	13427	-0.12355635315179825	0.16594382	No	
+row_12	MED1	mediator complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:9234]	null	null	15782	-0.30974552035331726	0.09589034	No	
+row_13	IQGAP3	IQ motif containing GTPase activating protein 3 [Source:HGNC Symbol;Acc:HGNC:20669]	null	null	16507	-0.35987603664398193	0.100666784	No	
+row_14	BRCA2	BRCA2 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1101]	null	null	16706	-0.37594640254974365	0.12958018	No	
+row_15	RTN4	reticulon 4 [Source:HGNC Symbol;Acc:HGNC:14085]	null	null	20834	-0.6839388012886047	0.020779207	No	
+row_16	ROBO1	roundabout guidance receptor 1 [Source:HGNC Symbol;Acc:HGNC:10249]	null	null	22949	-0.8761604428291321	0.017353732	No	

@@ -1,0 +1,17 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADRB2	adrenoceptor beta 2 [Source:HGNC Symbol;Acc:HGNC:286]	null	null	901	0.8177657723426819	0.053916864	No	
+row_1	PRKAR1B	protein kinase cAMP-dependent type I regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:9390]	null	null	5187	0.5524423718452454	-0.067178234	No	
+row_2	PRKAR1A	protein kinase cAMP-dependent type I regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9388]	null	null	6531	0.4526224434375763	-0.07351183	No	
+row_3	SESN2	sestrin 2 [Source:HGNC Symbol;Acc:HGNC:20746]	null	null	6641	0.4430096447467804	-0.02806015	No	
+row_4	NPFFR2	neuropeptide FF receptor 2 [Source:HGNC Symbol;Acc:HGNC:4525]	null	null	8623	0.28092774748802185	-0.08115545	No	
+row_5	PKIG	cAMP-dependent protein kinase inhibitor gamma [Source:HGNC Symbol;Acc:HGNC:9019]	null	null	10013	0.15582111477851868	-0.12304001	No	
+row_6	MST1	macrophage stimulating 1 [Source:HGNC Symbol;Acc:HGNC:7380]	null	null	13293	-0.11286789923906326	-0.2507646	No	
+row_7	RAPGEF2	Rap guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:16854]	null	null	13321	-0.11558994650840759	-0.23884366	No	
+row_8	PKIA	cAMP-dependent protein kinase inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:9017]	null	null	17856	-0.4603922665119171	-0.38102213	No	
+row_9	PKIB	cAMP-dependent protein kinase inhibitor beta [Source:HGNC Symbol;Acc:HGNC:9018]	null	null	18355	-0.4984089136123657	-0.34596997	No	
+row_10	ADIPOQ	adiponectin, C1Q and collagen domain containing [Source:HGNC Symbol;Acc:HGNC:13633]	null	null	22234	-0.8012589812278748	-0.4214754	Yes	
+row_11	SIRT1	sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929]	null	null	22240	-0.8015443086624146	-0.33100316	Yes	
+row_12	HTT	huntingtin [Source:HGNC Symbol;Acc:HGNC:4851]	null	null	22252	-0.8030381202697754	-0.24061899	Yes	
+row_13	ATP2B4	ATPase plasma membrane Ca2+ transporting 4 [Source:HGNC Symbol;Acc:HGNC:817]	null	null	22348	-0.8111202120780945	-0.15291953	Yes	
+row_14	PRKAR2B	protein kinase cAMP-dependent type II regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:9392]	null	null	22637	-0.8386738300323486	-0.07037209	Yes	
+row_15	PRKAR2A	protein kinase cAMP-dependent type II regulatory subunit alpha [Source:HGNC Symbol;Acc:HGNC:9391]	null	null	23079	-0.893147349357605	0.011782918	Yes	

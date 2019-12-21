@@ -1,0 +1,104 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HIST1H4C	histone cluster 1 H4 family member c [Source:HGNC Symbol;Acc:HGNC:4787]	null	null	3	0.9760323762893677	0.015171452	Yes	
+row_1	HIST1H4D	histone cluster 1 H4 family member d [Source:HGNC Symbol;Acc:HGNC:4782]	null	null	6	0.9720510840415955	0.0303235	Yes	
+row_2	HIST1H2AE	histone cluster 1 H2A family member e [Source:HGNC Symbol;Acc:HGNC:4724]	null	null	8	0.9669224619865417	0.045438156	Yes	
+row_3	HIST1H1D	histone cluster 1 H1 family member d [Source:HGNC Symbol;Acc:HGNC:4717]	null	null	10	0.9654891490936279	0.060530346	Yes	
+row_4	HIST1H4E	histone cluster 1 H4 family member e [Source:HGNC Symbol;Acc:HGNC:4790]	null	null	11	0.964266836643219	0.07564638	Yes	
+row_5	HIST1H4B	histone cluster 1 H4 family member b [Source:HGNC Symbol;Acc:HGNC:4789]	null	null	16	0.957683801651001	0.09048719	Yes	
+row_6	HIST1H4L	histone cluster 1 H4 family member l [Source:HGNC Symbol;Acc:HGNC:4791]	null	null	30	0.9490928649902344	0.10480626	Yes	
+row_7	HIST1H2BH	histone cluster 1 H2B family member h [Source:HGNC Symbol;Acc:HGNC:4755]	null	null	53	0.9355729818344116	0.11852633	Yes	
+row_8	HIST1H2BM	histone cluster 1 H2B family member m [Source:HGNC Symbol;Acc:HGNC:4750]	null	null	69	0.9308831095695496	0.13247393	Yes	
+row_9	HIST1H3I	histone cluster 1 H3 family member i [Source:HGNC Symbol;Acc:HGNC:4771]	null	null	79	0.9285191297531128	0.1466425	Yes	
+row_10	HIST1H1B	histone cluster 1 H1 family member b [Source:HGNC Symbol;Acc:HGNC:4719]	null	null	102	0.9207684993743896	0.1601305	Yes	
+row_11	HIST1H2BF	histone cluster 1 H2B family member f [Source:HGNC Symbol;Acc:HGNC:4752]	null	null	121	0.9148306846618652	0.17369744	Yes	
+row_12	HIST1H3F	histone cluster 1 H3 family member f [Source:HGNC Symbol;Acc:HGNC:4773]	null	null	129	0.9119916558265686	0.18769294	Yes	
+row_13	HIST1H3A	histone cluster 1 H3 family member a [Source:HGNC Symbol;Acc:HGNC:4766]	null	null	141	0.9099676012992859	0.2014847	Yes	
+row_14	HIST1H2AL	histone cluster 1 H2A family member l [Source:HGNC Symbol;Acc:HGNC:4730]	null	null	145	0.9096855521202087	0.21561608	Yes	
+row_15	HIST1H2BI	histone cluster 1 H2B family member i [Source:HGNC Symbol;Acc:HGNC:4756]	null	null	185	0.9020419120788574	0.2280794	Yes	
+row_16	HIST1H2AD	histone cluster 1 H2A family member d [Source:HGNC Symbol;Acc:HGNC:4729]	null	null	203	0.8981859087944031	0.2414284	Yes	
+row_17	H1FOO	H1 histone family member O oocyte specific [Source:HGNC Symbol;Acc:HGNC:18463]	null	null	231	0.8921762704849243	0.25425315	Yes	
+row_18	HIST1H2BC	histone cluster 1 H2B family member c [Source:HGNC Symbol;Acc:HGNC:4757]	null	null	272	0.8839132785797119	0.26638925	Yes	
+row_19	HIST1H2AH	histone cluster 1 H2A family member h [Source:HGNC Symbol;Acc:HGNC:13671]	null	null	279	0.8825230598449707	0.27996582	Yes	
+row_20	HIST1H2BE	histone cluster 1 H2B family member e [Source:HGNC Symbol;Acc:HGNC:4753]	null	null	335	0.8748018145561218	0.291314	Yes	
+row_21	H2BFM	H2B histone family member M [Source:HGNC Symbol;Acc:HGNC:27867]	null	null	466	0.8579244613647461	0.29917207	Yes	
+row_22	HIST2H3D	histone cluster 2 H3 family member d [Source:HGNC Symbol;Acc:HGNC:25311]	null	null	503	0.8539852499961853	0.31101105	Yes	
+row_23	HIST1H2BL	histone cluster 1 H2B family member l [Source:HGNC Symbol;Acc:HGNC:4748]	null	null	504	0.8538356423377991	0.32439595	Yes	
+row_24	HIST1H4F	histone cluster 1 H4 family member f [Source:HGNC Symbol;Acc:HGNC:4783]	null	null	516	0.8520819544792175	0.33728027	Yes	
+row_25	HIST1H4H	histone cluster 1 H4 family member h [Source:HGNC Symbol;Acc:HGNC:4788]	null	null	600	0.8437955379486084	0.3469382	Yes	
+row_26	HIST1H2BG	histone cluster 1 H2B family member g [Source:HGNC Symbol;Acc:HGNC:4746]	null	null	623	0.8415336012840271	0.3591841	Yes	
+row_27	HIST1H3B	histone cluster 1 H3 family member b [Source:HGNC Symbol;Acc:HGNC:4776]	null	null	653	0.8380300402641296	0.371074	Yes	
+row_28	H2AFX	H2A histone family member X [Source:HGNC Symbol;Acc:HGNC:4739]	null	null	655	0.8378352522850037	0.38416505	Yes	
+row_29	HIST1H2BJ	histone cluster 1 H2B family member j [Source:HGNC Symbol;Acc:HGNC:4761]	null	null	890	0.8183379769325256	0.38692984	Yes	
+row_30	HIST1H3J	histone cluster 1 H3 family member j [Source:HGNC Symbol;Acc:HGNC:4774]	null	null	892	0.8182434439659119	0.39971378	Yes	
+row_31	HIST2H2AB	histone cluster 2 H2A family member b [Source:HGNC Symbol;Acc:HGNC:20508]	null	null	966	0.8133367300033569	0.4093243	Yes	
+row_32	HIST1H4A	histone cluster 1 H4 family member a [Source:HGNC Symbol;Acc:HGNC:4781]	null	null	975	0.8128736615180969	0.42172298	Yes	
+row_33	H3F3A	H3 histone family member 3A [Source:HGNC Symbol;Acc:HGNC:4764]	null	null	1013	0.8100914359092712	0.43283087	Yes	
+row_34	H2AFZ	H2A histone family member Z [Source:HGNC Symbol;Acc:HGNC:4741]	null	null	1026	0.8090826272964478	0.44499815	Yes	
+row_35	HIST1H2BK	histone cluster 1 H2B family member k [Source:HGNC Symbol;Acc:HGNC:13954]	null	null	1047	0.808078408241272	0.4568056	Yes	
+row_36	HIST1H1E	histone cluster 1 H1 family member e [Source:HGNC Symbol;Acc:HGNC:4718]	null	null	1211	0.7960789799690247	0.4622749	Yes	
+row_37	HIST3H2A	histone cluster 3 H2A [Source:HGNC Symbol;Acc:HGNC:20507]	null	null	1373	0.7836111783981323	0.46763483	Yes	
+row_38	H3F3C	H3 histone family member 3C [Source:HGNC Symbol;Acc:HGNC:33164]	null	null	1491	0.7764222025871277	0.47477436	Yes	
+row_39	TNP2	transition protein 2 [Source:HGNC Symbol;Acc:HGNC:11952]	null	null	1521	0.7740151286125183	0.48566076	Yes	
+row_40	HIST1H2AC	histone cluster 1 H2A family member c [Source:HGNC Symbol;Acc:HGNC:4733]	null	null	1579	0.7709450721740723	0.49529484	Yes	
+row_41	H1F0	H1 histone family member 0 [Source:HGNC Symbol;Acc:HGNC:4714]	null	null	1619	0.7682908177375793	0.5056614	Yes	
+row_42	H1FX	H1 histone family member X [Source:HGNC Symbol;Acc:HGNC:4722]	null	null	1751	0.7601244449615479	0.5119434	Yes	
+row_43	HIST1H4I	histone cluster 1 H4 family member i [Source:HGNC Symbol;Acc:HGNC:4793]	null	null	2053	0.7423290610313416	0.51063514	Yes	
+row_44	IRF4	interferon regulatory factor 4 [Source:HGNC Symbol;Acc:HGNC:6119]	null	null	2303	0.7273802161216736	0.51132894	Yes	
+row_45	H2AFY	H2A histone family member Y [Source:HGNC Symbol;Acc:HGNC:4740]	null	null	2613	0.710874617099762	0.5091836	Yes	
+row_46	HIST2H2BE	histone cluster 2 H2B family member e [Source:HGNC Symbol;Acc:HGNC:4760]	null	null	2649	0.7082499265670776	0.518781	Yes	
+row_47	HIST1H2BO	histone cluster 1 H2B family member o [Source:HGNC Symbol;Acc:HGNC:4758]	null	null	3372	0.666696310043335	0.49818116	No	
+row_48	HIST2H2AA3	histone cluster 2 H2A family member a3 [Source:HGNC Symbol;Acc:HGNC:4736]	null	null	3436	0.6631917953491211	0.505868	No	
+row_49	HIST1H2AK	histone cluster 1 H2A family member k [Source:HGNC Symbol;Acc:HGNC:4726]	null	null	3721	0.646540105342865	0.5037893	No	
+row_50	HIST1H3C	histone cluster 1 H3 family member c [Source:HGNC Symbol;Acc:HGNC:4768]	null	null	4326	0.6103867888450623	0.4873816	No	
+row_51	HIST1H2BN	histone cluster 1 H2B family member n [Source:HGNC Symbol;Acc:HGNC:4749]	null	null	4491	0.5997670292854309	0.4897305	No	
+row_52	PRM2	protamine 2 [Source:HGNC Symbol;Acc:HGNC:9448]	null	null	4861	0.5751436948776245	0.48287696	No	
+row_53	GLYR1	glyoxylate reductase 1 homolog [Source:HGNC Symbol;Acc:HGNC:24434]	null	null	5036	0.5629321336746216	0.4842184	No	
+row_54	HIST1H3E	histone cluster 1 H3 family member e [Source:HGNC Symbol;Acc:HGNC:4769]	null	null	5369	0.540912389755249	0.47841948	No	
+row_55	H2AFB1	H2A histone family member B1 [Source:HGNC Symbol;Acc:HGNC:22516]	null	null	5546	0.5282939672470093	0.47913188	No	
+row_56	HIST2H2BF	histone cluster 2 H2B family member f [Source:HGNC Symbol;Acc:HGNC:24700]	null	null	5643	0.5210294127464294	0.48317096	No	
+row_57	HIST1H2AB	histone cluster 1 H2A family member b [Source:HGNC Symbol;Acc:HGNC:4734]	null	null	5660	0.5203566551208496	0.49064007	No	
+row_58	HIST1H2AI	histone cluster 1 H2A family member i [Source:HGNC Symbol;Acc:HGNC:4725]	null	null	6101	0.4866245687007904	0.47934538	No	
+row_59	H2AFY2	H2A histone family member Y2 [Source:HGNC Symbol;Acc:HGNC:14453]	null	null	6204	0.4789487421512604	0.48246676	No	
+row_60	PRM1	protamine 1 [Source:HGNC Symbol;Acc:HGNC:9447]	null	null	6705	0.43751904368400574	0.46782187	No	
+row_61	HIST1H2BD	histone cluster 1 H2B family member d [Source:HGNC Symbol;Acc:HGNC:4747]	null	null	7278	0.3903103768825531	0.4493404	No	
+row_62	HIST1H2BB	histone cluster 1 H2B family member b [Source:HGNC Symbol;Acc:HGNC:4751]	null	null	7775	0.35120269656181335	0.43351442	No	
+row_63	HIST1H2BA	histone cluster 1 H2B family member a [Source:HGNC Symbol;Acc:HGNC:18730]	null	null	8432	0.296800434589386	0.4099545	No	
+row_64	NCAPD2	non-SMC condensin I complex subunit D2 [Source:HGNC Symbol;Acc:HGNC:24305]	null	null	9238	0.22451895475387573	0.3788534	No	
+row_65	SHPRH	SNF2 histone linker PHD RING helicase [Source:HGNC Symbol;Acc:HGNC:19336]	null	null	9534	0.19870443642139435	0.36928126	No	
+row_66	HIST2H2BD	histone cluster 2 H2B family member d (pseudogene) [Source:HGNC Symbol;Acc:HGNC:20517]	null	null	10030	0.15455830097198486	0.35041568	No	
+row_67	HILS1	histone linker H1 domain, spermatid-specific 1 (pseudogene) [Source:HGNC Symbol;Acc:HGNC:30616]	null	null	10204	0.13975873589515686	0.34516633	No	
+row_68	H2AFV	H2A histone family member V [Source:HGNC Symbol;Acc:HGNC:20664]	null	null	10428	0.12237897515296936	0.3374942	No	
+row_69	HIST1H1A	histone cluster 1 H1 family member a [Source:HGNC Symbol;Acc:HGNC:4715]	null	null	10858	0.08547598123550415	0.32038411	No	
+row_70	HIST1H2AA	histone cluster 1 H2A family member a [Source:HGNC Symbol;Acc:HGNC:18729]	null	null	11219	0.05654121935367584	0.30578792	No	
+row_71	H3F3B	H3 histone family member 3B [Source:HGNC Symbol;Acc:HGNC:4765]	null	null	11249	0.05383199080824852	0.3053846	No	
+row_72	NCAPH2	non-SMC condensin II complex subunit H2 [Source:HGNC Symbol;Acc:HGNC:25071]	null	null	11417	0.03942306712269783	0.29882044	No	
+row_73	TNP1	transition protein 1 [Source:HGNC Symbol;Acc:HGNC:11951]	null	null	11699	0.016584742814302444	0.2869954	No	
+row_74	HIST3H2BB	histone cluster 3 H2B family member b [Source:HGNC Symbol;Acc:HGNC:20514]	null	null	11865	0.00309747620485723	0.27994782	No	
+row_75	H2BFWT	H2B histone family member W, testis specific [Source:HGNC Symbol;Acc:HGNC:27252]	null	null	12090	-0.01600613072514534	0.27056515	No	
+row_76	HIST1H2AG	histone cluster 1 H2A family member g [Source:HGNC Symbol;Acc:HGNC:4737]	null	null	12709	-0.06815028935670853	0.24505512	No	
+row_77	HIST1H4G	histone cluster 1 H4 family member g [Source:HGNC Symbol;Acc:HGNC:4792]	null	null	13133	-0.10072625428438187	0.22844215	No	
+row_78	NCAPG2	non-SMC condensin II complex subunit G2 [Source:HGNC Symbol;Acc:HGNC:21904]	null	null	13678	-0.1452454775571823	0.20732321	No	
+row_79	HIST1H3H	histone cluster 1 H3 family member h [Source:HGNC Symbol;Acc:HGNC:4775]	null	null	14036	-0.17583689093589783	0.19472614	No	
+row_80	NCAPH	non-SMC condensin I complex subunit H [Source:HGNC Symbol;Acc:HGNC:1112]	null	null	14048	-0.1766771376132965	0.19702269	No	
+row_81	HIST3H3	histone cluster 3 H3 [Source:HGNC Symbol;Acc:HGNC:4778]	null	null	14684	-0.22714059054851532	0.1732739	No	
+row_82	HIST1H1T	histone cluster 1 H1 family member t [Source:HGNC Symbol;Acc:HGNC:4720]	null	null	15431	-0.28286662697792053	0.14562492	No	
+row_83	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	null	null	15976	-0.32336121797561646	0.12729816	No	
+row_84	NCAPG	non-SMC condensin I complex subunit G [Source:HGNC Symbol;Acc:HGNC:24304]	null	null	16005	-0.32500550150871277	0.13118881	No	
+row_85	SMC2	structural maintenance of chromosomes 2 [Source:HGNC Symbol;Acc:HGNC:14011]	null	null	16463	-0.35717275738716125	0.1171337	No	
+row_86	SLF1	SMC5-SMC6 complex localization factor 1 [Source:HGNC Symbol;Acc:HGNC:25408]	null	null	16972	-0.39495977759361267	0.10147758	No	
+row_87	SMC4	structural maintenance of chromosomes 4 [Source:HGNC Symbol;Acc:HGNC:14013]	null	null	17364	-0.42237767577171326	0.0912831	No	
+row_88	NCAPD3	non-SMC condensin II complex subunit D3 [Source:HGNC Symbol;Acc:HGNC:28952]	null	null	17837	-0.4584624469280243	0.07817071	No	
+row_89	KAT6B	lysine acetyltransferase 6B [Source:HGNC Symbol;Acc:HGNC:17582]	null	null	18075	-0.47691482305526733	0.07545425	No	
+row_90	SOS2	SOS Ras/Rho guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:11188]	null	null	18732	-0.5281727313995361	0.05552136	No	
+row_91	KDM1B	lysine demethylase 1B [Source:HGNC Symbol;Acc:HGNC:21577]	null	null	19609	-0.5910120010375977	0.027112002	No	
+row_92	HIST4H4	histone cluster 4 H4 [Source:HGNC Symbol;Acc:HGNC:20510]	null	null	19815	-0.6074893474578857	0.027818676	No	
+row_93	HIST1H4J	histone cluster 1 H4 family member j [Source:HGNC Symbol;Acc:HGNC:4785]	null	null	20520	-0.6620360612869263	0.007919916	No	
+row_94	HIST2H4B	histone cluster 2 H4 family member b [Source:HGNC Symbol;Acc:HGNC:29607]	null	null	20592	-0.6676651835441589	0.015332864	No	
+row_95	HP1BP3	heterochromatin protein 1 binding protein 3 [Source:HGNC Symbol;Acc:HGNC:24973]	null	null	21427	-0.7316647171974182	-0.009065301	No	
+row_96	KAT6A	lysine acetyltransferase 6A [Source:HGNC Symbol;Acc:HGNC:13013]	null	null	21710	-0.756109356880188	-0.009340373	No	
+row_97	PRM3	protamine 3 [Source:HGNC Symbol;Acc:HGNC:13732]	null	null	21814	-0.7653629183769226	-0.0017721214	No	
+row_98	H2AFJ	H2A histone family member J [Source:HGNC Symbol;Acc:HGNC:14456]	null	null	22016	-0.7824347019195557	0.0018490591	No	
+row_99	MPHOSPH8	M-phase phosphoprotein 8 [Source:HGNC Symbol;Acc:HGNC:29810]	null	null	22823	-0.8579999804496765	-0.019364452	No	
+row_100	HIST1H2AM	histone cluster 1 H2A family member m [Source:HGNC Symbol;Acc:HGNC:4735]	null	null	22832	-0.8584429621696472	-0.0062513896	No	
+row_101	HIST1H1C	histone cluster 1 H1 family member c [Source:HGNC Symbol;Acc:HGNC:4716]	null	null	22941	-0.8751884698867798	0.0028234732	No	
+row_102	SOS1	SOS Ras/Rac guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:11187]	null	null	23315	-0.9501974582672119	0.0016773222	No	

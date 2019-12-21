@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD1E	CD1e molecule [Source:HGNC Symbol;Acc:HGNC:1638]	null	null	665	0.8206927180290222	0.016375871	No	
+row_1	CD1C	CD1c molecule [Source:HGNC Symbol;Acc:HGNC:1636]	null	null	878	0.7896347045898438	0.069546446	No	
+row_2	PVR	PVR cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:9705]	null	null	4322	0.1414184868335724	-0.21870387	No	
+row_3	P2RX7	purinergic receptor P2X 7 [Source:HGNC Symbol;Acc:HGNC:8537]	null	null	5072	-0.10118420422077179	-0.27501556	No	
+row_4	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	null	null	5279	-0.16439130902290344	-0.27810133	No	
+row_5	STX7	syntaxin 7 [Source:HGNC Symbol;Acc:HGNC:11442]	null	null	5936	-0.32373112440109253	-0.30606964	No	
+row_6	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	null	null	8652	-0.6984768509864807	-0.4800669	Yes	
+row_7	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	null	null	8764	-0.7083479166030884	-0.4254458	Yes	
+row_8	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	null	null	8947	-0.7214744687080383	-0.3758416	Yes	
+row_9	IL23A	interleukin 23 subunit alpha [Source:HGNC Symbol;Acc:HGNC:15488]	null	null	9100	-0.732710063457489	-0.32259354	Yes	
+row_10	FAM49B	family with sequence similarity 49 member B [Source:HGNC Symbol;Acc:HGNC:25216]	null	null	9450	-0.7585536241531372	-0.28422633	Yes	
+row_11	FADD	Fas associated via death domain [Source:HGNC Symbol;Acc:HGNC:3573]	null	null	9933	-0.791084885597229	-0.2545358	Yes	
+row_12	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	null	null	9988	-0.794047474861145	-0.18714723	Yes	
+row_13	IL12RB1	interleukin 12 receptor subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:5971]	null	null	10701	-0.8374448418617249	-0.17336021	Yes	
+row_14	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	null	null	10839	-0.848982036113739	-0.10824124	Yes	
+row_15	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	null	null	11145	-0.8768075108528137	-0.05528704	Yes	
+row_16	HLA-H	major histocompatibility complex, class I, H (pseudogene) [Source:HGNC Symbol;Acc:HGNC:4965]	null	null	11322	-0.9024944305419922	0.01128105	Yes	

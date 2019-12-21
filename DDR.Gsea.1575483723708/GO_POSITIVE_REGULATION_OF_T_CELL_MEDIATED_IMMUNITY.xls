@@ -1,0 +1,31 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL18	interleukin 18 [Source:HGNC Symbol;Acc:HGNC:5986]	null	null	201	0.8955630660057068	0.027413884	No	
+row_1	GATA3	GATA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:4172]	null	null	561	0.8352174758911133	0.037961807	No	
+row_2	CD1E	CD1e molecule [Source:HGNC Symbol;Acc:HGNC:1638]	null	null	665	0.8206927180290222	0.0701926	No	
+row_3	CD1C	CD1c molecule [Source:HGNC Symbol;Acc:HGNC:1636]	null	null	878	0.7896347045898438	0.091319405	No	
+row_4	HSPD1	heat shock protein family D (Hsp60) member 1 [Source:HGNC Symbol;Acc:HGNC:5261]	null	null	1756	0.6865644454956055	0.049044874	No	
+row_5	SASH3	SAM and SH3 domain containing 3 [Source:HGNC Symbol;Acc:HGNC:15975]	null	null	2504	0.5834594964981079	0.012969771	No	
+row_6	NLRP3	NLR family pyrin domain containing 3 [Source:HGNC Symbol;Acc:HGNC:16400]	null	null	3012	0.49270951747894287	-0.0066543943	No	
+row_7	PRKCZ	protein kinase C zeta [Source:HGNC Symbol;Acc:HGNC:9412]	null	null	3579	0.35738900303840637	-0.038245317	No	
+row_8	TRAF2	TNF receptor associated factor 2 [Source:HGNC Symbol;Acc:HGNC:12032]	null	null	3642	0.33606308698654175	-0.026782718	No	
+row_9	PVR	PVR cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:9705]	null	null	4322	0.1414184868335724	-0.07912163	No	
+row_10	P2RX7	purinergic receptor P2X 7 [Source:HGNC Symbol;Acc:HGNC:8537]	null	null	5072	-0.10118420422077179	-0.13961126	No	
+row_11	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	null	null	5279	-0.16439130902290344	-0.14938423	No	
+row_12	STX7	syntaxin 7 [Source:HGNC Symbol;Acc:HGNC:11442]	null	null	5936	-0.32373112440109253	-0.19054633	No	
+row_13	MAP3K7	mitogen-activated protein kinase kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6859]	null	null	7965	-0.6386609077453613	-0.33599898	No	
+row_14	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	null	null	8652	-0.6984768509864807	-0.36095268	Yes	
+row_15	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	null	null	8764	-0.7083479166030884	-0.3350688	Yes	
+row_16	TNFSF4	TNF superfamily member 4 [Source:HGNC Symbol;Acc:HGNC:11934]	null	null	8896	-0.7165298461914062	-0.3105247	Yes	
+row_17	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	null	null	8947	-0.7214744687080383	-0.2786405	Yes	
+row_18	TRAF6	TNF receptor associated factor 6 [Source:HGNC Symbol;Acc:HGNC:12036]	null	null	9056	-0.7290486693382263	-0.25145355	Yes	
+row_19	IL23A	interleukin 23 subunit alpha [Source:HGNC Symbol;Acc:HGNC:15488]	null	null	9100	-0.732710063457489	-0.21839179	Yes	
+row_20	FAM49B	family with sequence similarity 49 member B [Source:HGNC Symbol;Acc:HGNC:25216]	null	null	9450	-0.7585536241531372	-0.21082154	Yes	
+row_21	FADD	Fas associated via death domain [Source:HGNC Symbol;Acc:HGNC:3573]	null	null	9933	-0.791084885597229	-0.21326043	Yes	
+row_22	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	null	null	9988	-0.794047474861145	-0.17807887	Yes	
+row_23	MALT1	MALT1 paracaspase [Source:HGNC Symbol;Acc:HGNC:6819]	null	null	10646	-0.8342902660369873	-0.19366756	Yes	
+row_24	IL12RB1	interleukin 12 receptor subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:5971]	null	null	10701	-0.8374448418617249	-0.15630482	Yes	
+row_25	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	null	null	10839	-0.848982036113739	-0.1256289	Yes	
+row_26	IL18R1	interleukin 18 receptor 1 [Source:HGNC Symbol;Acc:HGNC:5988]	null	null	10929	-0.857038140296936	-0.09034567	Yes	
+row_27	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	null	null	11145	-0.8768075108528137	-0.06510016	Yes	
+row_28	HLA-H	major histocompatibility complex, class I, H (pseudogene) [Source:HGNC Symbol;Acc:HGNC:4965]	null	null	11322	-0.9024944305419922	-0.035149146	Yes	
+row_29	IL1B	interleukin 1 beta [Source:HGNC Symbol;Acc:HGNC:5992]	null	null	11402	-0.9223070740699768	0.0042900452	Yes	

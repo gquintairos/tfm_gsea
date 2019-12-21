@@ -1,0 +1,21 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BAX	BCL2 associated X, apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:959]	null	null	66	0.9311255216598511	0.077558994	No	
+row_1	BBC3	BCL2 binding component 3 [Source:HGNC Symbol;Acc:HGNC:17868]	null	null	2231	0.7316198348999023	0.047986094	No	
+row_2	PRELID3A	PRELI domain containing 3A [Source:HGNC Symbol;Acc:HGNC:24639]	null	null	5184	0.5526326894760132	-0.030808417	No	
+row_3	TP53INP1	tumor protein p53 inducible nuclear protein 1 [Source:HGNC Symbol;Acc:HGNC:18022]	null	null	5285	0.5459659099578857	0.012041346	No	
+row_4	AIFM2	apoptosis inducing factor mitochondria associated 2 [Source:HGNC Symbol;Acc:HGNC:21411]	null	null	6451	0.45996174216270447	0.0018264686	No	
+row_5	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	null	null	9814	0.17077015340328217	-0.12750576	No	
+row_6	TP73	tumor protein p73 [Source:HGNC Symbol;Acc:HGNC:12003]	null	null	10092	0.14955177903175354	-0.12646501	No	
+row_7	TP63	tumor protein p63 [Source:HGNC Symbol;Acc:HGNC:15979]	null	null	11766	0.010355036705732346	-0.1972659	No	
+row_8	BNIP3L	BCL2 interacting protein 3 like [Source:HGNC Symbol;Acc:HGNC:1085]	null	null	12551	-0.05450316146016121	-0.22615804	No	
+row_9	TP53AIP1	tumor protein p53 regulated apoptosis inducing protein 1 [Source:HGNC Symbol;Acc:HGNC:29984]	null	null	13768	-0.1516181081533432	-0.2651789	No	
+row_10	STEAP3	STEAP3 metalloreductase [Source:HGNC Symbol;Acc:HGNC:24592]	null	null	18624	-0.5182008147239685	-0.4284973	No	
+row_11	CREBBP	CREB binding protein [Source:HGNC Symbol;Acc:HGNC:2348]	null	null	21498	-0.7370940446853638	-0.48798117	Yes	
+row_12	ZNF420	zinc finger protein 420 [Source:HGNC Symbol;Acc:HGNC:20649]	null	null	21516	-0.7387357354164124	-0.424932	Yes	
+row_13	BID	BH3 interacting domain death agonist [Source:HGNC Symbol;Acc:HGNC:1050]	null	null	21745	-0.7597867250442505	-0.36910766	Yes	
+row_14	TP53BP2	tumor protein p53 binding protein 2 [Source:HGNC Symbol;Acc:HGNC:12000]	null	null	22191	-0.7965705990791321	-0.319407	Yes	
+row_15	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	null	null	22498	-0.8248810768127441	-0.26130542	Yes	
+row_16	PMAIP1	phorbol-12-myristate-13-acetate-induced protein 1 [Source:HGNC Symbol;Acc:HGNC:9108]	null	null	22606	-0.8354109525680542	-0.19376683	Yes	
+row_17	PRELID1	PRELI domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30255]	null	null	22804	-0.8558182716369629	-0.12832326	Yes	
+row_18	PPP1R13B	protein phosphatase 1 regulatory subunit 13B [Source:HGNC Symbol;Acc:HGNC:14950]	null	null	22869	-0.8629683256149292	-0.056562815	Yes	
+row_19	TRIAP1	TP53 regulated inhibitor of apoptosis 1 [Source:HGNC Symbol;Acc:HGNC:26937]	null	null	23091	-0.895412266254425	0.011270544	Yes	

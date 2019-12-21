@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACSS2	acyl-CoA synthetase short chain family member 2 [Source:HGNC Symbol;Acc:HGNC:15814]	null	null	446	0.8506348729133606	0.03245928	No	
+row_1	ACSM5	acyl-CoA synthetase medium chain family member 5 [Source:HGNC Symbol;Acc:HGNC:26060]	null	null	700	0.8164855241775513	0.07893034	No	
+row_2	ACSM2B	acyl-CoA synthetase medium chain family member 2B [Source:HGNC Symbol;Acc:HGNC:30931]	null	null	2824	0.5293443202972412	-0.062285423	No	
+row_3	SUCLG1	succinate-CoA ligase alpha subunit [Source:HGNC Symbol;Acc:HGNC:11449]	null	null	3440	0.39364033937454224	-0.08300396	No	
+row_4	ACSM3	acyl-CoA synthetase medium chain family member 3 [Source:HGNC Symbol;Acc:HGNC:10522]	null	null	4748	0.008282017894089222	-0.19662632	No	
+row_5	ACSS1	acyl-CoA synthetase short chain family member 1 [Source:HGNC Symbol;Acc:HGNC:16091]	null	null	4925	-0.0502660870552063	-0.20779707	No	
+row_6	SLC27A1	solute carrier family 27 member 1 [Source:HGNC Symbol;Acc:HGNC:10995]	null	null	5837	-0.30326664447784424	-0.26199865	No	
+row_7	SLC27A6	solute carrier family 27 member 6 [Source:HGNC Symbol;Acc:HGNC:11000]	null	null	6167	-0.37356632947921753	-0.25938848	No	
+row_8	ACSL4	acyl-CoA synthetase long chain family member 4 [Source:HGNC Symbol;Acc:HGNC:3571]	null	null	7437	-0.5834553837776184	-0.32136184	No	
+row_9	SLC27A3	solute carrier family 27 member 3 [Source:HGNC Symbol;Acc:HGNC:10997]	null	null	8614	-0.6954880952835083	-0.36578804	No	
+row_10	ACSL3	acyl-CoA synthetase long chain family member 3 [Source:HGNC Symbol;Acc:HGNC:3570]	null	null	9704	-0.7747313976287842	-0.39594677	Yes	
+row_11	AASDH	aminoadipate-semialdehyde dehydrogenase [Source:HGNC Symbol;Acc:HGNC:23993]	null	null	9824	-0.7832174897193909	-0.3405504	Yes	
+row_12	SUCLA2	succinate-CoA ligase ADP-forming beta subunit [Source:HGNC Symbol;Acc:HGNC:11448]	null	null	9929	-0.7906898260116577	-0.2832142	Yes	
+row_13	AACS	acetoacetyl-CoA synthetase [Source:HGNC Symbol;Acc:HGNC:21298]	null	null	9978	-0.7936308979988098	-0.22073281	Yes	
+row_14	ACSBG1	acyl-CoA synthetase bubblegum family member 1 [Source:HGNC Symbol;Acc:HGNC:29567]	null	null	10119	-0.8007495403289795	-0.1657002	Yes	
+row_15	SLC27A5	solute carrier family 27 member 5 [Source:HGNC Symbol;Acc:HGNC:10999]	null	null	10194	-0.8051237463951111	-0.10452731	Yes	
+row_16	SUCLG2	succinate-CoA ligase GDP-forming beta subunit [Source:HGNC Symbol;Acc:HGNC:11450]	null	null	10614	-0.8321083784103394	-0.07126302	Yes	
+row_17	ACSL1	acyl-CoA synthetase long chain family member 1 [Source:HGNC Symbol;Acc:HGNC:3569]	null	null	10721	-0.8389145731925964	-0.01004999	Yes	
+row_18	ACSL5	acyl-CoA synthetase long chain family member 5 [Source:HGNC Symbol;Acc:HGNC:16526]	null	null	11161	-0.878529965877533	0.025365261	Yes	

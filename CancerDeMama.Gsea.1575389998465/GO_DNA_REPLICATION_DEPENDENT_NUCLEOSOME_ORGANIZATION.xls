@@ -1,0 +1,29 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HIST1H4C	histone cluster 1 H4 family member c [Source:HGNC Symbol;Acc:HGNC:4787]	null	null	3	0.9760323762893677	0.048486307	Yes	
+row_1	HIST1H4D	histone cluster 1 H4 family member d [Source:HGNC Symbol;Acc:HGNC:4782]	null	null	6	0.9720510840415955	0.09681719	Yes	
+row_2	HIST1H4E	histone cluster 1 H4 family member e [Source:HGNC Symbol;Acc:HGNC:4790]	null	null	11	0.964266836643219	0.1446746	Yes	
+row_3	HIST1H4B	histone cluster 1 H4 family member b [Source:HGNC Symbol;Acc:HGNC:4789]	null	null	16	0.957683801651001	0.19220412	Yes	
+row_4	ASF1B	anti-silencing function 1B histone chaperone [Source:HGNC Symbol;Acc:HGNC:20996]	null	null	19	0.9559444189071655	0.23973274	Yes	
+row_5	HIST1H4L	histone cluster 1 H4 family member l [Source:HGNC Symbol;Acc:HGNC:4791]	null	null	30	0.9490928649902344	0.28657717	Yes	
+row_6	HIST1H3I	histone cluster 1 H3 family member i [Source:HGNC Symbol;Acc:HGNC:4771]	null	null	79	0.9285191297531128	0.33076778	Yes	
+row_7	HIST1H3F	histone cluster 1 H3 family member f [Source:HGNC Symbol;Acc:HGNC:4773]	null	null	129	0.9119916558265686	0.37409234	Yes	
+row_8	HIST1H3A	histone cluster 1 H3 family member a [Source:HGNC Symbol;Acc:HGNC:4766]	null	null	141	0.9099676012992859	0.4189451	Yes	
+row_9	HIST1H4F	histone cluster 1 H4 family member f [Source:HGNC Symbol;Acc:HGNC:4783]	null	null	516	0.8520819544792175	0.4453533	Yes	
+row_10	HIST1H4H	histone cluster 1 H4 family member h [Source:HGNC Symbol;Acc:HGNC:4788]	null	null	600	0.8437955379486084	0.48382354	Yes	
+row_11	HIST1H3B	histone cluster 1 H3 family member b [Source:HGNC Symbol;Acc:HGNC:4776]	null	null	653	0.8380300402641296	0.5233356	Yes	
+row_12	HIST1H3J	histone cluster 1 H3 family member j [Source:HGNC Symbol;Acc:HGNC:4774]	null	null	892	0.8182434439659119	0.55388844	Yes	
+row_13	HIST1H4A	histone cluster 1 H4 family member a [Source:HGNC Symbol;Acc:HGNC:4781]	null	null	975	0.8128736615180969	0.5908614	Yes	
+row_14	HIST1H4I	histone cluster 1 H4 family member i [Source:HGNC Symbol;Acc:HGNC:4793]	null	null	2053	0.7423290610313416	0.5816662	No	
+row_15	HIST1H3C	histone cluster 1 H3 family member c [Source:HGNC Symbol;Acc:HGNC:4768]	null	null	4326	0.6103867888450623	0.5146709	No	
+row_16	RBBP4	RB binding protein 4, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9887]	null	null	4403	0.6052462458610535	0.5415594	No	
+row_17	IPO4	importin 4 [Source:HGNC Symbol;Acc:HGNC:19426]	null	null	5296	0.5454514622688293	0.53048867	No	
+row_18	HIST1H3E	histone cluster 1 H3 family member e [Source:HGNC Symbol;Acc:HGNC:4769]	null	null	5369	0.540912389755249	0.5543443	No	
+row_19	CHAF1B	chromatin assembly factor 1 subunit B [Source:HGNC Symbol;Acc:HGNC:1911]	null	null	12871	-0.0810481607913971	0.23682249	No	
+row_20	CHAF1A	chromatin assembly factor 1 subunit A [Source:HGNC Symbol;Acc:HGNC:1910]	null	null	12872	-0.08121360838413239	0.24086763	No	
+row_21	HIST1H3H	histone cluster 1 H3 family member h [Source:HGNC Symbol;Acc:HGNC:4775]	null	null	14036	-0.17583689093589783	0.19976945	No	
+row_22	NASP	nuclear autoantigenic sperm protein [Source:HGNC Symbol;Acc:HGNC:7644]	null	null	18784	-0.5315818786621094	0.022748776	No	
+row_23	HIST4H4	histone cluster 4 H4 [Source:HGNC Symbol;Acc:HGNC:20510]	null	null	19815	-0.6074893474578857	0.008852197	No	
+row_24	HAT1	histone acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4821]	null	null	20409	-0.6524156332015991	0.015926994	No	
+row_25	HIST1H4J	histone cluster 1 H4 family member j [Source:HGNC Symbol;Acc:HGNC:4785]	null	null	20520	-0.6620360612869263	0.044186592	No	
+row_26	HIST2H4B	histone cluster 2 H4 family member b [Source:HGNC Symbol;Acc:HGNC:29607]	null	null	20592	-0.6676651835441589	0.07439845	No	
+row_27	ASF1A	anti-silencing function 1A histone chaperone [Source:HGNC Symbol;Acc:HGNC:20995]	null	null	23002	-0.8826215267181396	0.015089806	No	

@@ -1,0 +1,27 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DHCR7	7-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2860]	null	null	72	0.9300202131271362	0.056862652	Yes	
+row_1	NSDHL	NAD(P) dependent steroid dehydrogenase-like [Source:HGNC Symbol;Acc:HGNC:13398]	null	null	606	0.8427541851997375	0.088339336	Yes	
+row_2	MVK	mevalonate kinase [Source:HGNC Symbol;Acc:HGNC:7530]	null	null	698	0.8345123529434204	0.13823113	Yes	
+row_3	CYP26A1	cytochrome P450 family 26 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2603]	null	null	881	0.8189278244972229	0.18321761	Yes	
+row_4	MVD	mevalonate diphosphate decarboxylase [Source:HGNC Symbol;Acc:HGNC:7529]	null	null	1115	0.8031874299049377	0.22500338	Yes	
+row_5	ACLY	ATP citrate lyase [Source:HGNC Symbol;Acc:HGNC:115]	null	null	1125	0.8019182682037354	0.2763091	Yes	
+row_6	FDPS	farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631]	null	null	1394	0.7823582291603088	0.31525192	Yes	
+row_7	CYP51A1	cytochrome P450 family 51 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2649]	null	null	1502	0.7750914692878723	0.36062762	Yes	
+row_8	INSIG1	insulin induced gene 1 [Source:HGNC Symbol;Acc:HGNC:6083]	null	null	1982	0.7472929358482361	0.3882656	Yes	
+row_9	TM7SF2	transmembrane 7 superfamily member 2 [Source:HGNC Symbol;Acc:HGNC:11863]	null	null	2342	0.7251712679862976	0.41962144	Yes	
+row_10	FOXC1	forkhead box C1 [Source:HGNC Symbol;Acc:HGNC:3800]	null	null	2347	0.7248749136924744	0.4661753	Yes	
+row_11	LSS	lanosterol synthase [Source:HGNC Symbol;Acc:HGNC:6708]	null	null	2695	0.7060831189155579	0.4968151	Yes	
+row_12	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	null	null	3709	0.6473286151885986	0.49511942	No	
+row_13	SREBF2	sterol regulatory element binding transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:11290]	null	null	6060	0.48987340927124023	0.42596358	No	
+row_14	ZMAT4	zinc finger matrin-type 4 [Source:HGNC Symbol;Acc:HGNC:25844]	null	null	6903	0.4202440679073334	0.41696003	No	
+row_15	SQLE	squalene epoxidase [Source:HGNC Symbol;Acc:HGNC:11279]	null	null	13116	-0.09995896369218826	0.15712534	No	
+row_16	FGL1	fibrinogen like 1 [Source:HGNC Symbol;Acc:HGNC:3695]	null	null	13291	-0.11282263696193695	0.15693934	No	
+row_17	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	null	null	14233	-0.1914997547864914	0.12894732	No	
+row_18	STARD4	StAR related lipid transfer domain containing 4 [Source:HGNC Symbol;Acc:HGNC:18058]	null	null	14548	-0.21623168885707855	0.12942593	No	
+row_19	ELOVL6	ELOVL fatty acid elongase 6 [Source:HGNC Symbol;Acc:HGNC:15829]	null	null	15024	-0.25206950306892395	0.12531337	No	
+row_20	MSMO1	methylsterol monooxygenase 1 [Source:HGNC Symbol;Acc:HGNC:10545]	null	null	17117	-0.4043737053871155	0.061705425	No	
+row_21	ACAT2	acetyl-CoA acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:94]	null	null	17475	-0.43119049072265625	0.07419705	No	
+row_22	SC5D	sterol-C5-desaturase [Source:HGNC Symbol;Acc:HGNC:10547]	null	null	19372	-0.5734084844589233	0.02988662	No	
+row_23	FDFT1	farnesyl-diphosphate farnesyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:3629]	null	null	20147	-0.6325398087501526	0.037482433	No	
+row_24	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	null	null	21907	-0.7726666331291199	0.011888669	No	
+row_25	AASDH	aminoadipate-semialdehyde dehydrogenase [Source:HGNC Symbol;Acc:HGNC:23993]	null	null	21961	-0.7771373391151428	0.059710953	No	

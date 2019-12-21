@@ -1,0 +1,56 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BIN1	bridging integrator 1 [Source:HGNC Symbol;Acc:HGNC:1052]	null	null	56	0.4690828323364258	0.05168244	Yes	
+row_1	CLEC16A	C-type lectin domain containing 16A [Source:HGNC Symbol;Acc:HGNC:29013]	null	null	167	0.4148416519165039	0.09474532	Yes	
+row_2	VPS41	VPS41 subunit of HOPS complex [Source:HGNC Symbol;Acc:HGNC:12713]	null	null	200	0.4043624699115753	0.14000835	Yes	
+row_3	ATG14	autophagy related 14 [Source:HGNC Symbol;Acc:HGNC:19962]	null	null	338	0.374257355928421	0.1772078	Yes	
+row_4	CACNG7	calcium voltage-gated channel auxiliary subunit gamma 7 [Source:HGNC Symbol;Acc:HGNC:13626]	null	null	434	0.3598792254924774	0.2145839	Yes	
+row_5	TRAK1	trafficking kinesin protein 1 [Source:HGNC Symbol;Acc:HGNC:29947]	null	null	633	0.3313988745212555	0.24417135	Yes	
+row_6	VPS39	VPS39 subunit of HOPS complex [Source:HGNC Symbol;Acc:HGNC:20593]	null	null	1060	0.2930011749267578	0.25936195	Yes	
+row_7	FAM160A2	family with sequence similarity 160 member A2 [Source:HGNC Symbol;Acc:HGNC:25378]	null	null	1197	0.28338125348091125	0.2861184	Yes	
+row_8	STX8	syntaxin 8 [Source:HGNC Symbol;Acc:HGNC:11443]	null	null	1227	0.2809607982635498	0.3172725	Yes	
+row_9	CACNG4	calcium voltage-gated channel auxiliary subunit gamma 4 [Source:HGNC Symbol;Acc:HGNC:1408]	null	null	1230	0.2807862162590027	0.34958667	Yes	
+row_10	TGFBRAP1	transforming growth factor beta receptor associated protein 1 [Source:HGNC Symbol;Acc:HGNC:16836]	null	null	1669	0.25382357835769653	0.35973182	Yes	
+row_11	MGRN1	mahogunin ring finger 1 [Source:HGNC Symbol;Acc:HGNC:20254]	null	null	1829	0.2462606430053711	0.38119936	Yes	
+row_12	CACNG8	calcium voltage-gated channel auxiliary subunit gamma 8 [Source:HGNC Symbol;Acc:HGNC:13628]	null	null	1883	0.24343904852867126	0.40697458	Yes	
+row_13	VAMP7	vesicle associated membrane protein 7 [Source:HGNC Symbol;Acc:HGNC:11486]	null	null	1925	0.24174848198890686	0.4330792	Yes	
+row_14	VPS18	VPS18 core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:15972]	null	null	2264	0.22770053148269653	0.44458088	Yes	
+row_15	HOOK1	hook microtubule tethering protein 1 [Source:HGNC Symbol;Acc:HGNC:19884]	null	null	2552	0.21468493342399597	0.45680985	Yes	
+row_16	RHOB	ras homolog family member B [Source:HGNC Symbol;Acc:HGNC:668]	null	null	2638	0.2113497108221054	0.47748336	Yes	
+row_17	VPS16	VPS16 core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:14584]	null	null	2898	0.20132263004779816	0.48939422	Yes	
+row_18	RAB7A	RAB7A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9788]	null	null	3171	0.1913621574640274	0.49958748	Yes	
+row_19	VPS11	VPS11 core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:14583]	null	null	4362	0.1552148312330246	0.46548358	No	
+row_20	CACNG2	calcium voltage-gated channel auxiliary subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:1406]	null	null	4989	0.13835997879505157	0.45408723	No	
+row_21	SCYL2	SCY1 like pseudokinase 2 [Source:HGNC Symbol;Acc:HGNC:19286]	null	null	5101	0.13518527150154114	0.4648352	No	
+row_22	RILP	Rab interacting lysosomal protein [Source:HGNC Symbol;Acc:HGNC:30266]	null	null	5309	0.1301494687795639	0.4708059	No	
+row_23	VCP	valosin containing protein [Source:HGNC Symbol;Acc:HGNC:12666]	null	null	6647	0.09824441373348236	0.4237025	No	
+row_24	CHMP3	charged multivesicular body protein 3 [Source:HGNC Symbol;Acc:HGNC:29865]	null	null	7026	0.0898110494017601	0.4175439	No	
+row_25	CHMP5	charged multivesicular body protein 5 [Source:HGNC Symbol;Acc:HGNC:26942]	null	null	7229	0.08627723157405853	0.41867048	No	
+row_26	MTM1	myotubularin 1 [Source:HGNC Symbol;Acc:HGNC:7448]	null	null	7642	0.07765378057956696	0.40962285	No	
+row_27	CACNG3	calcium voltage-gated channel auxiliary subunit gamma 3 [Source:HGNC Symbol;Acc:HGNC:1407]	null	null	7915	0.07129960507154465	0.40596136	No	
+row_28	DTX3L	deltex E3 ubiquitin ligase 3L [Source:HGNC Symbol;Acc:HGNC:30323]	null	null	8365	0.06166214495897293	0.39345106	No	
+row_29	CDX2	caudal type homeobox 2 [Source:HGNC Symbol;Acc:HGNC:1806]	null	null	9690	0.03410384804010391	0.33951432	No	
+row_30	SNAPIN	SNAP associated protein [Source:HGNC Symbol;Acc:HGNC:17145]	null	null	9747	0.03293116018176079	0.34086668	No	
+row_31	TSG101	tumor susceptibility 101 [Source:HGNC Symbol;Acc:HGNC:15971]	null	null	9919	0.029233019798994064	0.33676562	No	
+row_32	GPRASP1	G protein-coupled receptor associated sorting protein 1 [Source:HGNC Symbol;Acc:HGNC:24834]	null	null	10075	0.025971023365855217	0.3329875	No	
+row_33	AKTIP	AKT interacting protein [Source:HGNC Symbol;Acc:HGNC:16710]	null	null	10408	0.01956385187804699	0.32073334	No	
+row_34	ADRB2	adrenoceptor beta 2 [Source:HGNC Symbol;Acc:HGNC:286]	null	null	11117	0.00554701779037714	0.29042667	No	
+row_35	SORT1	sortilin 1 [Source:HGNC Symbol;Acc:HGNC:11186]	null	null	11531	-0.0022648433223366737	0.27263576	No	
+row_36	TRAK2	trafficking kinesin protein 2 [Source:HGNC Symbol;Acc:HGNC:13206]	null	null	11799	-0.007753823418170214	0.2618599	No	
+row_37	HOOK3	hook microtubule tethering protein 3 [Source:HGNC Symbol;Acc:HGNC:23576]	null	null	11934	-0.01037315558642149	0.25719976	No	
+row_38	M6PR	mannose-6-phosphate receptor, cation dependent [Source:HGNC Symbol;Acc:HGNC:6752]	null	null	12384	-0.019007310271263123	0.23976728	No	
+row_39	UBXN6	UBX domain protein 6 [Source:HGNC Symbol;Acc:HGNC:14928]	null	null	13487	-0.04043996334075928	0.19626534	No	
+row_40	KIF13A	kinesin family member 13A [Source:HGNC Symbol;Acc:HGNC:14566]	null	null	13927	-0.04909389093518257	0.18274184	No	
+row_41	LYST	lysosomal trafficking regulator [Source:HGNC Symbol;Acc:HGNC:1968]	null	null	14039	-0.05133975297212601	0.1838144	No	
+row_42	HOOK2	hook microtubule tethering protein 2 [Source:HGNC Symbol;Acc:HGNC:19885]	null	null	14123	-0.052985675632953644	0.1863008	No	
+row_43	CACNG5	calcium voltage-gated channel auxiliary subunit gamma 5 [Source:HGNC Symbol;Acc:HGNC:1409]	null	null	14614	-0.0628819540143013	0.17213915	No	
+row_44	VIPAS39	VPS33B interacting protein, apical-basolateral polarity regulator, spe-39 homolog [Source:HGNC Symbol;Acc:HGNC:20347]	null	null	14772	-0.06613536924123764	0.17290841	No	
+row_45	RAB7B	RAB7B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:30513]	null	null	16072	-0.09483232349157333	0.12707223	No	
+row_46	DENND3	DENN domain containing 3 [Source:HGNC Symbol;Acc:HGNC:29134]	null	null	16803	-0.11091543734073639	0.10796302	No	
+row_47	SNX27	sorting nexin family member 27 [Source:HGNC Symbol;Acc:HGNC:20073]	null	null	16916	-0.11351914703845978	0.11616713	No	
+row_48	AP3D1	adaptor related protein complex 3 subunit delta 1 [Source:HGNC Symbol;Acc:HGNC:568]	null	null	17186	-0.11994616687297821	0.11825039	No	
+row_49	CHMP2B	charged multivesicular body protein 2B [Source:HGNC Symbol;Acc:HGNC:24537]	null	null	17367	-0.12425582855939865	0.12472118	No	
+row_50	VPS33A	VPS33A core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:18179]	null	null	17498	-0.12760336697101593	0.13376376	No	
+row_51	VPS4B	vacuolar protein sorting 4 homolog B [Source:HGNC Symbol;Acc:HGNC:10895]	null	null	17593	-0.13008245825767517	0.14466599	No	
+row_52	SNX16	sorting nexin 16 [Source:HGNC Symbol;Acc:HGNC:14980]	null	null	20260	-0.21772752702236176	0.053259667	No	
+row_53	RAB12	RAB12, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:31332]	null	null	20945	-0.25219571590423584	0.05246428	No	
+row_54	HMGXB4	HMG-box containing 4 [Source:HGNC Symbol;Acc:HGNC:5003]	null	null	21693	-0.2976195812225342	0.05415689	No	

@@ -1,0 +1,42 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAP1LC3B	microtubule associated protein 1 light chain 3 beta [Source:HGNC Symbol;Acc:HGNC:13352]	null	null	86	0.44795140624046326	0.05153225	Yes	
+row_1	AC034102.1	RAB5B, member RAS oncogene family [Source:NCBI gene;Acc:5869]	null	null	135	0.42417988181114197	0.101790436	Yes	
+row_2	SYTL1	synaptotagmin like 1 [Source:HGNC Symbol;Acc:HGNC:15584]	null	null	152	0.4188302159309387	0.1527862	Yes	
+row_3	GGA3	golgi associated, gamma adaptin ear containing, ARF binding protein 3 [Source:HGNC Symbol;Acc:HGNC:17079]	null	null	203	0.4032564163208008	0.20037451	Yes	
+row_4	TBC1D14	TBC1 domain family member 14 [Source:HGNC Symbol;Acc:HGNC:29246]	null	null	221	0.3989623486995697	0.24887438	Yes	
+row_5	TSC2	TSC complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:12363]	null	null	402	0.36408475041389465	0.28594902	Yes	
+row_6	TBC1D20	TBC1 domain family member 20 [Source:HGNC Symbol;Acc:HGNC:16133]	null	null	1051	0.29398635029792786	0.29392788	Yes	
+row_7	TBC1D13	TBC1 domain family member 13 [Source:HGNC Symbol;Acc:HGNC:25571]	null	null	1083	0.2916310131549835	0.32856864	Yes	
+row_8	GGA2	golgi associated, gamma adaptin ear containing, ARF binding protein 2 [Source:HGNC Symbol;Acc:HGNC:16064]	null	null	1142	0.28738319873809814	0.3615057	Yes	
+row_9	GGA1	golgi associated, gamma adaptin ear containing, ARF binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17842]	null	null	1256	0.27846840023994446	0.3909398	Yes	
+row_10	RAB8B	RAB8B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:30273]	null	null	1307	0.27496349811553955	0.42269337	Yes	
+row_11	RABEP1	rabaptin, RAB GTPase binding effector protein 1 [Source:HGNC Symbol;Acc:HGNC:17677]	null	null	1422	0.26765176653862	0.45074877	Yes	
+row_12	TBC1D10A	TBC1 domain family member 10A [Source:HGNC Symbol;Acc:HGNC:23609]	null	null	1709	0.2517963945865631	0.46933365	Yes	
+row_13	RAB11B	RAB11B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9761]	null	null	2077	0.23547197878360748	0.48236528	Yes	
+row_14	TBC1D3	TBC1 domain family member 3 [Source:HGNC Symbol;Acc:HGNC:19031]	null	null	2849	0.20313933491706848	0.47375816	Yes	
+row_15	RAB5C	RAB5C, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9785]	null	null	3056	0.19557057321071625	0.48889795	Yes	
+row_16	RAB7A	RAB7A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9788]	null	null	3171	0.1913621574640274	0.5075372	Yes	
+row_17	TBC1D10C	TBC1 domain family member 10C [Source:HGNC Symbol;Acc:HGNC:24702]	null	null	3234	0.1893947571516037	0.5282051	Yes	
+row_18	RAB33B	RAB33B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:16075]	null	null	3791	0.17227648198604584	0.52518064	No	
+row_19	RAB6B	RAB6B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:14902]	null	null	5879	0.1157398596405983	0.44829875	No	
+row_20	ULK1	unc-51 like autophagy activating kinase 1 [Source:HGNC Symbol;Acc:HGNC:12558]	null	null	6434	0.1029161587357521	0.43680072	No	
+row_21	RAB4A	RAB4A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9781]	null	null	7200	0.08675113320350647	0.41409034	No	
+row_22	TBC1D16	TBC1 domain family member 16 [Source:HGNC Symbol;Acc:HGNC:28356]	null	null	7565	0.07914695888757706	0.4079584	No	
+row_23	TBC1D10B	TBC1 domain family member 10B [Source:HGNC Symbol;Acc:HGNC:24510]	null	null	8839	0.05122458562254906	0.3586719	No	
+row_24	TBC1D25	TBC1 domain family member 25 [Source:HGNC Symbol;Acc:HGNC:8092]	null	null	8942	0.049026891589164734	0.36026743	No	
+row_25	GABARAPL2	GABA type A receptor associated protein like 2 [Source:HGNC Symbol;Acc:HGNC:13291]	null	null	9818	0.03132804483175278	0.32591116	No	
+row_26	TSC1	TSC complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:12362]	null	null	9980	0.028006160631775856	0.32233483	No	
+row_27	RAB5A	RAB5A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9783]	null	null	10588	0.0161290280520916	0.29780978	No	
+row_28	RAB8A	RAB8A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:7007]	null	null	11648	-0.004552930127829313	0.25211102	No	
+row_29	TBC1D7	TBC1 domain family member 7 [Source:HGNC Symbol;Acc:HGNC:21066]	null	null	12913	-0.029319465160369873	0.20051402	No	
+row_30	RABGAP1	RAB GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:17155]	null	null	14187	-0.054475195705890656	0.15162875	No	
+row_31	RAB6A	RAB6A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9786]	null	null	14944	-0.06991219520568848	0.12723312	No	
+row_32	RAB7B	RAB7B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:30513]	null	null	16072	-0.09483232349157333	0.089706756	No	
+row_33	TBC1D15	TBC1 domain family member 15 [Source:HGNC Symbol;Acc:HGNC:25694]	null	null	17946	-0.1399867683649063	0.025165843	No	
+row_34	RAB11A	RAB11A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9760]	null	null	18133	-0.14509998261928558	0.0349499	No	
+row_35	TBC1D24	TBC1 domain family member 24 [Source:HGNC Symbol;Acc:HGNC:29203]	null	null	18328	-0.15038524568080902	0.04503683	No	
+row_36	OPTN	optineurin [Source:HGNC Symbol;Acc:HGNC:17142]	null	null	18909	-0.1684153825044632	0.040487368	No	
+row_37	ARF6	ADP ribosylation factor 6 [Source:HGNC Symbol;Acc:HGNC:659]	null	null	19193	-0.1769380122423172	0.04996379	No	
+row_38	RAB35	RAB35, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9774]	null	null	19492	-0.1868780255317688	0.06001182	No	
+row_39	TBC1D2	TBC1 domain family member 2 [Source:HGNC Symbol;Acc:HGNC:18026]	null	null	22009	-0.32331299781799316	-0.009990217	No	
+row_40	RAB33A	RAB33A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9773]	null	null	22610	-0.4072574973106384	0.014066074	No	

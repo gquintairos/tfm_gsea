@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	VPS41	VPS41 subunit of HOPS complex [Source:HGNC Symbol;Acc:HGNC:12713]	null	null	200	0.4043624699115753	0.14285497	Yes	
+row_1	UVRAG	UV radiation resistance associated [Source:HGNC Symbol;Acc:HGNC:12640]	null	null	404	0.3637874126434326	0.27036867	Yes	
+row_2	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	null	null	600	0.33627745509147644	0.38791886	Yes	
+row_3	VAMP7	vesicle associated membrane protein 7 [Source:HGNC Symbol;Acc:HGNC:11486]	null	null	1925	0.24174848198890686	0.4207618	Yes	
+row_4	VPS18	VPS18 core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:15972]	null	null	2264	0.22770053148269653	0.49136904	Yes	
+row_5	CLTRN	collectrin, amino acid transport regulator [Source:HGNC Symbol;Acc:HGNC:29437]	null	null	2750	0.20692040026187897	0.54777116	Yes	
+row_6	VPS16	VPS16 core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:14584]	null	null	2898	0.20132263004779816	0.6168256	Yes	
+row_7	VPS11	VPS11 core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:14583]	null	null	4362	0.1552148312330246	0.61116356	No	
+row_8	VAMP4	vesicle associated membrane protein 4 [Source:HGNC Symbol;Acc:HGNC:12645]	null	null	7568	0.07906185835599899	0.5009306	No	
+row_9	ANKRD27	ankyrin repeat domain 27 [Source:HGNC Symbol;Acc:HGNC:25310]	null	null	9101	0.045720361173152924	0.4512111	No	
+row_10	PRRT2	proline rich transmembrane protein 2 [Source:HGNC Symbol;Acc:HGNC:30500]	null	null	9437	0.039301302284002304	0.4513241	No	
+row_11	TRIM9	tripartite motif containing 9 [Source:HGNC Symbol;Acc:HGNC:16288]	null	null	10232	0.023077623918652534	0.4253239	No	
+row_12	SNCA	synuclein alpha [Source:HGNC Symbol;Acc:HGNC:11138]	null	null	11294	0.0022099586203694344	0.37984878	No	
+row_13	VAMP3	vesicle associated membrane protein 3 [Source:HGNC Symbol;Acc:HGNC:12644]	null	null	11448	-7.386825163848698E-4	0.37344855	No	
+row_14	STX1A	syntaxin 1A [Source:HGNC Symbol;Acc:HGNC:11433]	null	null	13007	-0.031172746792435646	0.3171409	No	
+row_15	STXBP1	syntaxin binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11444]	null	null	13301	-0.036597661674022675	0.3180733	No	
+row_16	SEPT8	septin 8 [Source:HGNC Symbol;Acc:HGNC:16511]	null	null	13848	-0.04733075946569443	0.31198797	No	
+row_17	VAMP1	vesicle associated membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:12642]	null	null	14475	-0.06000003218650818	0.30716062	No	
+row_18	STXBP6	syntaxin binding protein 6 [Source:HGNC Symbol;Acc:HGNC:19666]	null	null	18791	-0.16504798829555511	0.1807193	No	

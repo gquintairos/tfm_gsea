@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LGALS12	galectin 12 [Source:HGNC Symbol;Acc:HGNC:15788]	null	null	544	0.8498531579971313	0.15245962	Yes	
+row_1	CHID1	chitinase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28474]	null	null	976	0.8128600716590881	0.30210978	Yes	
+row_2	LOXL2	lysyl oxidase like 2 [Source:HGNC Symbol;Acc:HGNC:6666]	null	null	1892	0.7522526979446411	0.41848812	Yes	
+row_3	LGALS1	galectin 1 [Source:HGNC Symbol;Acc:HGNC:6561]	null	null	2955	0.6907299757003784	0.5158441	Yes	
+row_4	REG1A	regenerating family member 1 alpha [Source:HGNC Symbol;Acc:HGNC:9951]	null	null	4715	0.5863738656044006	0.56175417	Yes	
+row_5	SELP	selectin P [Source:HGNC Symbol;Acc:HGNC:10721]	null	null	9657	0.1861862987279892	0.3885647	No	
+row_6	REG1B	regenerating family member 1 beta [Source:HGNC Symbol;Acc:HGNC:9952]	null	null	10407	0.12374378740787506	0.38206667	No	
+row_7	COLEC11	collectin subfamily member 11 [Source:HGNC Symbol;Acc:HGNC:17213]	null	null	10638	0.10493483394384384	0.39391503	No	
+row_8	ITLN1	intelectin 1 [Source:HGNC Symbol;Acc:HGNC:18259]	null	null	11211	0.057446449995040894	0.38128886	No	
+row_9	REG3A	regenerating family member 3 alpha [Source:HGNC Symbol;Acc:HGNC:8601]	null	null	11942	-0.003506978042423725	0.3507374	No	
+row_10	LGALS9	galectin 9 [Source:HGNC Symbol;Acc:HGNC:6570]	null	null	11957	-0.004788816906511784	0.351128	No	
+row_11	SELL	selectin L [Source:HGNC Symbol;Acc:HGNC:10720]	null	null	12074	-0.015238838270306587	0.3493097	No	
+row_12	LGALS16	galectin 16 [Source:HGNC Symbol;Acc:HGNC:40039]	null	null	13050	-0.09487785398960114	0.32715863	No	
+row_13	REG3G	regenerating family member 3 gamma [Source:HGNC Symbol;Acc:HGNC:29595]	null	null	14506	-0.21331726014614105	0.30893773	No	
+row_14	SELE	selectin E [Source:HGNC Symbol;Acc:HGNC:10718]	null	null	16200	-0.33899420499801636	0.30651233	No	

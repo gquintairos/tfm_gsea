@@ -1,0 +1,36 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	METRNL	meteorin like, glial cell differentiation regulator [Source:HGNC Symbol;Acc:HGNC:27584]	null	null	54	0.9379158616065979	0.038256913	Yes	
+row_1	ADIRF	adipogenesis regulatory factor [Source:HGNC Symbol;Acc:HGNC:24043]	null	null	276	0.8785631656646729	0.059166253	Yes	
+row_2	RARRES2	retinoic acid receptor responder 2 [Source:HGNC Symbol;Acc:HGNC:9868]	null	null	305	0.8736751675605774	0.09675618	Yes	
+row_3	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	null	null	319	0.8715267777442932	0.13556148	Yes	
+row_4	HNRNPU	heterogeneous nuclear ribonucleoprotein U [Source:HGNC Symbol;Acc:HGNC:5048]	null	null	375	0.8614208102226257	0.17022488	Yes	
+row_5	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	null	null	457	0.8493513464927673	0.20205778	Yes	
+row_6	CEBPB	CCAAT enhancer binding protein beta [Source:HGNC Symbol;Acc:HGNC:1834]	null	null	477	0.8468270301818848	0.23920551	Yes	
+row_7	CARM1	coactivator associated arginine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:23393]	null	null	495	0.8439353108406067	0.27639586	Yes	
+row_8	TRPM4	transient receptor potential cation channel subfamily M member 4 [Source:HGNC Symbol;Acc:HGNC:17993]	null	null	550	0.8364737629890442	0.31000346	Yes	
+row_9	CMKLR1	chemerin chemokine-like receptor 1 [Source:HGNC Symbol;Acc:HGNC:2121]	null	null	676	0.8190666437149048	0.33659446	Yes	
+row_10	STK4	serine/threonine kinase 4 [Source:HGNC Symbol;Acc:HGNC:11408]	null	null	703	0.815963089466095	0.3717145	Yes	
+row_11	PPARD	peroxisome proliferator activated receptor delta [Source:HGNC Symbol;Acc:HGNC:9235]	null	null	1206	0.7515338659286499	0.3621894	No	
+row_12	ID2	inhibitor of DNA binding 2 [Source:HGNC Symbol;Acc:HGNC:5361]	null	null	1593	0.7070689797401428	0.36078668	No	
+row_13	SYAP1	synapse associated protein 1 [Source:HGNC Symbol;Acc:HGNC:16273]	null	null	1859	0.6758834719657898	0.36855286	No	
+row_14	AAMDC	adipogenesis associated Mth938 domain containing [Source:HGNC Symbol;Acc:HGNC:30205]	null	null	3303	0.42743149399757385	0.2617525	No	
+row_15	LRP5	LDL receptor related protein 5 [Source:HGNC Symbol;Acc:HGNC:6697]	null	null	3751	0.3062095642089844	0.23663458	No	
+row_16	NOCT	nocturnin [Source:HGNC Symbol;Acc:HGNC:14254]	null	null	3786	0.29685041308403015	0.24726187	No	
+row_17	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	null	null	3929	0.2605999708175659	0.24676813	No	
+row_18	TPH1	tryptophan hydroxylase 1 [Source:HGNC Symbol;Acc:HGNC:12008]	null	null	4434	0.10494546592235565	0.20743331	No	
+row_19	ADIG	adipogenin [Source:HGNC Symbol;Acc:HGNC:28606]	null	null	5000	-0.07464217394590378	0.16136672	No	
+row_20	STK3	serine/threonine kinase 3 [Source:HGNC Symbol;Acc:HGNC:11406]	null	null	5644	-0.25902384519577026	0.11691881	No	
+row_21	WNT5B	Wnt family member 5B [Source:HGNC Symbol;Acc:HGNC:16265]	null	null	5778	-0.2874588966369629	0.118444376	No	
+row_22	PTGS2	prostaglandin-endoperoxide synthase 2 [Source:HGNC Symbol;Acc:HGNC:9605]	null	null	6165	-0.37305307388305664	0.10173297	No	
+row_23	ZNF385A	zinc finger protein 385A [Source:HGNC Symbol;Acc:HGNC:17521]	null	null	6171	-0.37598296999931335	0.11852714	No	
+row_24	ZFP36L1	ZFP36 ring finger protein like 1 [Source:HGNC Symbol;Acc:HGNC:1107]	null	null	6842	-0.4968074560165405	0.08261247	No	
+row_25	XBP1	X-box binding protein 1 [Source:HGNC Symbol;Acc:HGNC:12801]	null	null	7775	-0.6191784143447876	0.029358098	No	
+row_26	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	null	null	8154	-0.6547472476959229	0.026258051	No	
+row_27	ASXL2	ASXL transcriptional regulator 2 [Source:HGNC Symbol;Acc:HGNC:23805]	null	null	8162	-0.6556122899055481	0.05569305	No	
+row_28	ZFP36	ZFP36 ring finger protein [Source:HGNC Symbol;Acc:HGNC:12862]	null	null	8356	-0.6735242009162903	0.0696575	No	
+row_29	TMEM64	transmembrane protein 64 [Source:HGNC Symbol;Acc:HGNC:25441]	null	null	8484	-0.6841796040534973	0.08989116	No	
+row_30	WDFY2	WD repeat and FYVE domain containing 2 [Source:HGNC Symbol;Acc:HGNC:20482]	null	null	8603	-0.6947107315063477	0.111395776	No	
+row_31	ZC3H12A	zinc finger CCCH-type containing 12A [Source:HGNC Symbol;Acc:HGNC:26259]	null	null	8654	-0.6988334655761719	0.13904539	No	
+row_32	HTR2A	5-hydroxytryptamine receptor 2A [Source:HGNC Symbol;Acc:HGNC:5293]	null	null	8670	-0.7001417875289917	0.16982056	No	
+row_33	CCDC71	coiled-coil domain containing 71 [Source:HGNC Symbol;Acc:HGNC:25760]	null	null	9004	-0.7257355451583862	0.17391555	No	
+row_34	SAV1	salvador family WW domain containing protein 1 [Source:HGNC Symbol;Acc:HGNC:17795]	null	null	11168	-0.8798701763153076	0.024787566	No	

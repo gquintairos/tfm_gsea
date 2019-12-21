@@ -1,0 +1,19 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CUX1	cut like homeobox 1 [Source:HGNC Symbol;Acc:HGNC:2557]	null	null	1397	0.7822719216346741	0.026149722	No	
+row_1	FGFR1OP2	FGFR1 oncogene partner 2 [Source:HGNC Symbol;Acc:HGNC:23098]	null	null	2414	0.7207993268966675	0.061866462	No	
+row_2	STAT1	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	null	null	7986	0.3351670205593109	-0.14000115	No	
+row_3	BCR	BCR activator of RhoGEF and GTPase [Source:HGNC Symbol;Acc:HGNC:1014]	null	null	8258	0.31022733449935913	-0.11750374	No	
+row_4	MYO18A	myosin XVIIIA [Source:HGNC Symbol;Acc:HGNC:31104]	null	null	10792	0.09137536585330963	-0.215997	No	
+row_5	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	null	null	10993	0.07519278675317764	-0.21629953	No	
+row_6	STAT5A	signal transducer and activator of transcription 5A [Source:HGNC Symbol;Acc:HGNC:11366]	null	null	11403	0.04031628370285034	-0.22939253	No	
+row_7	LRRFIP1	LRR binding FLII interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:6702]	null	null	12338	-0.03617247939109802	-0.2654376	No	
+row_8	STAT5B	signal transducer and activator of transcription 5B [Source:HGNC Symbol;Acc:HGNC:11367]	null	null	17655	-0.44489923119544983	-0.44431317	No	
+row_9	FGFR1OP	FGFR1 oncogene partner [Source:HGNC Symbol;Acc:HGNC:17012]	null	null	19306	-0.5688804388046265	-0.45246726	Yes	
+row_10	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	null	null	19379	-0.5738015174865723	-0.3924623	Yes	
+row_11	CPSF6	cleavage and polyadenylation specific factor 6 [Source:HGNC Symbol;Acc:HGNC:13871]	null	null	19399	-0.5749134421348572	-0.33006406	Yes	
+row_12	GAB2	GRB2 associated binding protein 2 [Source:HGNC Symbol;Acc:HGNC:14458]	null	null	19919	-0.6146592497825623	-0.2847209	Yes	
+row_13	CNTRL	centriolin [Source:HGNC Symbol;Acc:HGNC:1858]	null	null	20273	-0.6418431997299194	-0.22927564	Yes	
+row_14	TRIM24	tripartite motif containing 24 [Source:HGNC Symbol;Acc:HGNC:11812]	null	null	20953	-0.6937983632087708	-0.18208711	Yes	
+row_15	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	null	null	22236	-0.8013607263565063	-0.14891075	Yes	
+row_16	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	null	null	22382	-0.8143410086631775	-0.065586284	Yes	
+row_17	ZMYM2	zinc finger MYM-type containing 2 [Source:HGNC Symbol;Acc:HGNC:12989]	null	null	23348	-0.9749229550361633	2.5703365E-4	Yes	

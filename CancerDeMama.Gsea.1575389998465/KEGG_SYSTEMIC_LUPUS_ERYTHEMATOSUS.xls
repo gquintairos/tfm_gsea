@@ -1,0 +1,123 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HIST1H4C	histone cluster 1 H4 family member c [Source:HGNC Symbol;Acc:HGNC:4787]	null	null	3	0.9760323762893677	0.015250432	Yes	
+row_1	HIST1H4D	histone cluster 1 H4 family member d [Source:HGNC Symbol;Acc:HGNC:4782]	null	null	6	0.9720510840415955	0.030481173	Yes	
+row_2	HIST1H2AE	histone cluster 1 H2A family member e [Source:HGNC Symbol;Acc:HGNC:4724]	null	null	8	0.9669224619865417	0.04567414	Yes	
+row_3	HIST1H4E	histone cluster 1 H4 family member e [Source:HGNC Symbol;Acc:HGNC:4790]	null	null	11	0.964266836643219	0.060782224	Yes	
+row_4	HIST1H4B	histone cluster 1 H4 family member b [Source:HGNC Symbol;Acc:HGNC:4789]	null	null	16	0.957683801651001	0.07570049	Yes	
+row_5	HIST1H4L	histone cluster 1 H4 family member l [Source:HGNC Symbol;Acc:HGNC:4791]	null	null	30	0.9490928649902344	0.09009601	Yes	
+row_6	HIST1H2BH	histone cluster 1 H2B family member h [Source:HGNC Symbol;Acc:HGNC:4755]	null	null	53	0.9355729818344116	0.10389111	Yes	
+row_7	HIST1H2BM	histone cluster 1 H2B family member m [Source:HGNC Symbol;Acc:HGNC:4750]	null	null	69	0.9308831095695496	0.11791361	Yes	
+row_8	HIST1H3I	histone cluster 1 H3 family member i [Source:HGNC Symbol;Acc:HGNC:4771]	null	null	79	0.9285191297531128	0.13215712	Yes	
+row_9	HIST1H2BF	histone cluster 1 H2B family member f [Source:HGNC Symbol;Acc:HGNC:4752]	null	null	121	0.9148306846618652	0.14480758	Yes	
+row_10	HIST1H3F	histone cluster 1 H3 family member f [Source:HGNC Symbol;Acc:HGNC:4773]	null	null	129	0.9119916558265686	0.15887673	Yes	
+row_11	HIST1H3A	histone cluster 1 H3 family member a [Source:HGNC Symbol;Acc:HGNC:4766]	null	null	141	0.9099676012992859	0.17274183	Yes	
+row_12	HIST1H2AL	histone cluster 1 H2A family member l [Source:HGNC Symbol;Acc:HGNC:4730]	null	null	145	0.9096855521202087	0.18694682	Yes	
+row_13	HIST1H2BI	histone cluster 1 H2B family member i [Source:HGNC Symbol;Acc:HGNC:4756]	null	null	185	0.9020419120788574	0.19948184	Yes	
+row_14	HIST1H2AD	histone cluster 1 H2A family member d [Source:HGNC Symbol;Acc:HGNC:4729]	null	null	203	0.8981859087944031	0.21290304	Yes	
+row_15	HIST1H2BC	histone cluster 1 H2B family member c [Source:HGNC Symbol;Acc:HGNC:4757]	null	null	272	0.8839132785797119	0.22390419	Yes	
+row_16	HIST1H2AH	histone cluster 1 H2A family member h [Source:HGNC Symbol;Acc:HGNC:13671]	null	null	279	0.8825230598449707	0.23755205	Yes	
+row_17	HIST1H2BE	histone cluster 1 H2B family member e [Source:HGNC Symbol;Acc:HGNC:4753]	null	null	335	0.8748018145561218	0.24896917	Yes	
+row_18	SNRPB	small nuclear ribonucleoprotein polypeptides B and B1 [Source:HGNC Symbol;Acc:HGNC:11153]	null	null	393	0.8680177927017212	0.26019332	Yes	
+row_19	H2BFM	H2B histone family member M [Source:HGNC Symbol;Acc:HGNC:27867]	null	null	466	0.8579244613647461	0.27061278	Yes	
+row_20	HIST2H3D	histone cluster 2 H3 family member d [Source:HGNC Symbol;Acc:HGNC:25311]	null	null	503	0.8539852499961853	0.2825197	Yes	
+row_21	HIST1H2BL	histone cluster 1 H2B family member l [Source:HGNC Symbol;Acc:HGNC:4748]	null	null	504	0.8538356423377991	0.29597378	Yes	
+row_22	HIST1H4F	histone cluster 1 H4 family member f [Source:HGNC Symbol;Acc:HGNC:4783]	null	null	516	0.8520819544792175	0.30892676	Yes	
+row_23	HIST1H4H	histone cluster 1 H4 family member h [Source:HGNC Symbol;Acc:HGNC:4788]	null	null	600	0.8437955379486084	0.31865013	Yes	
+row_24	HIST1H2BG	histone cluster 1 H2B family member g [Source:HGNC Symbol;Acc:HGNC:4746]	null	null	623	0.8415336012840271	0.33096343	Yes	
+row_25	HIST1H3B	histone cluster 1 H3 family member b [Source:HGNC Symbol;Acc:HGNC:4776]	null	null	653	0.8380300402641296	0.3429202	Yes	
+row_26	H2AFX	H2A histone family member X [Source:HGNC Symbol;Acc:HGNC:4739]	null	null	655	0.8378352522850037	0.35607913	Yes	
+row_27	HIST1H2BJ	histone cluster 1 H2B family member j [Source:HGNC Symbol;Acc:HGNC:4761]	null	null	890	0.8183379769325256	0.35890198	Yes	
+row_28	HIST1H3J	histone cluster 1 H3 family member j [Source:HGNC Symbol;Acc:HGNC:4774]	null	null	892	0.8182434439659119	0.3717522	Yes	
+row_29	HIST2H2AB	histone cluster 2 H2A family member b [Source:HGNC Symbol;Acc:HGNC:20508]	null	null	966	0.8133367300033569	0.38142604	Yes	
+row_30	HIST1H4A	histone cluster 1 H4 family member a [Source:HGNC Symbol;Acc:HGNC:4781]	null	null	975	0.8128736615180969	0.39389032	Yes	
+row_31	H3F3A	H3 histone family member 3A [Source:HGNC Symbol;Acc:HGNC:4764]	null	null	1013	0.8100914359092712	0.40506256	Yes	
+row_32	H2AFZ	H2A histone family member Z [Source:HGNC Symbol;Acc:HGNC:4741]	null	null	1026	0.8090826272964478	0.41729495	Yes	
+row_33	HIST1H2BK	histone cluster 1 H2B family member k [Source:HGNC Symbol;Acc:HGNC:13954]	null	null	1047	0.808078408241272	0.42916718	Yes	
+row_34	HIST3H2A	histone cluster 3 H2A [Source:HGNC Symbol;Acc:HGNC:20507]	null	null	1373	0.7836111783981323	0.427526	Yes	
+row_35	C7	complement C7 [Source:HGNC Symbol;Acc:HGNC:1346]	null	null	1410	0.7815052270889282	0.4382908	Yes	
+row_36	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	null	null	1451	0.7788161039352417	0.4488411	Yes	
+row_37	H3F3C	H3 histone family member 3C [Source:HGNC Symbol;Acc:HGNC:33164]	null	null	1491	0.7764222025871277	0.45939672	Yes	
+row_38	HIST1H2AC	histone cluster 1 H2A family member c [Source:HGNC Symbol;Acc:HGNC:4733]	null	null	1579	0.7709450721740723	0.4678	Yes	
+row_39	HIST1H4I	histone cluster 1 H4 family member i [Source:HGNC Symbol;Acc:HGNC:4793]	null	null	2053	0.7423290610313416	0.45913807	Yes	
+row_40	H2AFY	H2A histone family member Y [Source:HGNC Symbol;Acc:HGNC:4740]	null	null	2613	0.710874617099762	0.44627887	Yes	
+row_41	HIST2H2BE	histone cluster 2 H2B family member e [Source:HGNC Symbol;Acc:HGNC:4760]	null	null	2649	0.7082499265670776	0.45593244	Yes	
+row_42	HIST1H2BO	histone cluster 1 H2B family member o [Source:HGNC Symbol;Acc:HGNC:4758]	null	null	3372	0.666696310043335	0.43536124	Yes	
+row_43	HIST2H2AA3	histone cluster 2 H2A family member a3 [Source:HGNC Symbol;Acc:HGNC:4736]	null	null	3436	0.6631917953491211	0.44309965	Yes	
+row_44	HLA-DRB3	major histocompatibility complex, class II, DR beta 3 [Source:HGNC Symbol;Acc:HGNC:4951]	null	null	3477	0.6611547470092773	0.4517959	Yes	
+row_45	ELANE	elastase, neutrophil expressed [Source:HGNC Symbol;Acc:HGNC:3309]	null	null	3633	0.6521885395050049	0.45540103	Yes	
+row_46	HIST1H2AK	histone cluster 1 H2A family member k [Source:HGNC Symbol;Acc:HGNC:4726]	null	null	3721	0.646540105342865	0.46184406	Yes	
+row_47	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	null	null	3782	0.6429495811462402	0.46939263	Yes	
+row_48	GRIN2A	glutamate ionotropic receptor NMDA type subunit 2A [Source:HGNC Symbol;Acc:HGNC:4585]	null	null	4220	0.6167576313018799	0.46030155	Yes	
+row_49	HIST1H3C	histone cluster 1 H3 family member c [Source:HGNC Symbol;Acc:HGNC:4768]	null	null	4326	0.6103867888450623	0.46540013	Yes	
+row_50	HIST1H2BN	histone cluster 1 H2B family member n [Source:HGNC Symbol;Acc:HGNC:4749]	null	null	4491	0.5997670292854309	0.46779186	Yes	
+row_51	FCGR2B	Fc fragment of IgG receptor IIb [Source:HGNC Symbol;Acc:HGNC:3618]	null	null	4793	0.5800434947013855	0.46397603	Yes	
+row_52	HIST1H3E	histone cluster 1 H3 family member e [Source:HGNC Symbol;Acc:HGNC:4769]	null	null	5369	0.540912389755249	0.44775	Yes	
+row_53	HIST1H2AJ	histone cluster 1 H2A family member j [Source:HGNC Symbol;Acc:HGNC:4727]	null	null	5493	0.533008873462677	0.45085457	Yes	
+row_54	H2AFB1	H2A histone family member B1 [Source:HGNC Symbol;Acc:HGNC:22516]	null	null	5546	0.5282939672470093	0.4569408	Yes	
+row_55	HIST2H2BF	histone cluster 2 H2B family member f [Source:HGNC Symbol;Acc:HGNC:24700]	null	null	5643	0.5210294127464294	0.46101874	Yes	
+row_56	HIST1H2AB	histone cluster 1 H2A family member b [Source:HGNC Symbol;Acc:HGNC:4734]	null	null	5660	0.5203566551208496	0.46852943	Yes	
+row_57	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	null	null	5714	0.5175362229347229	0.4744031	Yes	
+row_58	CTSG	cathepsin G [Source:HGNC Symbol;Acc:HGNC:2532]	null	null	5849	0.5053853392601013	0.47659895	Yes	
+row_59	C4A	complement C4A (Rodgers blood group) [Source:HGNC Symbol;Acc:HGNC:1323]	null	null	5972	0.49613621830940247	0.47916552	Yes	
+row_60	IL10	interleukin 10 [Source:HGNC Symbol;Acc:HGNC:5962]	null	null	6017	0.49288395047187805	0.48503813	Yes	
+row_61	HIST1H2AI	histone cluster 1 H2A family member i [Source:HGNC Symbol;Acc:HGNC:4725]	null	null	6101	0.4866245687007904	0.48913348	Yes	
+row_62	H2AFY2	H2A histone family member Y2 [Source:HGNC Symbol;Acc:HGNC:14453]	null	null	6204	0.4789487421512604	0.49229008	Yes	
+row_63	HLA-DRB5	major histocompatibility complex, class II, DR beta 5 [Source:HGNC Symbol;Acc:HGNC:4953]	null	null	6772	0.4314045011997223	0.47468287	No	
+row_64	ACTN4	actinin alpha 4 [Source:HGNC Symbol;Acc:HGNC:166]	null	null	7101	0.40342357754707336	0.46692187	No	
+row_65	ACTN3	actinin alpha 3 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:165]	null	null	7201	0.39569956064224243	0.4688958	No	
+row_66	HIST1H2BD	histone cluster 1 H2B family member d [Source:HGNC Symbol;Acc:HGNC:4747]	null	null	7278	0.3903103768825531	0.47177482	No	
+row_67	HIST1H2BB	histone cluster 1 H2B family member b [Source:HGNC Symbol;Acc:HGNC:4751]	null	null	7775	0.35120269656181335	0.45595983	No	
+row_68	C1S	complement C1s [Source:HGNC Symbol;Acc:HGNC:1247]	null	null	7964	0.3364565074443817	0.45316952	No	
+row_69	C9	complement C9 [Source:HGNC Symbol;Acc:HGNC:1358]	null	null	8045	0.3297642767429352	0.45492232	No	
+row_70	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	null	null	8203	0.3149453103542328	0.45312735	No	
+row_71	HIST1H2BA	histone cluster 1 H2B family member a [Source:HGNC Symbol;Acc:HGNC:18730]	null	null	8432	0.296800434589386	0.44799048	No	
+row_72	C1QA	complement C1q A chain [Source:HGNC Symbol;Acc:HGNC:1241]	null	null	8954	0.252573162317276	0.4295453	No	
+row_73	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	null	null	9095	0.2375088483095169	0.4272619	No	
+row_74	ACTN1	actinin alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	null	null	9250	0.223188579082489	0.42415023	No	
+row_75	C8G	complement C8 gamma chain [Source:HGNC Symbol;Acc:HGNC:1354]	null	null	9315	0.21760837733745575	0.42482442	No	
+row_76	C8B	complement C8 beta chain [Source:HGNC Symbol;Acc:HGNC:1353]	null	null	9684	0.18371231853961945	0.41187966	No	
+row_77	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	null	null	10015	0.15577003359794617	0.40013024	No	
+row_78	GRIN2B	glutamate ionotropic receptor NMDA type subunit 2B [Source:HGNC Symbol;Acc:HGNC:4586]	null	null	10042	0.15358830988407135	0.40143126	No	
+row_79	SNRPD3	small nuclear ribonucleoprotein D3 polypeptide [Source:HGNC Symbol;Acc:HGNC:11160]	null	null	10144	0.1456332802772522	0.39937878	No	
+row_80	C2	complement C2 [Source:HGNC Symbol;Acc:HGNC:1248]	null	null	10201	0.1399979442358017	0.3991744	No	
+row_81	H2AFV	H2A histone family member V [Source:HGNC Symbol;Acc:HGNC:20664]	null	null	10428	0.12237897515296936	0.3913752	No	
+row_82	C1QC	complement C1q C chain [Source:HGNC Symbol;Acc:HGNC:1245]	null	null	10598	0.10849221795797348	0.3858106	No	
+row_83	HIST1H2AA	histone cluster 1 H2A family member a [Source:HGNC Symbol;Acc:HGNC:18729]	null	null	11219	0.05654121935367584	0.36001536	No	
+row_84	TRIM21	tripartite motif containing 21 [Source:HGNC Symbol;Acc:HGNC:11312]	null	null	11224	0.05623917281627655	0.36072937	No	
+row_85	H3F3B	H3 histone family member 3B [Source:HGNC Symbol;Acc:HGNC:4765]	null	null	11249	0.05383199080824852	0.3605446	No	
+row_86	C5	complement C5 [Source:HGNC Symbol;Acc:HGNC:1331]	null	null	11591	0.02687174454331398	0.34629062	No	
+row_87	C8A	complement C8 alpha chain [Source:HGNC Symbol;Acc:HGNC:1352]	null	null	11595	0.02662757784128189	0.34658107	No	
+row_88	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	null	null	11638	0.021701840683817863	0.34511524	No	
+row_89	ACTN2	actinin alpha 2 [Source:HGNC Symbol;Acc:HGNC:164]	null	null	11764	0.010449645109474659	0.33989963	No	
+row_90	HIST3H2BB	histone cluster 3 H2B family member b [Source:HGNC Symbol;Acc:HGNC:20514]	null	null	11865	0.00309747620485723	0.33564422	No	
+row_91	H2BFWT	H2B histone family member W, testis specific [Source:HGNC Symbol;Acc:HGNC:27252]	null	null	12090	-0.01600613072514534	0.32625496	No	
+row_92	HLA-DOB	major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]	null	null	12136	-0.01962783932685852	0.32462734	No	
+row_93	C1QB	complement C1q B chain [Source:HGNC Symbol;Acc:HGNC:1242]	null	null	12280	-0.032029036432504654	0.318977	No	
+row_94	C1R	complement C1r [Source:HGNC Symbol;Acc:HGNC:1246]	null	null	12359	-0.03858838975429535	0.31622776	No	
+row_95	IFNG	interferon gamma [Source:HGNC Symbol;Acc:HGNC:5438]	null	null	12380	-0.04047507792711258	0.3160047	No	
+row_96	HIST1H2AG	histone cluster 1 H2A family member g [Source:HGNC Symbol;Acc:HGNC:4737]	null	null	12709	-0.06815028935670853	0.3029607	No	
+row_97	HLA-DQA2	major histocompatibility complex, class II, DQ alpha 2 [Source:HGNC Symbol;Acc:HGNC:4943]	null	null	12798	-0.07521293312311172	0.30035812	No	
+row_98	HIST1H4G	histone cluster 1 H4 family member g [Source:HGNC Symbol;Acc:HGNC:4792]	null	null	13133	-0.10072625428438187	0.2875692	No	
+row_99	FCGR3A	Fc fragment of IgG receptor IIIa [Source:HGNC Symbol;Acc:HGNC:3619]	null	null	13384	-0.12039919197559357	0.27870578	No	
+row_100	FCGR3B	Fc fragment of IgG receptor IIIb [Source:HGNC Symbol;Acc:HGNC:3620]	null	null	13928	-0.16652241349220276	0.2579578	No	
+row_101	HIST1H3H	histone cluster 1 H3 family member h [Source:HGNC Symbol;Acc:HGNC:4775]	null	null	14036	-0.17583689093589783	0.25612298	No	
+row_102	HLA-DRA	major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	null	null	14145	-0.1846330314874649	0.2543837	No	
+row_103	CD86	CD86 molecule [Source:HGNC Symbol;Acc:HGNC:1705]	null	null	14339	-0.19960837066173553	0.24922183	No	
+row_104	FCGR1A	Fc fragment of IgG receptor Ia [Source:HGNC Symbol;Acc:HGNC:3613]	null	null	14373	-0.20283916592597961	0.25099763	No	
+row_105	HIST3H3	histone cluster 3 H3 [Source:HGNC Symbol;Acc:HGNC:4778]	null	null	14684	-0.22714059054851532	0.24123363	No	
+row_106	FCGR2A	Fc fragment of IgG receptor IIa [Source:HGNC Symbol;Acc:HGNC:3616]	null	null	15114	-0.2599971890449524	0.22686535	No	
+row_107	CD80	CD80 molecule [Source:HGNC Symbol;Acc:HGNC:1700]	null	null	16143	-0.33537182211875916	0.18790248	No	
+row_108	CD40LG	CD40 ligand [Source:HGNC Symbol;Acc:HGNC:11935]	null	null	16382	-0.35200950503349304	0.18320511	No	
+row_109	CD40	CD40 molecule [Source:HGNC Symbol;Acc:HGNC:11919]	null	null	16410	-0.35342657566070557	0.187612	No	
+row_110	CD28	CD28 molecule [Source:HGNC Symbol;Acc:HGNC:1653]	null	null	16878	-0.3881070017814636	0.17362677	No	
+row_111	C6	complement C6 [Source:HGNC Symbol;Acc:HGNC:1339]	null	null	17024	-0.39835578203201294	0.17366263	No	
+row_112	C3	complement C3 [Source:HGNC Symbol;Acc:HGNC:1318]	null	null	17118	-0.4043818414211273	0.17603163	No	
+row_113	SNRPD1	small nuclear ribonucleoprotein D1 polypeptide [Source:HGNC Symbol;Acc:HGNC:11158]	null	null	17640	-0.44416871666908264	0.1606055	No	
+row_114	RO60	Ro60, Y RNA binding protein [Source:HGNC Symbol;Acc:HGNC:11313]	null	null	18627	-0.5189032554626465	0.12634234	No	
+row_115	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	null	null	19320	-0.5701410174369812	0.10554095	No	
+row_116	HIST4H4	histone cluster 4 H4 [Source:HGNC Symbol;Acc:HGNC:20510]	null	null	19815	-0.6074893474578857	0.09385044	No	
+row_117	HIST1H4J	histone cluster 1 H4 family member j [Source:HGNC Symbol;Acc:HGNC:4785]	null	null	20520	-0.6620360612869263	0.07398056	No	
+row_118	HIST2H4B	histone cluster 2 H4 family member b [Source:HGNC Symbol;Acc:HGNC:29607]	null	null	20592	-0.6676651835441589	0.08144511	No	
+row_119	SSB	small RNA binding exonuclease protection factor La [Source:HGNC Symbol;Acc:HGNC:11316]	null	null	21371	-0.7268137335777283	0.05941083	No	
+row_120	H2AFJ	H2A histone family member J [Source:HGNC Symbol;Acc:HGNC:14456]	null	null	22016	-0.7824347019195557	0.04402063	No	
+row_121	HIST1H2AM	histone cluster 1 H2A family member m [Source:HGNC Symbol;Acc:HGNC:4735]	null	null	22832	-0.8584429621696472	0.022467893	No	

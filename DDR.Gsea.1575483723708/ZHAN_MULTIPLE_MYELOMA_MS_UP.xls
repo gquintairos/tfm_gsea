@@ -1,0 +1,30 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PPM1H	protein phosphatase, Mg2+/Mn2+ dependent 1H [Source:HGNC Symbol;Acc:HGNC:18583]	null	null	11	0.9704961180686951	0.049805667	Yes	
+row_1	SPRY2	sprouty RTK signaling antagonist 2 [Source:HGNC Symbol;Acc:HGNC:11270]	null	null	32	0.9511071443557739	0.09780917	Yes	
+row_2	MYO10	myosin X [Source:HGNC Symbol;Acc:HGNC:7593]	null	null	47	0.940820574760437	0.14579982	Yes	
+row_3	LARP6	La ribonucleoprotein domain family member 6 [Source:HGNC Symbol;Acc:HGNC:24012]	null	null	74	0.9309195876121521	0.19222201	Yes	
+row_4	FAM171A1	family with sequence similarity 171 member A1 [Source:HGNC Symbol;Acc:HGNC:23522]	null	null	76	0.9306750297546387	0.24081999	Yes	
+row_5	RUNDC3B	RUN domain containing 3B [Source:HGNC Symbol;Acc:HGNC:30286]	null	null	387	0.8603201508522034	0.25868687	Yes	
+row_6	FZD2	frizzled class receptor 2 [Source:HGNC Symbol;Acc:HGNC:4040]	null	null	492	0.8445113301277161	0.29376054	Yes	
+row_7	RAI2	retinoic acid induced 2 [Source:HGNC Symbol;Acc:HGNC:9835]	null	null	653	0.822285532951355	0.32276917	Yes	
+row_8	DSEL	dermatan sulfate epimerase like [Source:HGNC Symbol;Acc:HGNC:18144]	null	null	658	0.8216259479522705	0.3653999	Yes	
+row_9	TCEAL2	transcription elongation factor A like 2 [Source:HGNC Symbol;Acc:HGNC:29818]	null	null	714	0.8144934177398682	0.40319288	Yes	
+row_10	TMEM176A	transmembrane protein 176A [Source:HGNC Symbol;Acc:HGNC:24930]	null	null	715	0.8140912055969238	0.44577965	Yes	
+row_11	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	null	null	1075	0.7682870030403137	0.4545425	Yes	
+row_12	AGAP1	ArfGAP with GTPase domain, ankyrin repeat and PH domain 1 [Source:HGNC Symbol;Acc:HGNC:16922]	null	null	1941	0.6665564775466919	0.41368702	No	
+row_13	PBX1	PBX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:8632]	null	null	2456	0.5903825163841248	0.3995742	No	
+row_14	ZNF503	zinc finger protein 503 [Source:HGNC Symbol;Acc:HGNC:23589]	null	null	3187	0.45467033982276917	0.35945278	No	
+row_15	VWA5A	von Willebrand factor A domain containing 5A [Source:HGNC Symbol;Acc:HGNC:6658]	null	null	3924	0.26100125908851624	0.30867487	No	
+row_16	DTNA	dystrobrevin alpha [Source:HGNC Symbol;Acc:HGNC:3057]	null	null	4269	0.15998947620391846	0.28692958	No	
+row_17	MARK1	microtubule affinity regulating kinase 1 [Source:HGNC Symbol;Acc:HGNC:6896]	null	null	4821	-0.015486502088606358	0.23950368	No	
+row_18	NSD2	nuclear receptor binding SET domain protein 2 [Source:HGNC Symbol;Acc:HGNC:12766]	null	null	5379	-0.18929164111614227	0.20064466	No	
+row_19	RNF32	ring finger protein 32 [Source:HGNC Symbol;Acc:HGNC:17118]	null	null	5441	-0.2064102292060852	0.20610228	No	
+row_20	SERPINE2	serpin family E member 2 [Source:HGNC Symbol;Acc:HGNC:8951]	null	null	6130	-0.3661212623119354	0.16502547	No	
+row_21	PCSK5	proprotein convertase subtilisin/kexin type 5 [Source:HGNC Symbol;Acc:HGNC:8747]	null	null	6472	-0.43723514676094055	0.15804608	No	
+row_22	MITF	melanocyte inducing transcription factor [Source:HGNC Symbol;Acc:HGNC:7105]	null	null	6985	-0.5174201130867004	0.14029154	No	
+row_23	NRIP1	nuclear receptor interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:8001]	null	null	7303	-0.565435528755188	0.1421196	No	
+row_24	CDYL2	chromodomain Y like 2 [Source:HGNC Symbol;Acc:HGNC:23030]	null	null	8743	-0.7068214416503906	0.053120963	No	
+row_25	CLIC6	chloride intracellular channel 6 [Source:HGNC Symbol;Acc:HGNC:2065]	null	null	10684	-0.8366243243217468	-0.0729463	No	
+row_26	DSG2	desmoglein 2 [Source:HGNC Symbol;Acc:HGNC:3049]	null	null	10753	-0.8423969149589539	-0.0348317	No	
+row_27	BEX3	brain expressed X-linked 3 [Source:HGNC Symbol;Acc:HGNC:13388]	null	null	11377	-0.9148419499397278	-0.041513532	No	
+row_28	CST3	cystatin C [Source:HGNC Symbol;Acc:HGNC:2475]	null	null	11383	-0.9157365560531616	0.005952807	No	

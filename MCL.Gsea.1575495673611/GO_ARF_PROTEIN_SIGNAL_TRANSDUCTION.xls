@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSD3	pleckstrin and Sec7 domain containing 3 [Source:HGNC Symbol;Acc:HGNC:19093]	null	null	151	0.41922321915626526	0.10156114	Yes	
+row_1	PSD4	pleckstrin and Sec7 domain containing 4 [Source:HGNC Symbol;Acc:HGNC:19096]	null	null	389	0.36656028032302856	0.18578316	Yes	
+row_2	MAPRE2	microtubule associated protein RP/EB family member 2 [Source:HGNC Symbol;Acc:HGNC:6891]	null	null	444	0.3581228256225586	0.27581486	Yes	
+row_3	CYTH2	cytohesin 2 [Source:HGNC Symbol;Acc:HGNC:9502]	null	null	510	0.34868213534355164	0.362931	Yes	
+row_4	CYTH1	cytohesin 1 [Source:HGNC Symbol;Acc:HGNC:9501]	null	null	554	0.3418578505516052	0.44924676	Yes	
+row_5	GBF1	golgi brefeldin A resistant guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:4181]	null	null	1113	0.2895427644252777	0.49959093	Yes	
+row_6	ARFGAP1	ADP ribosylation factor GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:15852]	null	null	1350	0.2722150683403015	0.55951744	Yes	
+row_7	IQSEC2	IQ motif and Sec7 domain 2 [Source:HGNC Symbol;Acc:HGNC:29059]	null	null	2068	0.2360115498304367	0.5891127	Yes	
+row_8	PSD2	pleckstrin and Sec7 domain containing 2 [Source:HGNC Symbol;Acc:HGNC:19092]	null	null	2456	0.2185349464416504	0.628601	Yes	
+row_9	PSD	pleckstrin and Sec7 domain containing [Source:HGNC Symbol;Acc:HGNC:9507]	null	null	3951	0.16739778220653534	0.60658586	Yes	
+row_10	CYTH4	cytohesin 4 [Source:HGNC Symbol;Acc:HGNC:9505]	null	null	4069	0.16384081542491913	0.6437474	Yes	
+row_11	IQSEC1	IQ motif and Sec7 domain 1 [Source:HGNC Symbol;Acc:HGNC:29112]	null	null	4086	0.16340714693069458	0.6852048	Yes	
+row_12	IQSEC3	IQ motif and Sec7 domain 3 [Source:HGNC Symbol;Acc:HGNC:29193]	null	null	5247	0.13161715865135193	0.6685353	No	
+row_13	ARFGEF3	ARFGEF family member 3 [Source:HGNC Symbol;Acc:HGNC:21213]	null	null	7570	0.07899980992078781	0.5875802	No	
+row_14	ARFGEF2	ADP ribosylation factor guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:15853]	null	null	8656	0.055194176733493805	0.5544682	No	
+row_15	MAP4K4	mitogen-activated protein kinase kinase kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6866]	null	null	9780	0.03206754848361015	0.5137316	No	
+row_16	FBXO8	F-box protein 8 [Source:HGNC Symbol;Acc:HGNC:13587]	null	null	10974	0.008695284835994244	0.46391058	No	
+row_17	ARFGEF1	ADP ribosylation factor guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:15772]	null	null	15767	-0.08836919069290161	0.27757823	No	
+row_18	CYTH3	cytohesin 3 [Source:HGNC Symbol;Acc:HGNC:9504]	null	null	17807	-0.13593748211860657	0.22366242	No	

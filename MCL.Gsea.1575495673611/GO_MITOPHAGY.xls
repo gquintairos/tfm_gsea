@@ -1,0 +1,21 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLEC16A	C-type lectin domain containing 16A [Source:HGNC Symbol;Acc:HGNC:29013]	null	null	167	0.4148416519165039	0.12312949	Yes	
+row_1	ATG14	autophagy related 14 [Source:HGNC Symbol;Acc:HGNC:19962]	null	null	338	0.374257355928421	0.23336916	Yes	
+row_2	TSC2	TSC complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:12363]	null	null	402	0.36408475041389465	0.34508058	Yes	
+row_3	HDAC6	histone deacetylase 6 [Source:HGNC Symbol;Acc:HGNC:14064]	null	null	1415	0.2678819000720978	0.38513023	Yes	
+row_4	ATG13	autophagy related 13 [Source:HGNC Symbol;Acc:HGNC:29091]	null	null	1871	0.2438192516565323	0.44192442	Yes	
+row_5	SQSTM1	sequestosome 1 [Source:HGNC Symbol;Acc:HGNC:11280]	null	null	2236	0.2287268489599228	0.49794537	Yes	
+row_6	HTRA2	HtrA serine peptidase 2 [Source:HGNC Symbol;Acc:HGNC:14348]	null	null	3265	0.1885472536087036	0.5123555	Yes	
+row_7	VPS13C	vacuolar protein sorting 13 homolog C [Source:HGNC Symbol;Acc:HGNC:23594]	null	null	3804	0.1717873066663742	0.5428819	Yes	
+row_8	AMBRA1	autophagy and beclin 1 regulator 1 [Source:HGNC Symbol;Acc:HGNC:25990]	null	null	4616	0.148370623588562	0.55413187	Yes	
+row_9	CDC37	cell division cycle 37 [Source:HGNC Symbol;Acc:HGNC:1735]	null	null	5119	0.13467325270175934	0.5745615	Yes	
+row_10	RNF41	ring finger protein 41 [Source:HGNC Symbol;Acc:HGNC:18401]	null	null	7553	0.07935436815023422	0.49332467	No	
+row_11	MFN2	mitofusin 2 [Source:HGNC Symbol;Acc:HGNC:16877]	null	null	9918	0.029240598902106285	0.39934444	No	
+row_12	SMURF1	SMAD specific E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:16807]	null	null	10100	0.025378398597240448	0.39942348	No	
+row_13	USP30	ubiquitin specific peptidase 30 [Source:HGNC Symbol;Acc:HGNC:20065]	null	null	10121	0.025005130097270012	0.4064117	No	
+row_14	BECN1	beclin 1 [Source:HGNC Symbol;Acc:HGNC:1034]	null	null	10344	0.02080526016652584	0.40326366	No	
+row_15	PINK1	PTEN induced kinase 1 [Source:HGNC Symbol;Acc:HGNC:14581]	null	null	12064	-0.013186066411435604	0.33238617	No	
+row_16	TOMM7	translocase of outer mitochondrial membrane 7 [Source:HGNC Symbol;Acc:HGNC:21648]	null	null	14310	-0.05682399496436119	0.25227118	No	
+row_17	PRKN	parkin RBR E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:8607]	null	null	14962	-0.07024380564689636	0.24594261	No	
+row_18	VPS13D	vacuolar protein sorting 13 homolog D [Source:HGNC Symbol;Acc:HGNC:23595]	null	null	18490	-0.15542085468769073	0.14087373	No	
+row_19	OPTN	optineurin [Source:HGNC Symbol;Acc:HGNC:17142]	null	null	18909	-0.1684153825044632	0.17557724	No	

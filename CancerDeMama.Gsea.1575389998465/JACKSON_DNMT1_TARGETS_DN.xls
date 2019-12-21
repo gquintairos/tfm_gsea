@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SCD	stearoyl-CoA desaturase [Source:HGNC Symbol;Acc:HGNC:10571]	null	null	187	0.9015034437179565	0.07531198	Yes	
+row_1	COL6A1	collagen type VI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2211]	null	null	289	0.8810725808143616	0.15242085	Yes	
+row_2	POLD1	DNA polymerase delta 1, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9175]	null	null	299	0.8799172639846802	0.23336533	Yes	
+row_3	COL9A1	collagen type IX alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2217]	null	null	1146	0.8007610440254211	0.27112612	Yes	
+row_4	U2AF2	U2 small nuclear RNA auxiliary factor 2 [Source:HGNC Symbol;Acc:HGNC:23156]	null	null	1395	0.7823463678359985	0.33281052	Yes	
+row_5	FZD8	frizzled class receptor 8 [Source:HGNC Symbol;Acc:HGNC:4046]	null	null	2422	0.7203581929206848	0.3554263	Yes	
+row_6	COL6A2	collagen type VI alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2212]	null	null	2555	0.7139495015144348	0.41575968	Yes	
+row_7	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	null	null	3709	0.6473286151885986	0.4261832	Yes	
+row_8	PEG3	paternally expressed 3 [Source:HGNC Symbol;Acc:HGNC:8826]	null	null	3924	0.6341883540153503	0.47563043	Yes	
+row_9	MDH2	malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971]	null	null	4461	0.6017105579376221	0.5082773	Yes	
+row_10	COL11A1	collagen type XI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2186]	null	null	4779	0.5810472965240479	0.548399	Yes	
+row_11	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	null	null	4989	0.5660813450813293	0.59176534	Yes	
+row_12	CRABP1	cellular retinoic acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2338]	null	null	7393	0.3803063929080963	0.5239429	No	
+row_13	GAS2	growth arrest specific 2 [Source:HGNC Symbol;Acc:HGNC:4167]	null	null	11738	0.01269354484975338	0.33896595	No	
+row_14	GJB2	gap junction protein beta 2 [Source:HGNC Symbol;Acc:HGNC:4284]	null	null	14946	-0.24681656062602997	0.2243519	No	
+row_15	EFNB1	ephrin B1 [Source:HGNC Symbol;Acc:HGNC:3226]	null	null	15095	-0.25848522782325745	0.24190137	No	
+row_16	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	null	null	15976	-0.32336121797561646	0.23407945	No	
+row_17	GRB10	growth factor receptor bound protein 10 [Source:HGNC Symbol;Acc:HGNC:4564]	null	null	16754	-0.37971389293670654	0.23587996	No	
+row_18	DNMT1	DNA methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2976]	null	null	18495	-0.5074352025985718	0.20821895	No	

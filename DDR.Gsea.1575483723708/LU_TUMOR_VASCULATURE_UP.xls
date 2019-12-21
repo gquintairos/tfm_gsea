@@ -1,0 +1,17 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MUC1	mucin 1, cell surface associated [Source:HGNC Symbol;Acc:HGNC:7508]	null	null	62	0.9345777630805969	0.100657314	Yes	
+row_1	ISG15	ISG15 ubiquitin like modifier [Source:HGNC Symbol;Acc:HGNC:4053]	null	null	429	0.853614330291748	0.1655422	Yes	
+row_2	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	null	null	525	0.8396676778793335	0.25254115	Yes	
+row_3	CMTM8	CKLF like MARVEL transmembrane domain containing 8 [Source:HGNC Symbol;Acc:HGNC:19179]	null	null	652	0.822329044342041	0.33486137	Yes	
+row_4	SCIN	scinderin [Source:HGNC Symbol;Acc:HGNC:21695]	null	null	832	0.795695960521698	0.40952414	Yes	
+row_5	POSTN	periostin [Source:HGNC Symbol;Acc:HGNC:16953]	null	null	3262	0.43771180510520935	0.24680695	No	
+row_6	RPS11	ribosomal protein S11 [Source:HGNC Symbol;Acc:HGNC:10384]	null	null	3709	0.3200770318508148	0.24413748	No	
+row_7	HSPA6	heat shock protein family A (Hsp70) member 6 [Source:HGNC Symbol;Acc:HGNC:5239]	null	null	4828	-0.01786939427256584	0.14840429	No	
+row_8	FZD10	frizzled class receptor 10 [Source:HGNC Symbol;Acc:HGNC:4039]	null	null	4969	-0.06470505893230438	0.14350656	No	
+row_9	MXRA5	matrix remodeling associated 5 [Source:HGNC Symbol;Acc:HGNC:7539]	null	null	5334	-0.1784457117319107	0.13193163	No	
+row_10	ADAP2	ArfGAP with dual PH domains 2 [Source:HGNC Symbol;Acc:HGNC:16487]	null	null	5883	-0.31266263127326965	0.119501404	No	
+row_11	PMAIP1	phorbol-12-myristate-13-acetate-induced protein 1 [Source:HGNC Symbol;Acc:HGNC:9108]	null	null	6041	-0.3450561463832855	0.14493826	No	
+row_12	TWIST1	twist family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:12428]	null	null	6804	-0.4926295876502991	0.13422224	No	
+row_13	TNFAIP6	TNF alpha induced protein 6 [Source:HGNC Symbol;Acc:HGNC:11898]	null	null	9671	-0.7724667191505432	-0.028711408	No	
+row_14	WDR77	WD repeat domain 77 [Source:HGNC Symbol;Acc:HGNC:29652]	null	null	9710	-0.7752372622489929	0.05595868	No	
+row_15	FJX1	four-jointed box kinase 1 [Source:HGNC Symbol;Acc:HGNC:17166]	null	null	10819	-0.8474764227867126	0.055264052	No	

@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WDR34	WD repeat domain 34 [Source:HGNC Symbol;Acc:HGNC:28296]	null	null	1859	0.7540335059165955	-0.016018327	No	
+row_1	DYNC1I1	dynein cytoplasmic 1 intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:2963]	null	null	1995	0.7459283471107483	0.041156504	No	
+row_2	WDR60	WD repeat domain 60 [Source:HGNC Symbol;Acc:HGNC:21862]	null	null	9179	0.2297517955303192	-0.24725905	No	
+row_3	DYNLT1	dynein light chain Tctex-type 1 [Source:HGNC Symbol;Acc:HGNC:11697]	null	null	9550	0.19775345921516418	-0.24642305	No	
+row_4	DYNC1H1	dynein cytoplasmic 1 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2961]	null	null	12637	-0.0627390593290329	-0.3733696	No	
+row_5	DYNLRB2	dynein light chain roadblock-type 2 [Source:HGNC Symbol;Acc:HGNC:15467]	null	null	14607	-0.22071854770183563	-0.439116	No	
+row_6	DYNC2H1	dynein cytoplasmic 2 heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2962]	null	null	19848	-0.6092231869697571	-0.61224043	Yes	
+row_7	TCTEX1D2	Tctex1 domain containing 2 [Source:HGNC Symbol;Acc:HGNC:28482]	null	null	20120	-0.6306573748588562	-0.5706229	Yes	
+row_8	NUDCD3	NudC domain containing 3 [Source:HGNC Symbol;Acc:HGNC:22208]	null	null	20609	-0.6686200499534607	-0.53510016	Yes	
+row_9	DYNC2LI1	dynein cytoplasmic 2 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:24595]	null	null	20831	-0.6833417415618896	-0.4868932	Yes	
+row_10	DYNLT3	dynein light chain Tctex-type 3 [Source:HGNC Symbol;Acc:HGNC:11694]	null	null	21237	-0.7166517376899719	-0.44375956	Yes	
+row_11	SNX4	sorting nexin 4 [Source:HGNC Symbol;Acc:HGNC:11175]	null	null	21408	-0.7301754355430603	-0.3894142	Yes	
+row_12	DYNC1I2	dynein cytoplasmic 1 intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2964]	null	null	21411	-0.7305806875228882	-0.3278354	Yes	
+row_13	DYNC1LI2	dynein cytoplasmic 1 light intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2966]	null	null	21560	-0.7423688173294067	-0.2715181	Yes	
+row_14	TPR	translocated promoter region, nuclear basket protein [Source:HGNC Symbol;Acc:HGNC:12017]	null	null	21753	-0.7606602907180786	-0.2155424	Yes	
+row_15	TOPORS	TOP1 binding arginine/serine rich protein [Source:HGNC Symbol;Acc:HGNC:21653]	null	null	21940	-0.7755442261695862	-0.15805331	Yes	
+row_16	DYNC1LI1	dynein cytoplasmic 1 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:18745]	null	null	22403	-0.8161892890930176	-0.10896081	Yes	
+row_17	DYNLL2	dynein light chain LC8-type 2 [Source:HGNC Symbol;Acc:HGNC:24596]	null	null	22579	-0.8325328826904297	-0.046190232	Yes	
+row_18	DYNLL1	dynein light chain LC8-type 1 [Source:HGNC Symbol;Acc:HGNC:15476]	null	null	23290	-0.9402061700820923	0.0027425266	Yes	

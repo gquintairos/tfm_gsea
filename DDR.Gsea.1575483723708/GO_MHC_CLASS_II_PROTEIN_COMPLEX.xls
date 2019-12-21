@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HLA-DRB5	major histocompatibility complex, class II, DR beta 5 [Source:HGNC Symbol;Acc:HGNC:4953]	null	null	121	0.9141557216644287	0.06979976	No	
+row_1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	null	null	187	0.8984302878379822	0.14311321	No	
+row_2	HLA-DQB2	major histocompatibility complex, class II, DQ beta 2 [Source:HGNC Symbol;Acc:HGNC:4945]	null	null	417	0.8548495173454285	0.19825529	No	
+row_3	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	null	null	1431	0.7229151129722595	0.17324725	No	
+row_4	CD74	CD74 molecule [Source:HGNC Symbol;Acc:HGNC:1697]	null	null	4631	0.04523360729217529	-0.10248169	No	
+row_5	HLA-DMB	major histocompatibility complex, class II, DM beta [Source:HGNC Symbol;Acc:HGNC:4935]	null	null	5986	-0.3327280580997467	-0.19161342	No	
+row_6	HLA-DMA	major histocompatibility complex, class II, DM alpha [Source:HGNC Symbol;Acc:HGNC:4934]	null	null	6549	-0.4495525658130646	-0.20122415	No	
+row_7	HLA-DRA	major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	null	null	10375	-0.8165941834449768	-0.46386388	Yes	
+row_8	HLA-DOA	major histocompatibility complex, class II, DO alpha [Source:HGNC Symbol;Acc:HGNC:4936]	null	null	10988	-0.8620375394821167	-0.44157758	Yes	
+row_9	HLA-DOB	major histocompatibility complex, class II, DO beta [Source:HGNC Symbol;Acc:HGNC:4937]	null	null	11062	-0.8682935237884521	-0.37161347	Yes	
+row_10	HLA-DQA1	major histocompatibility complex, class II, DQ alpha 1 [Source:HGNC Symbol;Acc:HGNC:4942]	null	null	11281	-0.8938316702842712	-0.312082	Yes	
+row_11	HLA-DRB3	major histocompatibility complex, class II, DR beta 3 [Source:HGNC Symbol;Acc:HGNC:4951]	null	null	11397	-0.9213605523109436	-0.24112414	Yes	
+row_12	HLA-DQB1	major histocompatibility complex, class II, DQ beta 1 [Source:HGNC Symbol;Acc:HGNC:4944]	null	null	11416	-0.9262779355049133	-0.16125263	Yes	
+row_13	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	null	null	11424	-0.9299761056900024	-0.08009418	Yes	
+row_14	HLA-DRB4	major histocompatibility complex, class II, DR beta 4 [Source:HGNC Symbol;Acc:HGNC:4952]	null	null	11434	-0.9367649555206299	0.0014863245	Yes	

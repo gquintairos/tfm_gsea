@@ -1,0 +1,17 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FSTL3	follistatin like 3 [Source:HGNC Symbol;Acc:HGNC:3973]	null	null	49	0.9397243857383728	0.08622242	Yes	
+row_1	GPR55	G protein-coupled receptor 55 [Source:HGNC Symbol;Acc:HGNC:4511]	null	null	107	0.9172236919403076	0.1695782	Yes	
+row_2	LILRB1	leukocyte immunoglobulin like receptor B1 [Source:HGNC Symbol;Acc:HGNC:6605]	null	null	308	0.8736528158187866	0.23623319	Yes	
+row_3	LILRB4	leukocyte immunoglobulin like receptor B4 [Source:HGNC Symbol;Acc:HGNC:6608]	null	null	317	0.8716041445732117	0.31947994	Yes	
+row_4	LILRB3	leukocyte immunoglobulin like receptor B3 [Source:HGNC Symbol;Acc:HGNC:6607]	null	null	346	0.8663817644119263	0.40047488	Yes	
+row_5	FBXW7	F-box and WD repeat domain containing 7 [Source:HGNC Symbol;Acc:HGNC:16712]	null	null	620	0.8264160752296448	0.45619702	Yes	
+row_6	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	null	null	3835	0.28474757075309753	0.20257942	No	
+row_7	PIAS3	protein inhibitor of activated STAT 3 [Source:HGNC Symbol;Acc:HGNC:16861]	null	null	4595	0.05630762130022049	0.14163318	No	
+row_8	CLDN18	claudin 18 [Source:HGNC Symbol;Acc:HGNC:2039]	null	null	4983	-0.06783965229988098	0.11432648	No	
+row_9	UBASH3B	ubiquitin associated and SH3 domain containing B [Source:HGNC Symbol;Acc:HGNC:29884]	null	null	5990	-0.3337899446487427	0.058506776	No	
+row_10	TOB2	transducer of ERBB2, 2 [Source:HGNC Symbol;Acc:HGNC:11980]	null	null	8010	-0.6421884894371033	-0.056190245	No	
+row_11	SFRP1	secreted frizzled related protein 1 [Source:HGNC Symbol;Acc:HGNC:10776]	null	null	8154	-0.6547472476959229	-0.0056343167	No	
+row_12	INPP5D	inositol polyphosphate-5-phosphatase D [Source:HGNC Symbol;Acc:HGNC:6079]	null	null	8633	-0.6971997618675232	0.01971685	No	
+row_13	CTNNB1	catenin beta 1 [Source:HGNC Symbol;Acc:HGNC:2514]	null	null	8891	-0.7162610292434692	0.06622879	No	
+row_14	TCTA	T cell leukemia translocation altered [Source:HGNC Symbol;Acc:HGNC:11692]	null	null	9101	-0.7328006625175476	0.11853098	No	
+row_15	CCL3	C-C motif chemokine ligand 3 [Source:HGNC Symbol;Acc:HGNC:10627]	null	null	11318	-0.9019912481307983	0.011629892	No	

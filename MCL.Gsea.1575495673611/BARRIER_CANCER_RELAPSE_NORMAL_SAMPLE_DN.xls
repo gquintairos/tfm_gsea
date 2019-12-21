@@ -1,0 +1,31 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PPP1R15A	protein phosphatase 1 regulatory subunit 15A [Source:HGNC Symbol;Acc:HGNC:14375]	null	null	52	0.4726077616214752	0.0699343	Yes	
+row_1	INTS1	integrator complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:24555]	null	null	180	0.4111810326576233	0.12720919	Yes	
+row_2	CNPY3	canopy FGF signaling regulator 3 [Source:HGNC Symbol;Acc:HGNC:11968]	null	null	222	0.39847657084465027	0.18629806	Yes	
+row_3	PSD4	pleckstrin and Sec7 domain containing 4 [Source:HGNC Symbol;Acc:HGNC:19096]	null	null	389	0.36656028032302856	0.23505297	Yes	
+row_4	SPG7	SPG7 matrix AAA peptidase subunit, paraplegin [Source:HGNC Symbol;Acc:HGNC:11237]	null	null	606	0.3351234495639801	0.27682185	Yes	
+row_5	RHOT2	ras homolog family member T2 [Source:HGNC Symbol;Acc:HGNC:21169]	null	null	610	0.33470556139945984	0.327827	Yes	
+row_6	N4BP2L2	NEDD4 binding protein 2 like 2 [Source:HGNC Symbol;Acc:HGNC:26916]	null	null	619	0.3337650001049042	0.37847012	Yes	
+row_7	CDK10	cyclin dependent kinase 10 [Source:HGNC Symbol;Acc:HGNC:1770]	null	null	769	0.3170554041862488	0.420404	Yes	
+row_8	CPSF1	cleavage and polyadenylation specific factor 1 [Source:HGNC Symbol;Acc:HGNC:2324]	null	null	961	0.30071398615837097	0.45800737	Yes	
+row_9	SUPT5H	SPT5 homolog, DSIF elongation factor subunit [Source:HGNC Symbol;Acc:HGNC:11469]	null	null	1104	0.2900940179824829	0.49612772	Yes	
+row_10	SPTAN1	spectrin alpha, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11273]	null	null	1266	0.2778209447860718	0.5315434	Yes	
+row_11	STK25	serine/threonine kinase 25 [Source:HGNC Symbol;Acc:HGNC:11404]	null	null	2200	0.23024681210517883	0.52598333	Yes	
+row_12	TYK2	tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:12440]	null	null	2335	0.22459745407104492	0.55444646	Yes	
+row_13	JUN	Jun proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6204]	null	null	3257	0.18872058391571045	0.543066	Yes	
+row_14	ATG4B	autophagy related 4B cysteine peptidase [Source:HGNC Symbol;Acc:HGNC:20790]	null	null	3463	0.18271850049495697	0.56203085	Yes	
+row_15	BCR	BCR activator of RhoGEF and GTPase [Source:HGNC Symbol;Acc:HGNC:1014]	null	null	3558	0.17924490571022034	0.58531153	Yes	
+row_16	TBC1D2B	TBC1 domain family member 2B [Source:HGNC Symbol;Acc:HGNC:29183]	null	null	3921	0.1685023009777069	0.5952494	Yes	
+row_17	NSMF	NMDA receptor synaptonuclear signaling and neuronal migration factor [Source:HGNC Symbol;Acc:HGNC:29843]	null	null	4409	0.15413041412830353	0.59753376	Yes	
+row_18	NPIPB3	nuclear pore complex interacting protein family member B3 [Source:HGNC Symbol;Acc:HGNC:28989]	null	null	4423	0.15379741787910461	0.62046325	Yes	
+row_19	TLE6	TLE family member 6, subcortical maternal complex member [Source:HGNC Symbol;Acc:HGNC:30788]	null	null	9186	0.04424912855029106	0.41930324	No	
+row_20	LAMP1	lysosomal associated membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:6499]	null	null	10705	0.013670134358108044	0.35511222	No	
+row_21	FAAP100	FA core complex associated protein 100 [Source:HGNC Symbol;Acc:HGNC:26171]	null	null	11626	-0.003993146121501923	0.3155529	No	
+row_22	ZFP36L1	ZFP36 ring finger protein like 1 [Source:HGNC Symbol;Acc:HGNC:1107]	null	null	12272	-0.016871098428964615	0.2899682	No	
+row_23	NFE2L1	nuclear factor, erythroid 2 like 1 [Source:HGNC Symbol;Acc:HGNC:7781]	null	null	13682	-0.04375940561294556	0.23513341	No	
+row_24	ALG13	ALG13 UDP-N-acetylglucosaminyltransferase subunit [Source:HGNC Symbol;Acc:HGNC:30881]	null	null	15351	-0.07917308807373047	0.17440055	No	
+row_25	AKAP17A	A-kinase anchoring protein 17A [Source:HGNC Symbol;Acc:HGNC:18783]	null	null	16389	-0.10170681774616241	0.14466135	No	
+row_26	VPS37C	VPS37C subunit of ESCRT-I [Source:HGNC Symbol;Acc:HGNC:26097]	null	null	17858	-0.13735297322273254	0.10154965	No	
+row_27	HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	null	null	19151	-0.17580650746822357	0.07199744	No	
+row_28	GNB1L	G protein subunit beta 1 like [Source:HGNC Symbol;Acc:HGNC:4397]	null	null	21535	-0.2862103581428528	0.011676992	No	
+row_29	CSNK1G2	casein kinase 1 gamma 2 [Source:HGNC Symbol;Acc:HGNC:2455]	null	null	21995	-0.32252833247184753	0.040911645	No	

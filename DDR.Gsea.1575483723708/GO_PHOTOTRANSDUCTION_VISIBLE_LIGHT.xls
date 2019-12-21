@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AC139530.1	phosphodiesterase 6G [Source:NCBI gene;Acc:5148]	null	null	531	0.8389783501625061	0.028543781	Yes	
+row_1	GNB1	G protein subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4396]	null	null	600	0.8296628594398499	0.09675174	Yes	
+row_2	GNA11	G protein subunit alpha 11 [Source:HGNC Symbol;Acc:HGNC:4379]	null	null	622	0.826241135597229	0.16876478	Yes	
+row_3	NMT1	N-myristoyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:7857]	null	null	781	0.8030751943588257	0.22672439	Yes	
+row_4	GUCA1C	guanylate cyclase activator 1C [Source:HGNC Symbol;Acc:HGNC:4680]	null	null	1074	0.768717885017395	0.26989263	Yes	
+row_5	GRK4	G protein-coupled receptor kinase 4 [Source:HGNC Symbol;Acc:HGNC:4543]	null	null	1142	0.7604225277900696	0.33199936	Yes	
+row_6	AIPL1	aryl hydrocarbon receptor interacting protein like 1 [Source:HGNC Symbol;Acc:HGNC:359]	null	null	1338	0.7339280247688293	0.3805423	Yes	
+row_7	ABCA4	ATP binding cassette subfamily A member 4 [Source:HGNC Symbol;Acc:HGNC:34]	null	null	1371	0.7302992939949036	0.44301787	Yes	
+row_8	METAP2	methionyl aminopeptidase 2 [Source:HGNC Symbol;Acc:HGNC:16672]	null	null	3221	0.44754815101623535	0.3212951	No	
+row_9	RDH11	retinol dehydrogenase 11 [Source:HGNC Symbol;Acc:HGNC:17964]	null	null	3875	0.27389732003211975	0.28866082	No	
+row_10	GNAT1	G protein subunit alpha transducin 1 [Source:HGNC Symbol;Acc:HGNC:4393]	null	null	4027	0.2311645746231079	0.29611504	No	
+row_11	GUCA1B	guanylate cyclase activator 1B [Source:HGNC Symbol;Acc:HGNC:4679]	null	null	4415	0.10902369767427444	0.27201024	No	
+row_12	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	null	null	4936	-0.05481202155351639	0.231427	No	
+row_13	CAMKMT	calmodulin-lysine N-methyltransferase [Source:HGNC Symbol;Acc:HGNC:26276]	null	null	5791	-0.29111090302467346	0.18275058	No	
+row_14	GUCA1A	guanylate cyclase activator 1A [Source:HGNC Symbol;Acc:HGNC:4678]	null	null	6577	-0.455479234457016	0.15480064	No	
+row_15	METAP1	methionyl aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:15789]	null	null	8893	-0.7163064479827881	0.016340416	No	
+row_16	NMT2	N-myristoyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:7858]	null	null	9184	-0.7401091456413269	0.057126552	No	
+row_17	PDE6B	phosphodiesterase 6B [Source:HGNC Symbol;Acc:HGNC:8786]	null	null	9895	-0.7883701920509338	0.06549052	No	
+row_18	FNTA	farnesyltransferase, CAAX box, alpha [Source:HGNC Symbol;Acc:HGNC:3782]	null	null	9901	-0.7889778017997742	0.1355724	No	

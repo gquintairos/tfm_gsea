@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	null	null	1994	0.660413920879364	-0.100299194	No	
+row_1	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	null	null	2263	0.6210913062095642	-0.054044466	No	
+row_2	SZT2	SZT2 subunit of KICSTOR complex [Source:HGNC Symbol;Acc:HGNC:29040]	null	null	3920	0.26207947731018066	-0.16947913	No	
+row_3	FANCC	FA complementation group C [Source:HGNC Symbol;Acc:HGNC:3584]	null	null	4266	0.16056010127067566	-0.18163772	No	
+row_4	CCS	copper chaperone for superoxide dismutase [Source:HGNC Symbol;Acc:HGNC:1613]	null	null	4559	0.06540323048830032	-0.19983861	No	
+row_5	PARK7	Parkinsonism associated deglycase [Source:HGNC Symbol;Acc:HGNC:16369]	null	null	4688	0.030093641951680183	-0.20765732	No	
+row_6	GLRX2	glutaredoxin 2 [Source:HGNC Symbol;Acc:HGNC:16065]	null	null	4765	0.0014643369941040874	-0.21414043	No	
+row_7	FBLN5	fibulin 5 [Source:HGNC Symbol;Acc:HGNC:3602]	null	null	4843	-0.02586156688630581	-0.21797326	No	
+row_8	RGN	regucalcin [Source:HGNC Symbol;Acc:HGNC:9989]	null	null	4871	-0.03537856787443161	-0.21636486	No	
+row_9	SOD2	superoxide dismutase 2 [Source:HGNC Symbol;Acc:HGNC:11180]	null	null	5024	-0.08131156861782074	-0.22053534	No	
+row_10	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	null	null	7493	-0.5903929471969604	-0.37015086	No	
+row_11	DHFRP1	dihydrofolate reductase pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:2862]	null	null	8857	-0.7143042683601379	-0.40921164	Yes	
+row_12	GCH1	GTP cyclohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:4193]	null	null	8861	-0.7145645022392273	-0.32928932	Yes	
+row_13	NFE2L2	nuclear factor, erythroid 2 like 2 [Source:HGNC Symbol;Acc:HGNC:7782]	null	null	9519	-0.7626920342445374	-0.30116922	Yes	
+row_14	MT3	metallothionein 3 [Source:HGNC Symbol;Acc:HGNC:7408]	null	null	9741	-0.777285635471344	-0.23327626	Yes	
+row_15	ATP7A	ATPase copper transporting alpha [Source:HGNC Symbol;Acc:HGNC:869]	null	null	10041	-0.7971370816230774	-0.16997805	Yes	
+row_16	NQO1	NAD(P)H quinone dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:2874]	null	null	10733	-0.8403698205947876	-0.1361152	Yes	
+row_17	ADPRHL2	ADP-ribosylhydrolase like 2 [Source:HGNC Symbol;Acc:HGNC:21304]	null	null	11071	-0.8692335486412048	-0.06805039	Yes	
+row_18	PRDX2	peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353]	null	null	11317	-0.9018418788909912	0.01172043	Yes	

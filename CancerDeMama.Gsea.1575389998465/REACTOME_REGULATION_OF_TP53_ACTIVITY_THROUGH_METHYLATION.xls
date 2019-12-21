@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KMT5A	lysine methyltransferase 5A [Source:HGNC Symbol;Acc:HGNC:29489]	null	null	675	0.8360578417778015	0.043078054	No	
+row_1	EHMT2	euchromatic histone lysine methyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:14129]	null	null	3403	0.6651141047477722	-0.016498795	No	
+row_2	TTC5	tetratricopeptide repeat domain 5 [Source:HGNC Symbol;Acc:HGNC:19274]	null	null	3837	0.6397044658660889	0.020039072	No	
+row_3	L3MBTL1	L3MBTL histone methyl-lysine binding protein 1 [Source:HGNC Symbol;Acc:HGNC:15905]	null	null	5987	0.4952686131000519	-0.02939668	No	
+row_4	UBC	ubiquitin C [Source:HGNC Symbol;Acc:HGNC:12468]	null	null	6352	0.46722927689552307	-0.004755984	No	
+row_5	UBB	ubiquitin B [Source:HGNC Symbol;Acc:HGNC:12463]	null	null	6514	0.45386001467704773	0.027432323	No	
+row_6	TP53	tumor protein p53 [Source:HGNC Symbol;Acc:HGNC:11998]	null	null	9814	0.17077015340328217	-0.0992301	No	
+row_7	CHEK2	checkpoint kinase 2 [Source:HGNC Symbol;Acc:HGNC:16627]	null	null	10241	0.13649682700634003	-0.10572972	No	
+row_8	EHMT1	euchromatic histone lysine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:24650]	null	null	12478	-0.04857242479920387	-0.19736418	No	
+row_9	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	null	null	17039	-0.39954015612602234	-0.35836107	No	
+row_10	PRMT5	protein arginine methyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:10894]	null	null	20796	-0.6812488436698914	-0.46064332	Yes	
+row_11	MDM4	MDM4 regulator of p53 [Source:HGNC Symbol;Acc:HGNC:6974]	null	null	21241	-0.7170679569244385	-0.4179141	Yes	
+row_12	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1 [Source:HGNC Symbol;Acc:HGNC:12458]	null	null	21916	-0.7734094262123108	-0.3801886	Yes	
+row_13	SETD9	SET domain containing 9 [Source:HGNC Symbol;Acc:HGNC:28508]	null	null	21918	-0.773579478263855	-0.31360894	Yes	
+row_14	MDM2	MDM2 proto-oncogene [Source:HGNC Symbol;Acc:HGNC:6973]	null	null	22275	-0.8052341938018799	-0.2595156	Yes	
+row_15	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	null	null	22498	-0.8248810768127441	-0.19798808	Yes	
+row_16	JMY	junction mediating and regulatory protein, p53 cofactor [Source:HGNC Symbol;Acc:HGNC:28916]	null	null	22917	-0.8704858422279358	-0.14093198	Yes	
+row_17	SMYD2	SET and MYND domain containing 2 [Source:HGNC Symbol;Acc:HGNC:20982]	null	null	23097	-0.8969194293022156	-0.07135767	Yes	
+row_18	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	null	null	23326	-0.9559387564659119	0.0011997754	Yes	

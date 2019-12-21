@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LARP6	La ribonucleoprotein domain family member 6 [Source:HGNC Symbol;Acc:HGNC:24012]	null	null	74	0.9309195876121521	0.07433687	Yes	
+row_1	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	null	null	247	0.8851221203804016	0.13612813	Yes	
+row_2	WNT4	Wnt family member 4 [Source:HGNC Symbol;Acc:HGNC:12783]	null	null	434	0.8530093431472778	0.19390753	Yes	
+row_3	EMILIN1	elastin microfibril interfacer 1 [Source:HGNC Symbol;Acc:HGNC:19880]	null	null	655	0.821856677532196	0.24600941	Yes	
+row_4	F2R	coagulation factor II thrombin receptor [Source:HGNC Symbol;Acc:HGNC:3537]	null	null	947	0.7826588749885559	0.2884997	Yes	
+row_5	MYB	MYB proto-oncogene, transcription factor [Source:HGNC Symbol;Acc:HGNC:7545]	null	null	1141	0.7604584693908691	0.3376331	Yes	
+row_6	HDAC2	histone deacetylase 2 [Source:HGNC Symbol;Acc:HGNC:4853]	null	null	1143	0.760381281375885	0.40355036	Yes	
+row_7	PPARD	peroxisome proliferator activated receptor delta [Source:HGNC Symbol;Acc:HGNC:9235]	null	null	1206	0.7515338659286499	0.4633651	Yes	
+row_8	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	null	null	1294	0.7397285103797913	0.5199688	Yes	
+row_9	GOT1	glutamic-oxaloacetic transaminase 1 [Source:HGNC Symbol;Acc:HGNC:4432]	null	null	2921	0.510021448135376	0.4220461	No	
+row_10	VIM	vimentin [Source:HGNC Symbol;Acc:HGNC:12692]	null	null	4813	-0.013633706606924534	0.25786006	No	
+row_11	CIITA	class II major histocompatibility complex transactivator [Source:HGNC Symbol;Acc:HGNC:7067]	null	null	5300	-0.16870298981666565	0.23000321	No	
+row_12	UCN	urocortin [Source:HGNC Symbol;Acc:HGNC:12516]	null	null	6705	-0.47692227363586426	0.14862138	No	
+row_13	ERRFI1	ERBB receptor feedback inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:18185]	null	null	7942	-0.6360307335853577	0.09574266	No	
+row_14	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	null	null	8935	-0.7206191420555115	0.07154461	No	
+row_15	RGCC	regulator of cell cycle [Source:HGNC Symbol;Acc:HGNC:20369]	null	null	10678	-0.8363115787506104	-0.008198891	No	
+row_16	RAP1A	RAP1A, member of RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9855]	null	null	11101	-0.8721967935562134	0.030607685	No	

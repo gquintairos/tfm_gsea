@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD7	CD7 molecule [Source:HGNC Symbol;Acc:HGNC:1695]	null	null	120	0.9141928553581238	0.08280189	No	
+row_1	HLA-DRB1	major histocompatibility complex, class II, DR beta 1 [Source:HGNC Symbol;Acc:HGNC:4948]	null	null	187	0.8984302878379822	0.16871673	No	
+row_2	HLA-DPB1	major histocompatibility complex, class II, DP beta 1 [Source:HGNC Symbol;Acc:HGNC:4940]	null	null	1431	0.7229151129722595	0.1338085	No	
+row_3	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	null	null	2634	0.5614830851554871	0.08601083	No	
+row_4	GLUL	glutamate-ammonia ligase [Source:HGNC Symbol;Acc:HGNC:4341]	null	null	3853	0.2799975574016571	0.008088357	No	
+row_5	TGFBR2	transforming growth factor beta receptor 2 [Source:HGNC Symbol;Acc:HGNC:11773]	null	null	5128	-0.11856153607368469	-0.09120519	No	
+row_6	PLAGL1	PLAG1 like zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:9046]	null	null	5474	-0.2165655940771103	-0.09926973	No	
+row_7	SUSD6	sushi domain containing 6 [Source:HGNC Symbol;Acc:HGNC:19956]	null	null	5784	-0.2891984283924103	-0.09677436	No	
+row_8	GLS	glutaminase [Source:HGNC Symbol;Acc:HGNC:4331]	null	null	7499	-0.5909286141395569	-0.18633407	No	
+row_9	BTN2A1	butyrophilin subfamily 2 member A1 [Source:HGNC Symbol;Acc:HGNC:1136]	null	null	10233	-0.8081248998641968	-0.3428255	Yes	
+row_10	HLA-DRA	major histocompatibility complex, class II, DR alpha [Source:HGNC Symbol;Acc:HGNC:4947]	null	null	10375	-0.8165941834449768	-0.27181977	Yes	
+row_11	KTN1	kinectin 1 [Source:HGNC Symbol;Acc:HGNC:6467]	null	null	10680	-0.8364132642745972	-0.21304348	Yes	
+row_12	GIMAP6	GTPase, IMAP family member 6 [Source:HGNC Symbol;Acc:HGNC:21918]	null	null	11164	-0.8787420392036438	-0.16559847	Yes	
+row_13	HLA-DPA1	major histocompatibility complex, class II, DP alpha 1 [Source:HGNC Symbol;Acc:HGNC:4938]	null	null	11424	-0.9299761056900024	-0.09333941	Yes	
+row_14	APOL3	apolipoprotein L3 [Source:HGNC Symbol;Acc:HGNC:14868]	null	null	11435	-0.9369120001792908	0.0013988996	Yes	

@@ -1,0 +1,22 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CCND1	cyclin D1 [Source:HGNC Symbol;Acc:HGNC:1582]	null	null	0	1.0	0.07093985	Yes	
+row_1	LFNG	LFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase [Source:HGNC Symbol;Acc:HGNC:6560]	null	null	2	0.9830937385559082	0.14059289	Yes	
+row_2	TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	null	null	18	0.9631127715110779	0.20760374	Yes	
+row_3	IL18	interleukin 18 [Source:HGNC Symbol;Acc:HGNC:5986]	null	null	201	0.8955630660057068	0.25521323	Yes	
+row_4	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	null	null	727	0.8119459748268127	0.2668848	Yes	
+row_5	NFKB2	nuclear factor kappa B subunit 2 [Source:HGNC Symbol;Acc:HGNC:7795]	null	null	930	0.7841998338699341	0.3048446	Yes	
+row_6	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	null	null	1294	0.7397285103797913	0.32556507	Yes	
+row_7	ID2	inhibitor of DNA binding 2 [Source:HGNC Symbol;Acc:HGNC:5361]	null	null	1593	0.7070689797401428	0.34965497	Yes	
+row_8	CCND3	cyclin D3 [Source:HGNC Symbol;Acc:HGNC:1585]	null	null	2028	0.6557533144950867	0.35820708	Yes	
+row_9	FGR	FGR proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3697]	null	null	2132	0.6409239172935486	0.39466354	Yes	
+row_10	LTB	lymphotoxin beta [Source:HGNC Symbol;Acc:HGNC:6711]	null	null	2169	0.6363716125488281	0.43665832	Yes	
+row_11	TNFSF13	TNF superfamily member 13 [Source:HGNC Symbol;Acc:HGNC:11928]	null	null	2234	0.6257774233818054	0.47545207	Yes	
+row_12	CBX5	chromobox 5 [Source:HGNC Symbol;Acc:HGNC:1555]	null	null	3214	0.4481181800365448	0.4215972	No	
+row_13	CD86	CD86 molecule [Source:HGNC Symbol;Acc:HGNC:1705]	null	null	3949	0.2530934810638428	0.37534025	No	
+row_14	FZD1	frizzled class receptor 1 [Source:HGNC Symbol;Acc:HGNC:4038]	null	null	4549	0.06927145272493362	0.327853	No	
+row_15	NFATC1	nuclear factor of activated T cells 1 [Source:HGNC Symbol;Acc:HGNC:7775]	null	null	5862	-0.30902454257011414	0.23499955	No	
+row_16	BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	null	null	6731	-0.4812588095664978	0.19320612	No	
+row_17	LRMP	lymphoid restricted membrane protein [Source:HGNC Symbol;Acc:HGNC:6690]	null	null	7049	-0.5281618237495422	0.20294224	No	
+row_18	JAK2	Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192]	null	null	10358	-0.8153992891311646	-0.028601965	No	
+row_19	LCK	LCK proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:6524]	null	null	10904	-0.8545842170715332	-0.015655257	No	
+row_20	CADM1	cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5951]	null	null	11284	-0.8939993977546692	0.014609475	No	

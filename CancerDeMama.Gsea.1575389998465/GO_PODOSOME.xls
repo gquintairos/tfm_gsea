@@ -1,0 +1,30 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	null	null	511	0.8528173565864563	0.03458708	No	
+row_1	FERMT3	fermitin family member 3 [Source:HGNC Symbol;Acc:HGNC:23151]	null	null	1153	0.8003436326980591	0.060124923	No	
+row_2	SH3GL1	SH3 domain containing GRB2 like 1, endophilin A2 [Source:HGNC Symbol;Acc:HGNC:10830]	null	null	1517	0.7741098999977112	0.095842965	No	
+row_3	DBNL	drebrin like [Source:HGNC Symbol;Acc:HGNC:2696]	null	null	1918	0.7513015866279602	0.1284639	No	
+row_4	ARHGEF5	Rho guanine nucleotide exchange factor 5 [Source:HGNC Symbol;Acc:HGNC:13209]	null	null	2032	0.7432875633239746	0.17285779	No	
+row_5	GSN	gelsolin [Source:HGNC Symbol;Acc:HGNC:4620]	null	null	4210	0.6171725988388062	0.120412394	No	
+row_6	CTTN	cortactin [Source:HGNC Symbol;Acc:HGNC:3338]	null	null	6238	0.4763849973678589	0.06507127	No	
+row_7	FSCN1	fascin actin-bundling protein 1 [Source:HGNC Symbol;Acc:HGNC:11148]	null	null	6240	0.4763423204421997	0.09658319	No	
+row_8	SH3PXD2A	SH3 and PX domains 2A [Source:HGNC Symbol;Acc:HGNC:23664]	null	null	6628	0.4441882073879242	0.10941703	No	
+row_9	ADAM8	ADAM metallopeptidase domain 8 [Source:HGNC Symbol;Acc:HGNC:215]	null	null	8381	0.30102965235710144	0.054249097	No	
+row_10	AFAP1L1	actin filament associated protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:26714]	null	null	9038	0.2424691915512085	0.042188082	No	
+row_11	WDR1	WD repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12754]	null	null	9358	0.21434570848941803	0.042711455	No	
+row_12	LPXN	leupaxin [Source:HGNC Symbol;Acc:HGNC:14061]	null	null	10276	0.1337532252073288	0.012259441	No	
+row_13	VCL	vinculin [Source:HGNC Symbol;Acc:HGNC:12665]	null	null	11505	0.03258907049894333	-0.038226847	No	
+row_14	SCIN	scinderin [Source:HGNC Symbol;Acc:HGNC:21695]	null	null	11884	0.0016662220004945993	-0.05432156	No	
+row_15	ARHGEF2	Rho/Rac guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:682]	null	null	12069	-0.014584232121706009	-0.06124364	No	
+row_16	BIN2	bridging integrator 2 [Source:HGNC Symbol;Acc:HGNC:1053]	null	null	12970	-0.08932125568389893	-0.0939102	No	
+row_17	VCAM1	vascular cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:12663]	null	null	13146	-0.10150454938411713	-0.0946885	No	
+row_18	ACTR2	actin related protein 2 [Source:HGNC Symbol;Acc:HGNC:169]	null	null	13199	-0.10586852580308914	-0.08990463	No	
+row_19	SVIL	supervillin [Source:HGNC Symbol;Acc:HGNC:11480]	null	null	20383	-0.6501985788345337	-0.35477254	Yes	
+row_20	SH3PXD2B	SH3 and PX domains 2B [Source:HGNC Symbol;Acc:HGNC:29242]	null	null	20709	-0.6748362183570862	-0.3240017	Yes	
+row_21	RHOU	ras homolog family member U [Source:HGNC Symbol;Acc:HGNC:17794]	null	null	21137	-0.709628164768219	-0.2952989	Yes	
+row_22	HNRNPK	heterogeneous nuclear ribonucleoprotein K [Source:HGNC Symbol;Acc:HGNC:5044]	null	null	22019	-0.7828240990638733	-0.28121057	Yes	
+row_23	ASAP1	ArfGAP with SH3 domain, ankyrin repeat and PH domain 1 [Source:HGNC Symbol;Acc:HGNC:2720]	null	null	22145	-0.7925409078598022	-0.23406838	Yes	
+row_24	TJP1	tight junction protein 1 [Source:HGNC Symbol;Acc:HGNC:11827]	null	null	22635	-0.8386157155036926	-0.19947891	Yes	
+row_25	KIF9	kinesin family member 9 [Source:HGNC Symbol;Acc:HGNC:16666]	null	null	22676	-0.842351496219635	-0.14539307	Yes	
+row_26	PALLD	palladin, cytoskeletal associated protein [Source:HGNC Symbol;Acc:HGNC:17068]	null	null	22808	-0.8563204407691956	-0.09428309	Yes	
+row_27	PTPN12	protein tyrosine phosphatase non-receptor type 12 [Source:HGNC Symbol;Acc:HGNC:9645]	null	null	22874	-0.863785982131958	-0.039849106	Yes	
+row_28	LCP1	lymphocyte cytosolic protein 1 [Source:HGNC Symbol;Acc:HGNC:6528]	null	null	23180	-0.9115422368049622	0.007459492	Yes	

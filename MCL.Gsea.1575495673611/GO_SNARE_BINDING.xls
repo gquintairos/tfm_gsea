@@ -1,0 +1,100 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NSF	N-ethylmaleimide sensitive factor, vesicle fusing ATPase [Source:HGNC Symbol;Acc:HGNC:8016]	null	null	76	0.4536437690258026	0.02734709	Yes	
+row_1	BAIAP3	BAI1 associated protein 3 [Source:HGNC Symbol;Acc:HGNC:948]	null	null	82	0.4514652192592621	0.057656266	Yes	
+row_2	RNF40	ring finger protein 40 [Source:HGNC Symbol;Acc:HGNC:16867]	null	null	85	0.4493640959262848	0.087954745	Yes	
+row_3	TSNARE1	t-SNARE domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26437]	null	null	121	0.4305013120174408	0.1155325	Yes	
+row_4	STXBP2	syntaxin binding protein 2 [Source:HGNC Symbol;Acc:HGNC:11445]	null	null	306	0.3778007924556732	0.1330213	Yes	
+row_5	UVRAG	UV radiation resistance associated [Source:HGNC Symbol;Acc:HGNC:12640]	null	null	404	0.3637874126434326	0.1533726	Yes	
+row_6	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	null	null	600	0.33627745509147644	0.16757184	Yes	
+row_7	SYT7	synaptotagmin 7 [Source:HGNC Symbol;Acc:HGNC:11514]	null	null	790	0.31553688645362854	0.18063135	Yes	
+row_8	SYT12	synaptotagmin 12 [Source:HGNC Symbol;Acc:HGNC:18381]	null	null	867	0.3092026114463806	0.19821131	Yes	
+row_9	VAMP2	vesicle associated membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:12643]	null	null	1064	0.29265186190605164	0.20941679	Yes	
+row_10	TXLNB	taxilin beta [Source:HGNC Symbol;Acc:HGNC:21617]	null	null	1184	0.284555047750473	0.22344692	Yes	
+row_11	STX8	syntaxin 8 [Source:HGNC Symbol;Acc:HGNC:11443]	null	null	1227	0.2809607982635498	0.24060617	Yes	
+row_12	SNAP91	synaptosome associated protein 91 [Source:HGNC Symbol;Acc:HGNC:14986]	null	null	1248	0.27883514761924744	0.25858516	Yes	
+row_13	SYT5	synaptotagmin 5 [Source:HGNC Symbol;Acc:HGNC:11513]	null	null	1352	0.2720645070075989	0.27247137	Yes	
+row_14	CPLX2	complexin 2 [Source:HGNC Symbol;Acc:HGNC:2310]	null	null	1463	0.2653277516365051	0.2855955	Yes	
+row_15	TXLNA	taxilin alpha [Source:HGNC Symbol;Acc:HGNC:30685]	null	null	1575	0.25898027420043945	0.29824662	Yes	
+row_16	VAMP7	vesicle associated membrane protein 7 [Source:HGNC Symbol;Acc:HGNC:11486]	null	null	1925	0.24174848198890686	0.29930946	Yes	
+row_17	NAPB	NSF attachment protein beta [Source:HGNC Symbol;Acc:HGNC:15751]	null	null	2255	0.2279151827096939	0.3003128	Yes	
+row_18	VPS18	VPS18 core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:15972]	null	null	2264	0.22770053148269653	0.31535956	Yes	
+row_19	NBAS	neuroblastoma amplified sequence [Source:HGNC Symbol;Acc:HGNC:15625]	null	null	2331	0.22471539676189423	0.32766443	Yes	
+row_20	VPS52	VPS52 subunit of GARP complex [Source:HGNC Symbol;Acc:HGNC:10518]	null	null	2419	0.22056449949741364	0.33876893	Yes	
+row_21	GOLGA2	golgin A2 [Source:HGNC Symbol;Acc:HGNC:4425]	null	null	2607	0.21250994503498077	0.34494933	Yes	
+row_22	UNC13B	unc-13 homolog B [Source:HGNC Symbol;Acc:HGNC:12566]	null	null	2741	0.20734632015228271	0.35314548	Yes	
+row_23	HECTD3	HECT domain E3 ubiquitin protein ligase 3 [Source:HGNC Symbol;Acc:HGNC:26117]	null	null	2769	0.2061229646205902	0.3659011	Yes	
+row_24	SYT9	synaptotagmin 9 [Source:HGNC Symbol;Acc:HGNC:19265]	null	null	3122	0.1930444985628128	0.3635392	Yes	
+row_25	STX3	syntaxin 3 [Source:HGNC Symbol;Acc:HGNC:11438]	null	null	3232	0.18947109580039978	0.37157768	Yes	
+row_26	STX11	syntaxin 11 [Source:HGNC Symbol;Acc:HGNC:11429]	null	null	3506	0.181444451212883	0.3718911	Yes	
+row_27	VPS50	VPS50 subunit of EARP/GARPII complex [Source:HGNC Symbol;Acc:HGNC:25956]	null	null	3570	0.1789378821849823	0.38123187	Yes	
+row_28	EXOC3	exocyst complex component 3 [Source:HGNC Symbol;Acc:HGNC:30378]	null	null	3792	0.17224454879760742	0.38320053	Yes	
+row_29	ABL1	ABL proto-oncogene 1, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:76]	null	null	3945	0.1676754504442215	0.38788202	Yes	
+row_30	PICALM	phosphatidylinositol binding clathrin assembly protein [Source:HGNC Symbol;Acc:HGNC:15514]	null	null	4320	0.15617065131664276	0.38206324	Yes	
+row_31	VPS11	VPS11 core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:14583]	null	null	4362	0.1552148312330246	0.3907633	Yes	
+row_32	STX17	syntaxin 17 [Source:HGNC Symbol;Acc:HGNC:11432]	null	null	4553	0.15031594038009644	0.39260677	Yes	
+row_33	STXBP5L	syntaxin binding protein 5 like [Source:HGNC Symbol;Acc:HGNC:30757]	null	null	4612	0.148415669798851	0.4001026	Yes	
+row_34	SYT1	synaptotagmin 1 [Source:HGNC Symbol;Acc:HGNC:11509]	null	null	4789	0.14398986101150513	0.4021314	Yes	
+row_35	SYT2	synaptotagmin 2 [Source:HGNC Symbol;Acc:HGNC:11510]	null	null	5202	0.13267534971237183	0.39305967	No	
+row_36	SEC24C	SEC24 homolog C, COPII coat complex component [Source:HGNC Symbol;Acc:HGNC:10705]	null	null	5250	0.13151711225509644	0.39989454	No	
+row_37	SNAP29	synaptosome associated protein 29 [Source:HGNC Symbol;Acc:HGNC:11133]	null	null	5406	0.1275153011083603	0.40172902	No	
+row_38	VTI1A	vesicle transport through interaction with t-SNAREs 1A [Source:HGNC Symbol;Acc:HGNC:17792]	null	null	6007	0.11281640082597733	0.38308108	No	
+row_39	NAPG	NSF attachment protein gamma [Source:HGNC Symbol;Acc:HGNC:7642]	null	null	6081	0.11078009009361267	0.38737506	No	
+row_40	SYT17	synaptotagmin 17 [Source:HGNC Symbol;Acc:HGNC:24119]	null	null	6642	0.09845283627510071	0.3695076	No	
+row_41	STXBP5	syntaxin binding protein 5 [Source:HGNC Symbol;Acc:HGNC:19665]	null	null	6745	0.09591056406497955	0.3715261	No	
+row_42	STX2	syntaxin 2 [Source:HGNC Symbol;Acc:HGNC:3403]	null	null	6953	0.09142814576625824	0.36864305	No	
+row_43	STX12	syntaxin 12 [Source:HGNC Symbol;Acc:HGNC:11430]	null	null	7128	0.08787493407726288	0.36696494	No	
+row_44	SYT6	synaptotagmin 6 [Source:HGNC Symbol;Acc:HGNC:18638]	null	null	7178	0.08703239262104034	0.37070417	No	
+row_45	RAB4A	RAB4A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9781]	null	null	7200	0.08675113320350647	0.3756506	No	
+row_46	GOSR2	golgi SNAP receptor complex member 2 [Source:HGNC Symbol;Acc:HGNC:4431]	null	null	7290	0.08469565957784653	0.37748003	No	
+row_47	EXOC3L4	exocyst complex component 3 like 4 [Source:HGNC Symbol;Acc:HGNC:20120]	null	null	7304	0.0843278095126152	0.38261297	No	
+row_48	ABCA1	ATP binding cassette subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:29]	null	null	7351	0.08317819237709045	0.38622296	No	
+row_49	SLC6A4	solute carrier family 6 member 4 [Source:HGNC Symbol;Acc:HGNC:11050]	null	null	7867	0.07230589538812637	0.3685582	No	
+row_50	STX16	syntaxin 16 [Source:HGNC Symbol;Acc:HGNC:11431]	null	null	8149	0.06637272238731384	0.36074013	No	
+row_51	LRRK2	leucine rich repeat kinase 2 [Source:HGNC Symbol;Acc:HGNC:18618]	null	null	8660	0.05514366179704666	0.34213385	No	
+row_52	ANKRD27	ankyrin repeat domain 27 [Source:HGNC Symbol;Acc:HGNC:25310]	null	null	9101	0.045720361173152924	0.32595596	No	
+row_53	PRRT2	proline rich transmembrane protein 2 [Source:HGNC Symbol;Acc:HGNC:30500]	null	null	9437	0.039301302284002304	0.3139424	No	
+row_54	SYT13	synaptotagmin 13 [Source:HGNC Symbol;Acc:HGNC:14962]	null	null	9548	0.03721315786242485	0.3116414	No	
+row_55	TXLNGY	taxilin gamma pseudogene, Y-linked [Source:HGNC Symbol;Acc:HGNC:18473]	null	null	9653	0.0347268171608448	0.309435	No	
+row_56	SNAPIN	SNAP associated protein [Source:HGNC Symbol;Acc:HGNC:17145]	null	null	9747	0.03293116018176079	0.30758893	No	
+row_57	GABARAPL2	GABA type A receptor associated protein like 2 [Source:HGNC Symbol;Acc:HGNC:13291]	null	null	9818	0.03132804483175278	0.30664176	No	
+row_58	SNAP47	synaptosome associated protein 47 [Source:HGNC Symbol;Acc:HGNC:30669]	null	null	10046	0.02654499001801014	0.2984954	No	
+row_59	TNFAIP2	TNF alpha induced protein 2 [Source:HGNC Symbol;Acc:HGNC:11895]	null	null	10188	0.023798884823918343	0.2939297	No	
+row_60	TRIM9	tripartite motif containing 9 [Source:HGNC Symbol;Acc:HGNC:16288]	null	null	10232	0.023077623918652534	0.29360706	No	
+row_61	EXOC3L2	exocyst complex component 3 like 2 [Source:HGNC Symbol;Acc:HGNC:30162]	null	null	10479	0.01849460043013096	0.28408423	No	
+row_62	SYT4	synaptotagmin 4 [Source:HGNC Symbol;Acc:HGNC:11512]	null	null	11138	0.005199407692998648	0.25561914	No	
+row_63	STX19	syntaxin 19 [Source:HGNC Symbol;Acc:HGNC:19300]	null	null	11252	0.0030244742520153522	0.2508749	No	
+row_64	STX1B	syntaxin 1B [Source:HGNC Symbol;Acc:HGNC:18539]	null	null	11276	0.0026000021025538445	0.25004345	No	
+row_65	SNCA	synuclein alpha [Source:HGNC Symbol;Acc:HGNC:11138]	null	null	11294	0.0022099586203694344	0.24944839	No	
+row_66	VAMP3	vesicle associated membrane protein 3 [Source:HGNC Symbol;Acc:HGNC:12644]	null	null	11448	-7.386825163848698E-4	0.24279779	No	
+row_67	CACNA1A	calcium voltage-gated channel subunit alpha1 A [Source:HGNC Symbol;Acc:HGNC:1388]	null	null	11696	-0.005602934397757053	0.23235947	No	
+row_68	CAPN10	calpain 10 [Source:HGNC Symbol;Acc:HGNC:1477]	null	null	11878	-0.009316066280007362	0.22506264	No	
+row_69	STX10	syntaxin 10 [Source:HGNC Symbol;Acc:HGNC:11428]	null	null	12525	-0.02189040742814541	0.19825174	No	
+row_70	STX6	syntaxin 6 [Source:HGNC Symbol;Acc:HGNC:11441]	null	null	12660	-0.02449820749461651	0.19403987	No	
+row_71	STX7	syntaxin 7 [Source:HGNC Symbol;Acc:HGNC:11442]	null	null	12954	-0.03010925091803074	0.18324411	No	
+row_72	UNC13A	unc-13 homolog A [Source:HGNC Symbol;Acc:HGNC:23150]	null	null	12977	-0.03061697632074356	0.18435097	No	
+row_73	STX1A	syntaxin 1A [Source:HGNC Symbol;Acc:HGNC:11433]	null	null	13007	-0.031172746792435646	0.18518883	No	
+row_74	EXOC3L1	exocyst complex component 3 like 1 [Source:HGNC Symbol;Acc:HGNC:27540]	null	null	13179	-0.034249261021614075	0.18001594	No	
+row_75	STXBP1	syntaxin binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11444]	null	null	13301	-0.036597661674022675	0.17719157	No	
+row_76	SYT8	synaptotagmin 8 [Source:HGNC Symbol;Acc:HGNC:19264]	null	null	13343	-0.03764633461833	0.17794165	No	
+row_77	DAPK1	death associated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:2674]	null	null	13851	-0.04738641902804375	0.1589422	No	
+row_78	PTPN2	protein tyrosine phosphatase non-receptor type 2 [Source:HGNC Symbol;Acc:HGNC:9650]	null	null	14537	-0.06117836385965347	0.13307996	No	
+row_79	SYBU	syntabulin [Source:HGNC Symbol;Acc:HGNC:26011]	null	null	14551	-0.06135745719075203	0.13665964	No	
+row_80	SCFD1	sec1 family domain containing 1 [Source:HGNC Symbol;Acc:HGNC:20726]	null	null	14559	-0.061548445373773575	0.14051498	No	
+row_81	SNAP25	synaptosome associated protein 25 [Source:HGNC Symbol;Acc:HGNC:11132]	null	null	15006	-0.07154948264360428	0.12582089	No	
+row_82	SNPH	syntaphilin [Source:HGNC Symbol;Acc:HGNC:15931]	null	null	15534	-0.0832507386803627	0.10837071	No	
+row_83	VTI1B	vesicle transport through interaction with t-SNAREs 1B [Source:HGNC Symbol;Acc:HGNC:17793]	null	null	16428	-0.10245707631111145	0.076190524	No	
+row_84	UNC13C	unc-13 homolog C [Source:HGNC Symbol;Acc:HGNC:23149]	null	null	16589	-0.10612737387418747	0.07635978	No	
+row_85	RAB11A	RAB11A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9760]	null	null	18133	-0.14509998261928558	0.018596789	No	
+row_86	DOC2B	double C2 domain beta [Source:HGNC Symbol;Acc:HGNC:2986]	null	null	18401	-0.15242327749729156	0.017210584	No	
+row_87	SEC24D	SEC24 homolog D, COPII coat complex component [Source:HGNC Symbol;Acc:HGNC:10706]	null	null	18574	-0.1583179086446762	0.020383438	No	
+row_88	VPS54	VPS54 subunit of GARP complex [Source:HGNC Symbol;Acc:HGNC:18652]	null	null	18849	-0.16674897074699402	0.01965938	No	
+row_89	SEC22B	SEC22 homolog B, vesicle trafficking protein (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:10700]	null	null	19168	-0.17631711065769196	0.017655367	No	
+row_90	TMED10	transmembrane p24 trafficking protein 10 [Source:HGNC Symbol;Acc:HGNC:16998]	null	null	19238	-0.17838168144226074	0.026695754	No	
+row_91	SNAP23	synaptosome associated protein 23 [Source:HGNC Symbol;Acc:HGNC:11131]	null	null	19385	-0.18278874456882477	0.032661982	No	
+row_92	TXLNG	taxilin gamma [Source:HGNC Symbol;Acc:HGNC:18578]	null	null	19674	-0.19408972561359406	0.033173587	No	
+row_93	STXBP4	syntaxin binding protein 4 [Source:HGNC Symbol;Acc:HGNC:19694]	null	null	19940	-0.2039477676153183	0.035359066	No	
+row_94	SYT11	synaptotagmin 11 [Source:HGNC Symbol;Acc:HGNC:19239]	null	null	20185	-0.2142367959022522	0.039159972	No	
+row_95	STXBP3	syntaxin binding protein 3 [Source:HGNC Symbol;Acc:HGNC:11446]	null	null	21120	-0.2617737054824829	0.015957234	No	
+row_96	CPLX1	complexin 1 [Source:HGNC Symbol;Acc:HGNC:2309]	null	null	21201	-0.2658883333206177	0.030433096	No	
+row_97	TMED9	transmembrane p24 trafficking protein 9 [Source:HGNC Symbol;Acc:HGNC:24878]	null	null	21997	-0.3226741850376129	0.017435871	No	
+row_98	BLOC1S6	biogenesis of lysosomal organelles complex 1 subunit 6 [Source:HGNC Symbol;Acc:HGNC:8549]	null	null	22201	-0.3470580279827118	0.032013737	No	

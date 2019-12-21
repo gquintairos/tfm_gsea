@@ -1,0 +1,24 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OR10W1	olfactory receptor family 10 subfamily W member 1 [Source:HGNC Symbol;Acc:HGNC:15139]	null	null	594	0.831092894077301	0.016238745	Yes	
+row_1	OR5K4	olfactory receptor family 5 subfamily K member 4 [Source:HGNC Symbol;Acc:HGNC:31291]	null	null	688	0.8172334432601929	0.07517584	Yes	
+row_2	OR2G3	olfactory receptor family 2 subfamily G member 3 [Source:HGNC Symbol;Acc:HGNC:15008]	null	null	815	0.799232542514801	0.1297481	Yes	
+row_3	OR52N2	olfactory receptor family 52 subfamily N member 2 [Source:HGNC Symbol;Acc:HGNC:15228]	null	null	1063	0.7693613767623901	0.17128162	Yes	
+row_4	OR10J1	olfactory receptor family 10 subfamily J member 1 [Source:HGNC Symbol;Acc:HGNC:8175]	null	null	1066	0.7692215442657471	0.23424034	Yes	
+row_5	OR51E2	olfactory receptor family 51 subfamily E member 2 [Source:HGNC Symbol;Acc:HGNC:15195]	null	null	1301	0.7391635179519653	0.2744328	Yes	
+row_6	OR2H2	olfactory receptor family 2 subfamily H member 2 [Source:HGNC Symbol;Acc:HGNC:8253]	null	null	1384	0.7288639545440674	0.32707945	Yes	
+row_7	OR11L1	olfactory receptor family 11 subfamily L member 1 [Source:HGNC Symbol;Acc:HGNC:14998]	null	null	1442	0.7222687602043152	0.3813722	Yes	
+row_8	OR4C45	olfactory receptor family 4 subfamily C member 45 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:31270]	null	null	1523	0.7142699360847473	0.43299606	Yes	
+row_9	OR2AG1	olfactory receptor family 2 subfamily AG member 1 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:15142]	null	null	2021	0.6563266515731812	0.44337806	Yes	
+row_10	OR4F21	olfactory receptor family 4 subfamily F member 21 [Source:HGNC Symbol;Acc:HGNC:19583]	null	null	2490	0.585295557975769	0.45046765	Yes	
+row_11	OR4C3	olfactory receptor family 4 subfamily C member 3 [Source:HGNC Symbol;Acc:HGNC:14697]	null	null	2537	0.5781522393226624	0.49389452	Yes	
+row_12	OR2W5	olfactory receptor family 2 subfamily W member 5 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:15424]	null	null	2881	0.5196228623390198	0.5065311	Yes	
+row_13	OR52K1	olfactory receptor family 52 subfamily K member 1 [Source:HGNC Symbol;Acc:HGNC:15222]	null	null	3057	0.4805842638015747	0.530663	Yes	
+row_14	OR2A42	olfactory receptor family 2 subfamily A member 42 [Source:HGNC Symbol;Acc:HGNC:31230]	null	null	3082	0.4752976894378662	0.5675731	Yes	
+row_15	OR4P4	olfactory receptor family 4 subfamily P member 4 [Source:HGNC Symbol;Acc:HGNC:15180]	null	null	3364	0.41340214014053345	0.5769164	Yes	
+row_16	OR11A1	olfactory receptor family 11 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:8176]	null	null	3489	0.38093268871307373	0.5973318	Yes	
+row_17	OR51D1	olfactory receptor family 51 subfamily D member 1 [Source:HGNC Symbol;Acc:HGNC:15193]	null	null	3537	0.36466601490974426	0.62314934	Yes	
+row_18	OR2A5	olfactory receptor family 2 subfamily A member 5 [Source:HGNC Symbol;Acc:HGNC:8232]	null	null	4363	0.12840987741947174	0.56150377	No	
+row_19	OR51T1	olfactory receptor family 51 subfamily T member 1 [Source:HGNC Symbol;Acc:HGNC:15205]	null	null	4659	0.03806828707456589	0.5388167	No	
+row_20	OR2B2	olfactory receptor family 2 subfamily B member 2 [Source:HGNC Symbol;Acc:HGNC:13966]	null	null	5103	-0.11124373227357864	0.50918597	No	
+row_21	OR52A5	olfactory receptor family 52 subfamily A member 5 [Source:HGNC Symbol;Acc:HGNC:19580]	null	null	5605	-0.24914641678333282	0.48579875	No	
+row_22	OR5B12	olfactory receptor family 5 subfamily B member 12 [Source:HGNC Symbol;Acc:HGNC:15432]	null	null	5879	-0.3121485114097595	0.48753166	No	

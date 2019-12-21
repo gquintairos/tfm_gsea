@@ -1,0 +1,34 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYO10	myosin X [Source:HGNC Symbol;Acc:HGNC:7593]	null	null	47	0.940820574760437	0.040518552	Yes	
+row_1	ADAP1	ArfGAP with dual PH domains 1 [Source:HGNC Symbol;Acc:HGNC:16486]	null	null	92	0.9231445789337158	0.08046124	Yes	
+row_2	HIP1R	huntingtin interacting protein 1 related [Source:HGNC Symbol;Acc:HGNC:18415]	null	null	195	0.8961721062660217	0.11404504	Yes	
+row_3	DAPP1	dual adaptor of phosphotyrosine and 3-phosphoinositides 1 [Source:HGNC Symbol;Acc:HGNC:16500]	null	null	226	0.8901554942131042	0.15364867	Yes	
+row_4	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	null	null	457	0.8493513464927673	0.17380182	Yes	
+row_5	GAB2	GRB2 associated binding protein 2 [Source:HGNC Symbol;Acc:HGNC:14458]	null	null	577	0.8336020708084106	0.20292842	Yes	
+row_6	NRGN	neurogranin [Source:HGNC Symbol;Acc:HGNC:8000]	null	null	697	0.8166046738624573	0.23124863	Yes	
+row_7	FCHSD2	FCH and double SH3 domains 2 [Source:HGNC Symbol;Acc:HGNC:29114]	null	null	724	0.8122429251670837	0.2675062	Yes	
+row_8	ZFYVE16	zinc finger FYVE-type containing 16 [Source:HGNC Symbol;Acc:HGNC:20756]	null	null	767	0.8056283593177795	0.30204883	Yes	
+row_9	ANXA8L1	annexin A8 like 1 [Source:HGNC Symbol;Acc:HGNC:23334]	null	null	1407	0.726159930229187	0.28054002	Yes	
+row_10	COMMD1	copper metabolism domain containing 1 [Source:HGNC Symbol;Acc:HGNC:23024]	null	null	1410	0.7254489064216614	0.3147817	Yes	
+row_11	PARD3	par-3 family cell polarity regulator [Source:HGNC Symbol;Acc:HGNC:16051]	null	null	1429	0.7232043743133545	0.3475157	Yes	
+row_12	BTK	Bruton tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:1133]	null	null	1976	0.662368655204773	0.3311248	No	
+row_13	MYO1G	myosin IG [Source:HGNC Symbol;Acc:HGNC:13880]	null	null	2303	0.613442063331604	0.33167887	No	
+row_14	MAPKAP1	mitogen-activated protein kinase associated protein 1 [Source:HGNC Symbol;Acc:HGNC:18752]	null	null	3561	0.3617634177207947	0.238762	No	
+row_15	IQGAP2	IQ motif containing GTPase activating protein 2 [Source:HGNC Symbol;Acc:HGNC:6111]	null	null	4417	0.10870400071144104	0.16904393	No	
+row_16	PHLDA3	pleckstrin homology like domain family A member 3 [Source:HGNC Symbol;Acc:HGNC:8934]	null	null	5320	-0.17405836284160614	0.09831047	No	
+row_17	ASAP1	ArfGAP with SH3 domain, ankyrin repeat and PH domain 1 [Source:HGNC Symbol;Acc:HGNC:2720]	null	null	5688	-0.2687181532382965	0.078919604	No	
+row_18	ADAP2	ArfGAP with dual PH domains 2 [Source:HGNC Symbol;Acc:HGNC:16487]	null	null	5883	-0.31266263127326965	0.07676375	No	
+row_19	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase [Source:HGNC Symbol;Acc:HGNC:8127]	null	null	5933	-0.3223872184753418	0.08776738	No	
+row_20	JPH2	junctophilin 2 [Source:HGNC Symbol;Acc:HGNC:14202]	null	null	6105	-0.358041912317276	0.089778595	No	
+row_21	ZFYVE1	zinc finger FYVE-type containing 1 [Source:HGNC Symbol;Acc:HGNC:13180]	null	null	6160	-0.37263616919517517	0.10272827	No	
+row_22	ARAP2	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2 [Source:HGNC Symbol;Acc:HGNC:16924]	null	null	6269	-0.3952784836292267	0.11202319	No	
+row_23	ARAP1	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1 [Source:HGNC Symbol;Acc:HGNC:16925]	null	null	6766	-0.4880162179470062	0.09173933	No	
+row_24	PLEKHB2	pleckstrin homology domain containing B2 [Source:HGNC Symbol;Acc:HGNC:19236]	null	null	7840	-0.6254295706748962	0.027444813	No	
+row_25	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	null	null	8129	-0.6526159644126892	0.033185158	No	
+row_26	MYO1B	myosin IB [Source:HGNC Symbol;Acc:HGNC:7596]	null	null	8523	-0.6881994605064392	0.031418458	No	
+row_27	RACGAP1	Rac GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:9804]	null	null	8729	-0.7052054405212402	0.046922345	No	
+row_28	ARHGAP9	Rho GTPase activating protein 9 [Source:HGNC Symbol;Acc:HGNC:14130]	null	null	8831	-0.7125491499900818	0.07188226	No	
+row_29	KIF16B	kinesin family member 16B [Source:HGNC Symbol;Acc:HGNC:15869]	null	null	8981	-0.7240322828292847	0.09318344	No	
+row_30	FERMT2	fermitin family member 2 [Source:HGNC Symbol;Acc:HGNC:15767]	null	null	10799	-0.8459563255310059	-0.025803387	No	
+row_31	CYTH3	cytohesin 3 [Source:HGNC Symbol;Acc:HGNC:9504]	null	null	11038	-0.866025447845459	-0.0055597806	No	
+row_32	GBF1	golgi brefeldin A resistant guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:4181]	null	null	11155	-0.877700686454773	0.025921669	No	

@@ -1,0 +1,33 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SORD	sorbitol dehydrogenase [Source:HGNC Symbol;Acc:HGNC:11184]	null	null	642	0.8236729502677917	-0.013467272	No	
+row_1	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	null	null	1929	0.6676230430603027	-0.091426075	No	
+row_2	PYGM	glycogen phosphorylase, muscle associated [Source:HGNC Symbol;Acc:HGNC:9726]	null	null	2367	0.6058553457260132	-0.098247446	No	
+row_3	PGGHG	protein-glucosylgalactosylhydroxylysine glucosidase [Source:HGNC Symbol;Acc:HGNC:26210]	null	null	2394	0.6001057028770447	-0.06937774	No	
+row_4	PHKA1	phosphorylase kinase regulatory subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:8925]	null	null	2494	0.5845023393630981	-0.047710177	No	
+row_5	SCARB2	scavenger receptor class B member 2 [Source:HGNC Symbol;Acc:HGNC:1665]	null	null	2904	0.5141952633857727	-0.056837015	No	
+row_6	PHKG1	phosphorylase kinase catalytic subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:8930]	null	null	4193	0.18182457983493805	-0.16018464	No	
+row_7	AGL	amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase [Source:HGNC Symbol;Acc:HGNC:321]	null	null	4246	0.1656976044178009	-0.15613809	No	
+row_8	GK2	glycerol kinase 2 [Source:HGNC Symbol;Acc:HGNC:4291]	null	null	4421	0.10777964442968369	-0.16578059	No	
+row_9	GAA	glucosidase alpha, acid [Source:HGNC Symbol;Acc:HGNC:4065]	null	null	4844	-0.02618389017879963	-0.20137432	No	
+row_10	GSK3A	glycogen synthase kinase 3 alpha [Source:HGNC Symbol;Acc:HGNC:4616]	null	null	4920	-0.048850275576114655	-0.20540634	No	
+row_11	CALM1	calmodulin 1 [Source:HGNC Symbol;Acc:HGNC:1442]	null	null	4936	-0.05481202155351639	-0.20387499	No	
+row_12	PPP1R3B	protein phosphatase 1 regulatory subunit 3B [Source:HGNC Symbol;Acc:HGNC:14942]	null	null	5325	-0.1752489060163498	-0.22875479	No	
+row_13	ABHD10	abhydrolase domain containing 10 [Source:HGNC Symbol;Acc:HGNC:25656]	null	null	6294	-0.3996882438659668	-0.29277393	No	
+row_14	PYGL	glycogen phosphorylase L [Source:HGNC Symbol;Acc:HGNC:9725]	null	null	8257	-0.6652089953422546	-0.43005243	Yes	
+row_15	PPP1CB	protein phosphatase 1 catalytic subunit beta [Source:HGNC Symbol;Acc:HGNC:9282]	null	null	8470	-0.6828305125236511	-0.4131764	Yes	
+row_16	PHKA2	phosphorylase kinase regulatory subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:8926]	null	null	8684	-0.7007970809936523	-0.39545542	Yes	
+row_17	PGM2	phosphoglucomutase 2 [Source:HGNC Symbol;Acc:HGNC:8906]	null	null	8783	-0.7094742655754089	-0.36721405	Yes	
+row_18	PYGB	glycogen phosphorylase B [Source:HGNC Symbol;Acc:HGNC:9723]	null	null	9009	-0.7259334921836853	-0.3492393	Yes	
+row_19	GK5	glycerol kinase 5 [Source:HGNC Symbol;Acc:HGNC:28635]	null	null	9105	-0.7331364750862122	-0.31950712	Yes	
+row_20	GUSB	glucuronidase beta [Source:HGNC Symbol;Acc:HGNC:4696]	null	null	9108	-0.733619213104248	-0.2816063	Yes	
+row_21	PHKG2	phosphorylase kinase catalytic subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:8931]	null	null	10285	-0.8113179206848145	-0.34247488	Yes	
+row_22	PPP1R3D	protein phosphatase 1 regulatory subunit 3D [Source:HGNC Symbol;Acc:HGNC:9294]	null	null	10628	-0.8331555128097534	-0.32918027	Yes	
+row_23	TIGAR	TP53 induced glycolysis regulatory phosphatase [Source:HGNC Symbol;Acc:HGNC:1185]	null	null	10649	-0.8345465660095215	-0.28761733	Yes	
+row_24	TKFC	triokinase and FMN cyclase [Source:HGNC Symbol;Acc:HGNC:24552]	null	null	10687	-0.8366511464118958	-0.2474338	Yes	
+row_25	PFKM	phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]	null	null	10703	-0.8375570178031921	-0.20527677	Yes	
+row_26	ENOSF1	enolase superfamily member 1 [Source:HGNC Symbol;Acc:HGNC:30365]	null	null	10937	-0.8577120304107666	-0.181163	Yes	
+row_27	MANBA	mannosidase beta [Source:HGNC Symbol;Acc:HGNC:6831]	null	null	10969	-0.8606003522872925	-0.13921106	Yes	
+row_28	PPP1CA	protein phosphatase 1 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9281]	null	null	11010	-0.86359041929245	-0.097892016	Yes	
+row_29	PGAM1	phosphoglycerate mutase 1 [Source:HGNC Symbol;Acc:HGNC:8888]	null	null	11048	-0.8671861886978149	-0.056123648	Yes	
+row_30	PGM1	phosphoglucomutase 1 [Source:HGNC Symbol;Acc:HGNC:8905]	null	null	11113	-0.8733084201812744	-0.0164018	Yes	
+row_31	PHKB	phosphorylase kinase regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:8927]	null	null	11214	-0.8845864534378052	0.02075303	Yes	

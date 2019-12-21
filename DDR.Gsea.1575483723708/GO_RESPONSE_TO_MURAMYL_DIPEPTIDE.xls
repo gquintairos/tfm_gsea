@@ -1,0 +1,19 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	INAVA	innate immunity activator [Source:HGNC Symbol;Acc:HGNC:25599]	null	null	5	0.9762072563171387	0.10094681	Yes	
+row_1	NOD1	nucleotide binding oligomerization domain containing 1 [Source:HGNC Symbol;Acc:HGNC:16390]	null	null	470	0.8475394248962402	0.14838736	Yes	
+row_2	IRF5	interferon regulatory factor 5 [Source:HGNC Symbol;Acc:HGNC:6120]	null	null	603	0.8293009400367737	0.22296998	Yes	
+row_3	CARD9	caspase recruitment domain family member 9 [Source:HGNC Symbol;Acc:HGNC:16391]	null	null	677	0.8190597891807556	0.30164903	Yes	
+row_4	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	null	null	738	0.8089149594306946	0.38041148	Yes	
+row_5	ARHGEF2	Rho/Rac guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:682]	null	null	2384	0.6019873023033142	0.29906178	No	
+row_6	RIPK2	receptor interacting serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:10020]	null	null	3799	0.29525327682495117	0.20605907	No	
+row_7	MAPK14	mitogen-activated protein kinase 14 [Source:HGNC Symbol;Acc:HGNC:6876]	null	null	3929	0.2605999708175659	0.22184156	No	
+row_8	NOTCH1	notch receptor 1 [Source:HGNC Symbol;Acc:HGNC:7881]	null	null	4347	0.13274894654750824	0.19915804	No	
+row_9	NLRP1	NLR family pyrin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:14374]	null	null	4774	-0.0014324450166895986	0.1620495	No	
+row_10	VIM	vimentin [Source:HGNC Symbol;Acc:HGNC:12692]	null	null	4813	-0.013633706606924534	0.16014202	No	
+row_11	TRIM41	tripartite motif containing 41 [Source:HGNC Symbol;Acc:HGNC:19013]	null	null	4864	-0.033351678401231766	0.15923283	No	
+row_12	PTPN22	protein tyrosine phosphatase non-receptor type 22 [Source:HGNC Symbol;Acc:HGNC:9652]	null	null	5795	-0.2926997244358063	0.10829482	No	
+row_13	TNFAIP3	TNF alpha induced protein 3 [Source:HGNC Symbol;Acc:HGNC:11896]	null	null	8045	-0.6459048390388489	-0.021318737	No	
+row_14	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	null	null	8375	-0.6750528216362	0.020015106	No	
+row_15	NOD2	nucleotide binding oligomerization domain containing 2 [Source:HGNC Symbol;Acc:HGNC:5331]	null	null	9381	-0.7539347410202026	0.010419324	No	
+row_16	JAG1	jagged canonical Notch ligand 1 [Source:HGNC Symbol;Acc:HGNC:6188]	null	null	9500	-0.7611808180809021	0.079151735	No	
+row_17	CHMP5	charged multivesicular body protein 5 [Source:HGNC Symbol;Acc:HGNC:26942]	null	null	11169	-0.8799986243247986	0.02466337	No	

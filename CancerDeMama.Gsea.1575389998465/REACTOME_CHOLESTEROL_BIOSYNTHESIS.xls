@@ -1,0 +1,25 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DHCR7	7-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2860]	null	null	72	0.9300202131271362	0.056340378	Yes	
+row_1	PMVK	phosphomevalonate kinase [Source:HGNC Symbol;Acc:HGNC:9141]	null	null	125	0.9135174751281738	0.112483494	Yes	
+row_2	NSDHL	NAD(P) dependent steroid dehydrogenase-like [Source:HGNC Symbol;Acc:HGNC:13398]	null	null	606	0.8427541851997375	0.14576028	Yes	
+row_3	MVK	mevalonate kinase [Source:HGNC Symbol;Acc:HGNC:7530]	null	null	698	0.8345123529434204	0.19518355	Yes	
+row_4	DHCR24	24-dehydrocholesterol reductase [Source:HGNC Symbol;Acc:HGNC:2859]	null	null	872	0.8194543123245239	0.24012998	Yes	
+row_5	MVD	mevalonate diphosphate decarboxylase [Source:HGNC Symbol;Acc:HGNC:7529]	null	null	1115	0.8031874299049377	0.28107956	Yes	
+row_6	FDPS	farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631]	null	null	1394	0.7823582291603088	0.3191552	Yes	
+row_7	CYP51A1	cytochrome P450 family 51 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2649]	null	null	1502	0.7750914692878723	0.36409578	Yes	
+row_8	EBP	EBP cholestenol delta-isomerase [Source:HGNC Symbol;Acc:HGNC:3133]	null	null	1635	0.7673259377479553	0.40746865	Yes	
+row_9	TM7SF2	transmembrane 7 superfamily member 2 [Source:HGNC Symbol;Acc:HGNC:11863]	null	null	2342	0.7251712679862976	0.42354545	Yes	
+row_10	LSS	lanosterol synthase [Source:HGNC Symbol;Acc:HGNC:6708]	null	null	2695	0.7060831189155579	0.4535755	Yes	
+row_11	SQLE	squalene epoxidase [Source:HGNC Symbol;Acc:HGNC:11279]	null	null	13116	-0.09995896369218826	0.013346572	No	
+row_12	IDI1	isopentenyl-diphosphate delta isomerase 1 [Source:HGNC Symbol;Acc:HGNC:5387]	null	null	14233	-0.1914997547864914	-0.022250338	No	
+row_13	LBR	lamin B receptor [Source:HGNC Symbol;Acc:HGNC:6518]	null	null	15817	-0.3128034770488739	-0.070112474	No	
+row_14	MSMO1	methylsterol monooxygenase 1 [Source:HGNC Symbol;Acc:HGNC:10545]	null	null	17117	-0.4043737053871155	-0.09995081	No	
+row_15	ACAT2	acetyl-CoA acetyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:94]	null	null	17475	-0.43119049072265625	-0.08770014	No	
+row_16	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006]	null	null	18731	-0.5281193256378174	-0.10774549	No	
+row_17	SC5D	sterol-C5-desaturase [Source:HGNC Symbol;Acc:HGNC:10547]	null	null	19372	-0.5734084844589233	-0.09853716	No	
+row_18	FDFT1	farnesyl-diphosphate farnesyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:3629]	null	null	20147	-0.6325398087501526	-0.09129391	No	
+row_19	GGPS1	geranylgeranyl diphosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:4249]	null	null	20469	-0.65746009349823	-0.06304206	No	
+row_20	ARV1	ARV1 homolog, fatty acid homeostasis modulator [Source:HGNC Symbol;Acc:HGNC:29561]	null	null	20621	-0.669788122177124	-0.026716039	No	
+row_21	IDI2	isopentenyl-diphosphate delta isomerase 2 [Source:HGNC Symbol;Acc:HGNC:23487]	null	null	20912	-0.6900345087051392	0.004945949	No	
+row_22	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1 [Source:HGNC Symbol;Acc:HGNC:5007]	null	null	21907	-0.7726666331291199	0.011713516	No	
+row_23	PLPP6	phospholipid phosphatase 6 [Source:HGNC Symbol;Acc:HGNC:23682]	null	null	22071	-0.7866302728652954	0.05499118	No	

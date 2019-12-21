@@ -1,0 +1,29 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DAZAP1	DAZ associated protein 1 [Source:HGNC Symbol;Acc:HGNC:2683]	null	null	83	0.9269512295722961	0.049618207	No	
+row_1	PABPC1L2B	poly(A) binding protein cytoplasmic 1 like 2B [Source:HGNC Symbol;Acc:HGNC:31852]	null	null	528	0.8511924743652344	0.07941474	No	
+row_2	ATXN1	ataxin 1 [Source:HGNC Symbol;Acc:HGNC:10548]	null	null	3324	0.6691566705703735	-0.0020160563	No	
+row_3	PPIE	peptidylprolyl isomerase E [Source:HGNC Symbol;Acc:HGNC:9258]	null	null	3604	0.6536062955856323	0.023518918	No	
+row_4	MCRS1	microspherule protein 1 [Source:HGNC Symbol;Acc:HGNC:6960]	null	null	3737	0.6453222632408142	0.054880373	No	
+row_5	DDX3X	DEAD-box helicase 3 X-linked [Source:HGNC Symbol;Acc:HGNC:2745]	null	null	4214	0.6170892715454102	0.06987533	No	
+row_6	KHDRBS1	KH RNA binding domain containing, signal transduction associated 1 [Source:HGNC Symbol;Acc:HGNC:18116]	null	null	5924	0.4994194805622101	0.025262736	No	
+row_7	KHDRBS2	KH RNA binding domain containing, signal transduction associated 2 [Source:HGNC Symbol;Acc:HGNC:18114]	null	null	6530	0.4527418315410614	0.02529952	No	
+row_8	EIF4A3	eukaryotic translation initiation factor 4A3 [Source:HGNC Symbol;Acc:HGNC:18683]	null	null	8775	0.26936978101730347	-0.055445112	No	
+row_9	PABPC5	poly(A) binding protein cytoplasmic 5 [Source:HGNC Symbol;Acc:HGNC:13629]	null	null	8863	0.26160094141960144	-0.04416746	No	
+row_10	PABPC1L	poly(A) binding protein cytoplasmic 1 like [Source:HGNC Symbol;Acc:HGNC:15797]	null	null	9397	0.210335835814476	-0.054950204	No	
+row_11	TIA1	TIA1 cytotoxic granule associated RNA binding protein [Source:HGNC Symbol;Acc:HGNC:11802]	null	null	9570	0.1955234557390213	-0.05110706	No	
+row_12	RBMS3	RNA binding motif single stranded interacting protein 3 [Source:HGNC Symbol;Acc:HGNC:13427]	null	null	10957	0.07736077159643173	-0.10608524	No	
+row_13	RBMS2	RNA binding motif single stranded interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:9909]	null	null	14832	-0.2371218353509903	-0.25855595	No	
+row_14	HNRNPU	heterogeneous nuclear ribonucleoprotein U [Source:HGNC Symbol;Acc:HGNC:5048]	null	null	19743	-0.6016016006469727	-0.43452963	Yes	
+row_15	RBMS1	RNA binding motif single stranded interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:9907]	null	null	20189	-0.6355378031730652	-0.4171474	Yes	
+row_16	RBPMS	RNA binding protein, mRNA processing factor [Source:HGNC Symbol;Acc:HGNC:19097]	null	null	20666	-0.6727033257484436	-0.39896205	Yes	
+row_17	PATL1	PAT1 homolog 1, processing body mRNA decay factor [Source:HGNC Symbol;Acc:HGNC:26721]	null	null	21365	-0.7264255881309509	-0.38721165	Yes	
+row_18	SYNCRIP	synaptotagmin binding cytoplasmic RNA interacting protein [Source:HGNC Symbol;Acc:HGNC:16918]	null	null	21718	-0.756975531578064	-0.35887614	Yes	
+row_19	FMR1	fragile X mental retardation 1 [Source:HGNC Symbol;Acc:HGNC:3775]	null	null	21945	-0.775841236114502	-0.32405686	Yes	
+row_20	PABPC4	poly(A) binding protein cytoplasmic 4 [Source:HGNC Symbol;Acc:HGNC:8557]	null	null	22123	-0.7912815809249878	-0.28625128	Yes	
+row_21	LARP4	La ribonucleoprotein domain family member 4 [Source:HGNC Symbol;Acc:HGNC:24320]	null	null	22253	-0.8032395839691162	-0.24570198	Yes	
+row_22	DDX1	DEAD-box helicase 1 [Source:HGNC Symbol;Acc:HGNC:2734]	null	null	22371	-0.8131557106971741	-0.20406942	Yes	
+row_23	ZC3H14	zinc finger CCCH-type containing 14 [Source:HGNC Symbol;Acc:HGNC:20509]	null	null	22630	-0.8378280997276306	-0.16706596	Yes	
+row_24	PABPC3	poly(A) binding protein cytoplasmic 3 [Source:HGNC Symbol;Acc:HGNC:8556]	null	null	22710	-0.845658004283905	-0.12193982	Yes	
+row_25	PNPT1	polyribonucleotide nucleotidyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:23166]	null	null	22842	-0.8591715097427368	-0.07826763	Yes	
+row_26	HNRNPDL	heterogeneous nuclear ribonucleoprotein D like [Source:HGNC Symbol;Acc:HGNC:5037]	null	null	22902	-0.868139922618866	-0.030994393	Yes	
+row_27	PABPC1	poly(A) binding protein cytoplasmic 1 [Source:HGNC Symbol;Acc:HGNC:8554]	null	null	22961	-0.87730473279953	0.016847469	Yes	

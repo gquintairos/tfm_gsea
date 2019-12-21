@@ -1,0 +1,17 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NME1	NME/NM23 nucleoside diphosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:7849]	null	null	2272	0.6199890375137329	-0.1372811	No	
+row_1	NME4	NME/NM23 nucleoside diphosphate kinase 4 [Source:HGNC Symbol;Acc:HGNC:7852]	null	null	3665	0.3318621516227722	-0.22614183	No	
+row_2	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	null	null	3808	0.29214274883270264	-0.20963152	No	
+row_3	UPP1	uridine phosphorylase 1 [Source:HGNC Symbol;Acc:HGNC:12576]	null	null	3883	0.2719619870185852	-0.18917331	No	
+row_4	NME3	NME/NM23 nucleoside diphosphate kinase 3 [Source:HGNC Symbol;Acc:HGNC:7851]	null	null	4472	0.09417611360549927	-0.23126481	No	
+row_5	CMPK1	cytidine/uridine monophosphate kinase 1 [Source:HGNC Symbol;Acc:HGNC:18170]	null	null	8561	-0.690725564956665	-0.52033854	Yes	
+row_6	UCK1	uridine-cytidine kinase 1 [Source:HGNC Symbol;Acc:HGNC:14859]	null	null	9277	-0.7468016743659973	-0.508914	Yes	
+row_7	DHODH	dihydroorotate dehydrogenase (quinone) [Source:HGNC Symbol;Acc:HGNC:2867]	null	null	9459	-0.7591574192047119	-0.44957134	Yes	
+row_8	UCK2	uridine-cytidine kinase 2 [Source:HGNC Symbol;Acc:HGNC:12562]	null	null	9552	-0.7651267647743225	-0.38185516	Yes	
+row_9	CAD	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase [Source:HGNC Symbol;Acc:HGNC:1424]	null	null	9591	-0.7674124240875244	-0.30919075	Yes	
+row_10	NME6	NME/NM23 nucleoside diphosphate kinase 6 [Source:HGNC Symbol;Acc:HGNC:20567]	null	null	9697	-0.7740154266357422	-0.24173121	Yes	
+row_11	UMPS	uridine monophosphate synthetase [Source:HGNC Symbol;Acc:HGNC:12563]	null	null	9743	-0.7773887515068054	-0.16869105	Yes	
+row_12	CTPS2	CTP synthase 2 [Source:HGNC Symbol;Acc:HGNC:2520]	null	null	9817	-0.7820004820823669	-0.09764268	Yes	
+row_13	UCKL1	uridine-cytidine kinase 1 like 1 [Source:HGNC Symbol;Acc:HGNC:15938]	null	null	10172	-0.8038617372512817	-0.04900118	Yes	
+row_14	UPRT	uracil phosphoribosyltransferase homolog [Source:HGNC Symbol;Acc:HGNC:28334]	null	null	10211	-0.8063517212867737	0.027518911	Yes	
+row_15	NME7	NME/NM23 family member 7 [Source:HGNC Symbol;Acc:HGNC:20461]	null	null	10367	-0.8162513971328735	0.09478839	Yes	

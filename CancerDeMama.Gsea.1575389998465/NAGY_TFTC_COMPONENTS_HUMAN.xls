@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TAF10	TATA-box binding protein associated factor 10 [Source:HGNC Symbol;Acc:HGNC:11543]	null	null	2796	0.7004051208496094	-0.062314253	No	
+row_1	TAF6	TATA-box binding protein associated factor 6 [Source:HGNC Symbol;Acc:HGNC:11540]	null	null	2881	0.694646418094635	-0.00888598	No	
+row_2	TADA3	transcriptional adaptor 3 [Source:HGNC Symbol;Acc:HGNC:19422]	null	null	5002	0.5653098225593567	-0.053322934	No	
+row_3	TAF6L	TATA-box binding protein associated factor 6 like [Source:HGNC Symbol;Acc:HGNC:17305]	null	null	6207	0.47873568534851074	-0.06561463	No	
+row_4	KAT2A	lysine acetyltransferase 2A [Source:HGNC Symbol;Acc:HGNC:4201]	null	null	6987	0.4135666787624359	-0.06504427	No	
+row_5	TAF5L	TATA-box binding protein associated factor 5 like [Source:HGNC Symbol;Acc:HGNC:17304]	null	null	12510	-0.05116615071892738	-0.29747382	No	
+row_6	ADA	adenosine deaminase [Source:HGNC Symbol;Acc:HGNC:186]	null	null	17398	-0.4247482120990753	-0.47202253	No	
+row_7	ATXN7	ataxin 7 [Source:HGNC Symbol;Acc:HGNC:10560]	null	null	19856	-0.609710693359375	-0.52725554	Yes	
+row_8	SUPT3H	SPT3 homolog, SAGA and STAGA complex component [Source:HGNC Symbol;Acc:HGNC:11466]	null	null	19863	-0.6101081371307373	-0.47742507	Yes	
+row_9	TAF9	TATA-box binding protein associated factor 9 [Source:HGNC Symbol;Acc:HGNC:11542]	null	null	20047	-0.6254538297653198	-0.4339196	Yes	
+row_10	TAF5	TATA-box binding protein associated factor 5 [Source:HGNC Symbol;Acc:HGNC:11539]	null	null	20288	-0.6431981921195984	-0.3914	Yes	
+row_11	TRRAP	transformation/transcription domain associated protein [Source:HGNC Symbol;Acc:HGNC:12347]	null	null	20341	-0.6470030546188354	-0.3405118	Yes	
+row_12	SGF29	SAGA complex associated factor 29 [Source:HGNC Symbol;Acc:HGNC:25156]	null	null	21144	-0.710136890411377	-0.31657973	Yes	
+row_13	TAF4	TATA-box binding protein associated factor 4 [Source:HGNC Symbol;Acc:HGNC:11537]	null	null	21595	-0.7462098002433777	-0.27460223	Yes	
+row_14	TAF2	TATA-box binding protein associated factor 2 [Source:HGNC Symbol;Acc:HGNC:11536]	null	null	22516	-0.8268607258796692	-0.24614413	Yes	
+row_15	TAF9B	TATA-box binding protein associated factor 9b [Source:HGNC Symbol;Acc:HGNC:17306]	null	null	22728	-0.8479455709457397	-0.18557282	Yes	
+row_16	SUPT7L	SPT7 like, STAGA complex gamma subunit [Source:HGNC Symbol;Acc:HGNC:30632]	null	null	22756	-0.8506571054458618	-0.11689407	Yes	
+row_17	TAF12	TATA-box binding protein associated factor 12 [Source:HGNC Symbol;Acc:HGNC:11545]	null	null	22892	-0.8670915961265564	-0.05149416	Yes	
+row_18	SAP130	Sin3A associated protein 130 [Source:HGNC Symbol;Acc:HGNC:29813]	null	null	22900	-0.8678719997406006	0.019454904	Yes	

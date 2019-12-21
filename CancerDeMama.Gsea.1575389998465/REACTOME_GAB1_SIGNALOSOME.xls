@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	null	null	511	0.8528173565864563	0.07189115	No	
+row_1	EREG	epiregulin [Source:HGNC Symbol;Acc:HGNC:3443]	null	null	1749	0.7602114081382751	0.10249009	No	
+row_2	PXN	paxillin [Source:HGNC Symbol;Acc:HGNC:9718]	null	null	4469	0.6009526252746582	0.052073307	No	
+row_3	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	null	null	7066	0.4063889682292938	-0.014469828	No	
+row_4	CSK	C-terminal Src kinase [Source:HGNC Symbol;Acc:HGNC:2444]	null	null	8425	0.29743924736976624	-0.039947942	No	
+row_5	HBEGF	heparin binding EGF like growth factor [Source:HGNC Symbol;Acc:HGNC:3059]	null	null	8658	0.2780196964740753	-0.019314189	No	
+row_6	PAG1	phosphoprotein membrane anchor with glycosphingolipid microdomains 1 [Source:HGNC Symbol;Acc:HGNC:30043]	null	null	11181	0.05944874510169029	-0.12084054	No	
+row_7	GAB1	GRB2 associated binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4066]	null	null	11629	0.02272137999534607	-0.13749512	No	
+row_8	EPGN	epithelial mitogen [Source:HGNC Symbol;Acc:HGNC:17470]	null	null	13765	-0.1514352262020111	-0.21232305	No	
+row_9	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	null	null	19379	-0.5738015174865723	-0.3897295	Yes	
+row_10	TGFA	transforming growth factor alpha [Source:HGNC Symbol;Acc:HGNC:11765]	null	null	19496	-0.5826667547225952	-0.3306224	Yes	
+row_11	EGF	epidermal growth factor [Source:HGNC Symbol;Acc:HGNC:3229]	null	null	19616	-0.5916971564292908	-0.27065074	Yes	
+row_12	BTC	betacellulin [Source:HGNC Symbol;Acc:HGNC:1121]	null	null	20305	-0.6440069675445557	-0.22930728	Yes	
+row_13	AREG	amphiregulin [Source:HGNC Symbol;Acc:HGNC:651]	null	null	21312	-0.7223526239395142	-0.19297376	Yes	
+row_14	GRB2	growth factor receptor bound protein 2 [Source:HGNC Symbol;Acc:HGNC:4566]	null	null	22236	-0.8013607263565063	-0.14439505	Yes	
+row_15	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	null	null	22382	-0.8143410086631775	-0.061052684	Yes	
+row_16	PTPN11	protein tyrosine phosphatase non-receptor type 11 [Source:HGNC Symbol;Acc:HGNC:9644]	null	null	23265	-0.9334909915924072	0.0038135548	Yes	

@@ -1,0 +1,36 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTPA	protein phosphatase 2 phosphatase activator [Source:HGNC Symbol;Acc:HGNC:9308]	null	null	3396	0.1848233938217163	-0.12068051	No	
+row_1	FKBP1A	FKBP prolyl isomerase 1A [Source:HGNC Symbol;Acc:HGNC:3711]	null	null	4939	0.13985580205917358	-0.1671155	No	
+row_2	PPIE	peptidylprolyl isomerase E [Source:HGNC Symbol;Acc:HGNC:9258]	null	null	6829	0.09430746734142303	-0.23551369	No	
+row_3	GSTZ1	glutathione S-transferase zeta 1 [Source:HGNC Symbol;Acc:HGNC:4643]	null	null	7150	0.08745207637548447	-0.23641543	No	
+row_4	RPE65	retinoid isomerohydrolase RPE65 [Source:HGNC Symbol;Acc:HGNC:10294]	null	null	8254	0.06408997625112534	-0.2750047	No	
+row_5	PPIAL4A	peptidylprolyl isomerase A like 4A [Source:HGNC Symbol;Acc:HGNC:24369]	null	null	8495	0.05858627334237099	-0.27672789	No	
+row_6	FKBP7	FKBP prolyl isomerase 7 [Source:HGNC Symbol;Acc:HGNC:3723]	null	null	8840	0.051213666796684265	-0.28409505	No	
+row_7	FKBP8	FKBP prolyl isomerase 8 [Source:HGNC Symbol;Acc:HGNC:3724]	null	null	9643	0.03491150587797165	-0.313901	No	
+row_8	PPIL3	peptidylprolyl isomerase like 3 [Source:HGNC Symbol;Acc:HGNC:9262]	null	null	11241	0.0032243418972939253	-0.3831631	No	
+row_9	PPIL6	peptidylprolyl isomerase like 6 [Source:HGNC Symbol;Acc:HGNC:21557]	null	null	11582	-0.0032671105582267046	-0.39752313	No	
+row_10	PPWD1	peptidylprolyl isomerase domain and WD repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:28954]	null	null	13260	-0.03567923232913017	-0.46542725	No	
+row_11	BCO2	beta-carotene oxygenase 2 [Source:HGNC Symbol;Acc:HGNC:18503]	null	null	13356	-0.037926726043224335	-0.4639064	No	
+row_12	BCO1	beta-carotene oxygenase 1 [Source:HGNC Symbol;Acc:HGNC:13815]	null	null	13628	-0.042775027453899384	-0.46934703	No	
+row_13	PPIL4	peptidylprolyl isomerase like 4 [Source:HGNC Symbol;Acc:HGNC:15702]	null	null	14444	-0.05948356166481972	-0.4960474	No	
+row_14	NKTR	natural killer cell triggering receptor [Source:HGNC Symbol;Acc:HGNC:7833]	null	null	15471	-0.08178190141916275	-0.5286292	No	
+row_15	FKBP1B	FKBP prolyl isomerase 1B [Source:HGNC Symbol;Acc:HGNC:3712]	null	null	15692	-0.08666272461414337	-0.5252817	No	
+row_16	FKBP9	FKBP prolyl isomerase 9 [Source:HGNC Symbol;Acc:HGNC:3725]	null	null	15890	-0.09090279787778854	-0.520296	No	
+row_17	FKBP14	FKBP prolyl isomerase 14 [Source:HGNC Symbol;Acc:HGNC:18625]	null	null	16435	-0.10261834412813187	-0.52871305	No	
+row_18	FKBP4	FKBP prolyl isomerase 4 [Source:HGNC Symbol;Acc:HGNC:3720]	null	null	19123	-0.17513790726661682	-0.61987805	No	
+row_19	PPIL2	peptidylprolyl isomerase like 2 [Source:HGNC Symbol;Acc:HGNC:9261]	null	null	19949	-0.20444780588150024	-0.62534434	Yes	
+row_20	FKBP11	FKBP prolyl isomerase 11 [Source:HGNC Symbol;Acc:HGNC:18624]	null	null	20266	-0.21784637868404388	-0.60657865	Yes	
+row_21	PPIC	peptidylprolyl isomerase C [Source:HGNC Symbol;Acc:HGNC:9256]	null	null	21065	-0.25874313712120056	-0.60274917	Yes	
+row_22	PPID	peptidylprolyl isomerase D [Source:HGNC Symbol;Acc:HGNC:9257]	null	null	21090	-0.26015448570251465	-0.5649066	Yes	
+row_23	PPIB	peptidylprolyl isomerase B [Source:HGNC Symbol;Acc:HGNC:9255]	null	null	21405	-0.2773151695728302	-0.53716356	Yes	
+row_24	PPIL1	peptidylprolyl isomerase like 1 [Source:HGNC Symbol;Acc:HGNC:9260]	null	null	21762	-0.3034185469150543	-0.50735253	Yes	
+row_25	PPIA	peptidylprolyl isomerase A [Source:HGNC Symbol;Acc:HGNC:9253]	null	null	21837	-0.3097316324710846	-0.46428224	Yes	
+row_26	PPIF	peptidylprolyl isomerase F [Source:HGNC Symbol;Acc:HGNC:9259]	null	null	22043	-0.3269977867603302	-0.42435187	Yes	
+row_27	PPIG	peptidylprolyl isomerase G [Source:HGNC Symbol;Acc:HGNC:14650]	null	null	22046	-0.3270496726036072	-0.3755483	Yes	
+row_28	CWC27	CWC27 spliceosome associated protein homolog [Source:HGNC Symbol;Acc:HGNC:10664]	null	null	22166	-0.3415522575378418	-0.3296864	Yes	
+row_29	FKBP10	FKBP prolyl isomerase 10 [Source:HGNC Symbol;Acc:HGNC:18169]	null	null	22315	-0.36347225308418274	-0.28181413	Yes	
+row_30	PPIH	peptidylprolyl isomerase H [Source:HGNC Symbol;Acc:HGNC:14651]	null	null	22339	-0.3662202060222626	-0.22807205	Yes	
+row_31	FKBP3	FKBP prolyl isomerase 3 [Source:HGNC Symbol;Acc:HGNC:3719]	null	null	22513	-0.39196324348449707	-0.17703244	Yes	
+row_32	PIN1	peptidylprolyl cis/trans isomerase, NIMA-interacting 1 [Source:HGNC Symbol;Acc:HGNC:8988]	null	null	22624	-0.4100857079029083	-0.12053235	Yes	
+row_33	PIN4	peptidylprolyl cis/trans isomerase, NIMA-interacting 4 [Source:HGNC Symbol;Acc:HGNC:8992]	null	null	22696	-0.4265791177749634	-0.05986345	Yes	
+row_34	FKBP5	FKBP prolyl isomerase 5 [Source:HGNC Symbol;Acc:HGNC:3721]	null	null	22824	-0.46910199522972107	0.0047165994	Yes	

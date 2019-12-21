@@ -1,0 +1,48 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HES1	hes family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5192]	null	null	107	0.9182991981506348	0.032139506	No	
+row_1	CTBP1	C-terminal binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2494]	null	null	1259	0.7920870184898376	0.014439277	No	
+row_2	GAA	glucosidase alpha, acid [Source:HGNC Symbol;Acc:HGNC:4065]	null	null	2310	0.727016270160675	-0.0015303792	No	
+row_3	CDKN1B	cyclin dependent kinase inhibitor 1B [Source:HGNC Symbol;Acc:HGNC:1785]	null	null	2902	0.6932218074798584	8.410621E-4	No	
+row_4	PTF1A	pancreas associated transcription factor 1a [Source:HGNC Symbol;Acc:HGNC:23734]	null	null	4311	0.6112523078918457	-0.035118464	No	
+row_5	NOTCH1	notch receptor 1 [Source:HGNC Symbol;Acc:HGNC:7881]	null	null	4373	0.6075868606567383	-0.013433283	No	
+row_6	NCOR2	nuclear receptor corepressor 2 [Source:HGNC Symbol;Acc:HGNC:7673]	null	null	4515	0.5984428524971008	0.0044538574	No	
+row_7	ID1	inhibitor of DNA binding 1, HLH protein [Source:HGNC Symbol;Acc:HGNC:5360]	null	null	5304	0.5450235605239868	-0.0075543816	No	
+row_8	BGLAP	bone gamma-carboxyglutamate protein [Source:HGNC Symbol;Acc:HGNC:1043]	null	null	5782	0.5120515823364258	-0.0075383787	No	
+row_9	TCF3	transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:11633]	null	null	5988	0.49523764848709106	0.0034749128	No	
+row_10	NEUROG3	neurogenin 3 [Source:HGNC Symbol;Acc:HGNC:13806]	null	null	6945	0.41695636510849	-0.020863594	No	
+row_11	HDAC1	histone deacetylase 1 [Source:HGNC Symbol;Acc:HGNC:4852]	null	null	7140	0.4004896581172943	-0.013168099	No	
+row_12	ASCL1	achaete-scute family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:738]	null	null	7941	0.3383333086967468	-0.033958394	No	
+row_13	GHR	growth hormone receptor [Source:HGNC Symbol;Acc:HGNC:4263]	null	null	8710	0.2748467028141022	-0.055915114	No	
+row_14	STAT3	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	null	null	10993	0.07519278675317764	-0.15081385	No	
+row_15	CD4	CD4 molecule [Source:HGNC Symbol;Acc:HGNC:1678]	null	null	11916	-0.001667108736000955	-0.1903044	No	
+row_16	TLE1	TLE family member 1, transcriptional corepressor [Source:HGNC Symbol;Acc:HGNC:11837]	null	null	11987	-0.006549385376274586	-0.19304569	No	
+row_17	MAML2	mastermind like transcriptional coactivator 2 [Source:HGNC Symbol;Acc:HGNC:16259]	null	null	12520	-0.05174454301595688	-0.2138008	No	
+row_18	GATA1	GATA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:4170]	null	null	13152	-0.10175579786300659	-0.23680301	No	
+row_19	HEY1	hes related family bHLH transcription factor with YRPW motif 1 [Source:HGNC Symbol;Acc:HGNC:4880]	null	null	13432	-0.1242339015007019	-0.24380404	No	
+row_20	PARP1	poly(ADP-ribose) polymerase 1 [Source:HGNC Symbol;Acc:HGNC:270]	null	null	13673	-0.1447523832321167	-0.2483111	No	
+row_21	E2F1	E2F transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3113]	null	null	14003	-0.172390416264534	-0.25553116	No	
+row_22	KDR	kinase insert domain receptor [Source:HGNC Symbol;Acc:HGNC:6307]	null	null	14616	-0.22137165069580078	-0.27293378	No	
+row_23	TWIST1	twist family bHLH transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:12428]	null	null	16520	-0.3606176972389221	-0.34015557	No	
+row_24	CAMK2D	calcium/calmodulin dependent protein kinase II delta [Source:HGNC Symbol;Acc:HGNC:1462]	null	null	17516	-0.4344327747821808	-0.3654683	No	
+row_25	HES6	hes family bHLH transcription factor 6 [Source:HGNC Symbol;Acc:HGNC:18254]	null	null	17831	-0.45807141065597534	-0.36061808	No	
+row_26	HEY2	hes related family bHLH transcription factor with YRPW motif 2 [Source:HGNC Symbol;Acc:HGNC:4881]	null	null	18939	-0.5428786873817444	-0.3863984	Yes	
+row_27	MYB	MYB proto-oncogene, transcription factor [Source:HGNC Symbol;Acc:HGNC:7545]	null	null	19129	-0.5563618540763855	-0.3722538	Yes	
+row_28	ARNT	aryl hydrocarbon receptor nuclear translocator [Source:HGNC Symbol;Acc:HGNC:700]	null	null	19312	-0.5695485472679138	-0.35728142	Yes	
+row_29	JAK2	Janus kinase 2 [Source:HGNC Symbol;Acc:HGNC:6192]	null	null	19645	-0.5935433506965637	-0.34778488	Yes	
+row_30	SPEN	spen family transcriptional repressor [Source:HGNC Symbol;Acc:HGNC:17575]	null	null	19712	-0.5994064211845398	-0.3266414	Yes	
+row_31	MYOD1	myogenic differentiation 1 [Source:HGNC Symbol;Acc:HGNC:7611]	null	null	19821	-0.6078618168830872	-0.3069617	Yes	
+row_32	RBPJ	recombination signal binding protein for immunoglobulin kappa J region [Source:HGNC Symbol;Acc:HGNC:5724]	null	null	19997	-0.6211432814598083	-0.28962532	Yes	
+row_33	RBBP8	RB binding protein 8, endonuclease [Source:HGNC Symbol;Acc:HGNC:9891]	null	null	20156	-0.6331644654273987	-0.27107874	Yes	
+row_34	NCOA1	nuclear receptor coactivator 1 [Source:HGNC Symbol;Acc:HGNC:7668]	null	null	20750	-0.6779357194900513	-0.26940453	Yes	
+row_35	GATA4	GATA binding protein 4 [Source:HGNC Symbol;Acc:HGNC:4173]	null	null	20878	-0.6874927282333374	-0.24735491	Yes	
+row_36	YY1	YY1 transcription factor [Source:HGNC Symbol;Acc:HGNC:12856]	null	null	20958	-0.6942650079727173	-0.22297503	Yes	
+row_37	CREBBP	CREB binding protein [Source:HGNC Symbol;Acc:HGNC:2348]	null	null	21498	-0.7370940446853638	-0.2166178	Yes	
+row_38	GATA6	GATA binding protein 6 [Source:HGNC Symbol;Acc:HGNC:4174]	null	null	21513	-0.7384521961212158	-0.18768176	Yes	
+row_39	NCOR1	nuclear receptor corepressor 1 [Source:HGNC Symbol;Acc:HGNC:7672]	null	null	21563	-0.7425298094749451	-0.16008429	Yes	
+row_40	RB1	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	null	null	21686	-0.7542288303375244	-0.13515083	Yes	
+row_41	HIF1A	hypoxia inducible factor 1 subunit alpha [Source:HGNC Symbol;Acc:HGNC:4910]	null	null	21752	-0.7604913115501404	-0.107521385	Yes	
+row_42	KDM1A	lysine demethylase 1A [Source:HGNC Symbol;Acc:HGNC:29079]	null	null	22484	-0.8237898349761963	-0.105933994	Yes	
+row_43	AR	androgen receptor [Source:HGNC Symbol;Acc:HGNC:644]	null	null	22523	-0.8273255825042725	-0.0744729	Yes	
+row_44	RUNX2	runt related transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:10472]	null	null	22828	-0.8582361936569214	-0.05318783	Yes	
+row_45	RCAN1	regulator of calcineurin 1 [Source:HGNC Symbol;Acc:HGNC:3040]	null	null	23273	-0.9358867406845093	-0.03480341	Yes	
+row_46	EP300	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	null	null	23326	-0.9559387564659119	0.0012013138	Yes	

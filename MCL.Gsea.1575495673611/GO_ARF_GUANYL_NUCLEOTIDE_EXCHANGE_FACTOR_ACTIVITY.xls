@@ -1,0 +1,20 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSD3	pleckstrin and Sec7 domain containing 3 [Source:HGNC Symbol;Acc:HGNC:19093]	null	null	151	0.41922321915626526	0.11999579	Yes	
+row_1	PSD4	pleckstrin and Sec7 domain containing 4 [Source:HGNC Symbol;Acc:HGNC:19096]	null	null	389	0.36656028032302856	0.22033669	Yes	
+row_2	CYTH2	cytohesin 2 [Source:HGNC Symbol;Acc:HGNC:9502]	null	null	510	0.34868213534355164	0.32038528	Yes	
+row_3	CYTH1	cytohesin 1 [Source:HGNC Symbol;Acc:HGNC:9501]	null	null	554	0.3418578505516052	0.42173365	Yes	
+row_4	GBF1	golgi brefeldin A resistant guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:4181]	null	null	1113	0.2895427644252777	0.48480996	Yes	
+row_5	IQSEC2	IQ motif and Sec7 domain 2 [Source:HGNC Symbol;Acc:HGNC:29059]	null	null	2068	0.2360115498304367	0.5144404	Yes	
+row_6	PSD2	pleckstrin and Sec7 domain containing 2 [Source:HGNC Symbol;Acc:HGNC:19092]	null	null	2456	0.2185349464416504	0.56353843	Yes	
+row_7	PSD	pleckstrin and Sec7 domain containing [Source:HGNC Symbol;Acc:HGNC:9507]	null	null	3951	0.16739778220653534	0.54888433	Yes	
+row_8	CYTH4	cytohesin 4 [Source:HGNC Symbol;Acc:HGNC:9505]	null	null	4069	0.16384081542491913	0.59325045	Yes	
+row_9	IQSEC1	IQ motif and Sec7 domain 1 [Source:HGNC Symbol;Acc:HGNC:29112]	null	null	4086	0.16340714693069458	0.64189345	Yes	
+row_10	IQSEC3	IQ motif and Sec7 domain 3 [Source:HGNC Symbol;Acc:HGNC:29193]	null	null	5247	0.13161715865135193	0.63101155	No	
+row_11	ARFGEF3	ARFGEF family member 3 [Source:HGNC Symbol;Acc:HGNC:21213]	null	null	7570	0.07899980992078781	0.55353034	No	
+row_12	HERC1	HECT and RLD domain containing E3 ubiquitin protein ligase family member 1 [Source:HGNC Symbol;Acc:HGNC:4867]	null	null	7851	0.07266490161418915	0.56325215	No	
+row_13	ARFGEF2	ADP ribosylation factor guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:15853]	null	null	8656	0.055194176733493805	0.54483044	No	
+row_14	ARF4	ADP ribosylation factor 4 [Source:HGNC Symbol;Acc:HGNC:655]	null	null	10711	0.013488292694091797	0.45926374	No	
+row_15	SEC61B	Sec61 translocon beta subunit [Source:HGNC Symbol;Acc:HGNC:16993]	null	null	10809	0.011750863865017891	0.45857874	No	
+row_16	FBXO8	F-box protein 8 [Source:HGNC Symbol;Acc:HGNC:13587]	null	null	10974	0.008695284835994244	0.4540471	No	
+row_17	ARFGEF1	ADP ribosylation factor guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:15772]	null	null	15767	-0.08836919069290161	0.27160066	No	
+row_18	CYTH3	cytohesin 3 [Source:HGNC Symbol;Acc:HGNC:9504]	null	null	17807	-0.13593748211860657	0.22366247	No	

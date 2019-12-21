@@ -1,0 +1,67 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HIST1H4C	histone cluster 1 H4 family member c [Source:HGNC Symbol;Acc:HGNC:4787]	null	null	3	0.9760323762893677	0.023007711	Yes	
+row_1	HIST1H4D	histone cluster 1 H4 family member d [Source:HGNC Symbol;Acc:HGNC:4782]	null	null	6	0.9720510840415955	0.045963988	Yes	
+row_2	HIST1H4E	histone cluster 1 H4 family member e [Source:HGNC Symbol;Acc:HGNC:4790]	null	null	11	0.964266836643219	0.06864986	Yes	
+row_3	HIST1H4B	histone cluster 1 H4 family member b [Source:HGNC Symbol;Acc:HGNC:4789]	null	null	16	0.957683801651001	0.091179684	Yes	
+row_4	HIST1H4L	histone cluster 1 H4 family member l [Source:HGNC Symbol;Acc:HGNC:4791]	null	null	30	0.9490928649902344	0.113119416	Yes	
+row_5	HIST1H2BH	histone cluster 1 H2B family member h [Source:HGNC Symbol;Acc:HGNC:4755]	null	null	53	0.9355729818344116	0.13435222	Yes	
+row_6	HIST1H2BM	histone cluster 1 H2B family member m [Source:HGNC Symbol;Acc:HGNC:4750]	null	null	69	0.9308831095695496	0.15577441	Yes	
+row_7	HIST1H2BF	histone cluster 1 H2B family member f [Source:HGNC Symbol;Acc:HGNC:4752]	null	null	121	0.9148306846618652	0.1752703	Yes	
+row_8	HIST1H2BI	histone cluster 1 H2B family member i [Source:HGNC Symbol;Acc:HGNC:4756]	null	null	185	0.9020419120788574	0.19394776	Yes	
+row_9	HIST1H2BC	histone cluster 1 H2B family member c [Source:HGNC Symbol;Acc:HGNC:4757]	null	null	272	0.8839132785797119	0.21120791	Yes	
+row_10	HIST1H2BE	histone cluster 1 H2B family member e [Source:HGNC Symbol;Acc:HGNC:4753]	null	null	335	0.8748018145561218	0.2292826	Yes	
+row_11	HIST1H2BL	histone cluster 1 H2B family member l [Source:HGNC Symbol;Acc:HGNC:4748]	null	null	504	0.8538356423377991	0.2423088	Yes	
+row_12	HIST1H4F	histone cluster 1 H4 family member f [Source:HGNC Symbol;Acc:HGNC:4783]	null	null	516	0.8520819544792175	0.26203477	Yes	
+row_13	HIST1H4H	histone cluster 1 H4 family member h [Source:HGNC Symbol;Acc:HGNC:4788]	null	null	600	0.8437955379486084	0.27847278	Yes	
+row_14	HIST1H2BG	histone cluster 1 H2B family member g [Source:HGNC Symbol;Acc:HGNC:4746]	null	null	623	0.8415336012840271	0.2974764	Yes	
+row_15	H2AFX	H2A histone family member X [Source:HGNC Symbol;Acc:HGNC:4739]	null	null	655	0.8378352522850037	0.31600592	Yes	
+row_16	HIST1H2BJ	histone cluster 1 H2B family member j [Source:HGNC Symbol;Acc:HGNC:4761]	null	null	890	0.8183379769325256	0.3253567	Yes	
+row_17	HIST1H4A	histone cluster 1 H4 family member a [Source:HGNC Symbol;Acc:HGNC:4781]	null	null	975	0.8128736615180969	0.34101874	Yes	
+row_18	HIST1H2BK	histone cluster 1 H2B family member k [Source:HGNC Symbol;Acc:HGNC:13954]	null	null	1047	0.808078408241272	0.3571253	Yes	
+row_19	PIAS4	protein inhibitor of activated STAT 4 [Source:HGNC Symbol;Acc:HGNC:17002]	null	null	1104	0.8046761751174927	0.37379533	Yes	
+row_20	BABAM1	BRISC and BRCA1 A complex member 1 [Source:HGNC Symbol;Acc:HGNC:25008]	null	null	1288	0.7899453639984131	0.38466296	Yes	
+row_21	KAT5	lysine acetyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:5275]	null	null	1382	0.7833125591278076	0.3992378	Yes	
+row_22	HIST1H4I	histone cluster 1 H4 family member i [Source:HGNC Symbol;Acc:HGNC:4793]	null	null	2053	0.7423290610313416	0.38806552	No	
+row_23	HIST2H2BE	histone cluster 2 H2B family member e [Source:HGNC Symbol;Acc:HGNC:4760]	null	null	2649	0.7082499265670776	0.3793058	No	
+row_24	HIST1H2BO	histone cluster 1 H2B family member o [Source:HGNC Symbol;Acc:HGNC:4758]	null	null	3372	0.666696310043335	0.36410788	No	
+row_25	XRCC6	X-ray repair cross complementing 6 [Source:HGNC Symbol;Acc:HGNC:4055]	null	null	3960	0.6322020888328552	0.353889	No	
+row_26	HIST1H2BN	histone cluster 1 H2B family member n [Source:HGNC Symbol;Acc:HGNC:4749]	null	null	4491	0.5997670292854309	0.34534875	No	
+row_27	POLM	DNA polymerase mu [Source:HGNC Symbol;Acc:HGNC:9185]	null	null	5071	0.5601280331611633	0.33376488	No	
+row_28	NSD2	nuclear receptor binding SET domain protein 2 [Source:HGNC Symbol;Acc:HGNC:12766]	null	null	5880	0.5023855566978455	0.31097928	No	
+row_29	HIST1H2BD	histone cluster 1 H2B family member d [Source:HGNC Symbol;Acc:HGNC:4747]	null	null	7278	0.3903103768825531	0.26024604	No	
+row_30	HIST1H2BB	histone cluster 1 H2B family member b [Source:HGNC Symbol;Acc:HGNC:4751]	null	null	7775	0.35120269656181335	0.2472736	No	
+row_31	POLL	DNA polymerase lambda [Source:HGNC Symbol;Acc:HGNC:9184]	null	null	7959	0.33690717816352844	0.24740207	No	
+row_32	HIST1H2BA	histone cluster 1 H2B family member a [Source:HGNC Symbol;Acc:HGNC:18730]	null	null	8432	0.296800434589386	0.23417056	No	
+row_33	HIST3H2BB	histone cluster 3 H2B family member b [Source:HGNC Symbol;Acc:HGNC:20514]	null	null	11865	0.00309747620485723	0.08687827	No	
+row_34	TDP2	tyrosyl-DNA phosphodiesterase 2 [Source:HGNC Symbol;Acc:HGNC:17768]	null	null	13212	-0.10653337836265564	0.031608086	No	
+row_35	PAXIP1	PAX interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:8624]	null	null	14276	-0.19535964727401733	-0.009404843	No	
+row_36	HIST3H3	histone cluster 3 H3 [Source:HGNC Symbol;Acc:HGNC:4778]	null	null	14684	-0.22714059054851532	-0.02149661	No	
+row_37	MDC1	mediator of DNA damage checkpoint 1 [Source:HGNC Symbol;Acc:HGNC:21163]	null	null	15245	-0.2696566581726074	-0.039150175	No	
+row_38	MRE11	MRE11 homolog, double strand break repair nuclease [Source:HGNC Symbol;Acc:HGNC:7230]	null	null	15541	-0.2910800874233246	-0.04491714	No	
+row_39	HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2 [Source:HGNC Symbol;Acc:HGNC:4868]	null	null	15569	-0.29356393218040466	-0.03911765	No	
+row_40	PRKDC	protein kinase, DNA-activated, catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9413]	null	null	15673	-0.3017129898071289	-0.03638833	No	
+row_41	BARD1	BRCA1 associated RING domain 1 [Source:HGNC Symbol;Acc:HGNC:952]	null	null	15797	-0.311038076877594	-0.034296736	No	
+row_42	RNF8	ring finger protein 8 [Source:HGNC Symbol;Acc:HGNC:10071]	null	null	15849	-0.31504112482070923	-0.029018667	No	
+row_43	BRCA1	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	null	null	16882	-0.3881780505180359	-0.0641298	No	
+row_44	RNF168	ring finger protein 168 [Source:HGNC Symbol;Acc:HGNC:26661]	null	null	16941	-0.39266541600227356	-0.05731224	No	
+row_45	TDP1	tyrosyl-DNA phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:18884]	null	null	17146	-0.40607786178588867	-0.056445796	No	
+row_46	XRCC5	X-ray repair cross complementing 5 [Source:HGNC Symbol;Acc:HGNC:12833]	null	null	17185	-0.4089169502258301	-0.048384227	No	
+row_47	NHEJ1	non-homologous end joining factor 1 [Source:HGNC Symbol;Acc:HGNC:25737]	null	null	18138	-0.48167455196380615	-0.07784396	No	
+row_48	RIF1	replication timing regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:23207]	null	null	18378	-0.4997446835041046	-0.07626002	No	
+row_49	SUMO1	small ubiquitin like modifier 1 [Source:HGNC Symbol;Acc:HGNC:12502]	null	null	18749	-0.5292035937309265	-0.079602756	No	
+row_50	XRCC4	X-ray repair cross complementing 4 [Source:HGNC Symbol;Acc:HGNC:12831]	null	null	19009	-0.5485032796859741	-0.0777218	No	
+row_51	UBE2V2	ubiquitin conjugating enzyme E2 V2 [Source:HGNC Symbol;Acc:HGNC:12495]	null	null	19334	-0.5710058808326721	-0.07809844	No	
+row_52	DCLRE1C	DNA cross-link repair 1C [Source:HGNC Symbol;Acc:HGNC:17642]	null	null	19588	-0.5890945196151733	-0.07499764	No	
+row_53	HIST4H4	histone cluster 4 H4 [Source:HGNC Symbol;Acc:HGNC:20510]	null	null	19815	-0.6074893474578857	-0.07030146	No	
+row_54	UBE2N	ubiquitin conjugating enzyme E2 N [Source:HGNC Symbol;Acc:HGNC:12492]	null	null	19827	-0.6081991791725159	-0.05635662	No	
+row_55	HIST1H4J	histone cluster 1 H4 family member j [Source:HGNC Symbol;Acc:HGNC:4785]	null	null	20520	-0.6620360612869263	-0.07037687	No	
+row_56	HIST2H4B	histone cluster 2 H4 family member b [Source:HGNC Symbol;Acc:HGNC:29607]	null	null	20592	-0.6676651835441589	-0.057598736	No	
+row_57	BRCC3	BRCA1/BRCA2-containing complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:24185]	null	null	21123	-0.7085738778114319	-0.06355975	No	
+row_58	ABRAXAS1	abraxas 1, BRCA1 A complex subunit [Source:HGNC Symbol;Acc:HGNC:25829]	null	null	21645	-0.751009464263916	-0.06812839	No	
+row_59	BABAM2	BRISC and BRCA1 A complex member 2 [Source:HGNC Symbol;Acc:HGNC:1106]	null	null	21978	-0.7785313129425049	-0.063929215	No	
+row_60	LIG4	DNA ligase 4 [Source:HGNC Symbol;Acc:HGNC:6601]	null	null	22092	-0.7889013290405273	-0.050080646	No	
+row_61	ATM	ATM serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:795]	null	null	22498	-0.8248810768127441	-0.04791729	No	
+row_62	RAD50	RAD50 double strand break repair protein [Source:HGNC Symbol;Acc:HGNC:9816]	null	null	22833	-0.8585076332092285	-0.041908186	No	
+row_63	TP53BP1	tumor protein p53 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11999]	null	null	22970	-0.8786708116531372	-0.026919246	No	
+row_64	UIMC1	ubiquitin interaction motif containing 1 [Source:HGNC Symbol;Acc:HGNC:30298]	null	null	23138	-0.9023782014846802	-0.012699434	No	
+row_65	NBN	nibrin [Source:HGNC Symbol;Acc:HGNC:7652]	null	null	23240	-0.9251881837844849	0.0048950384	No	

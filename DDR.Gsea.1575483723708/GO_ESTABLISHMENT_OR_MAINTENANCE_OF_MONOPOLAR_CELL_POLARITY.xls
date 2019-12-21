@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTK7	protein tyrosine kinase 7 (inactive) [Source:HGNC Symbol;Acc:HGNC:9618]	null	null	117	0.9144743084907532	0.08082337	Yes	
+row_1	FSCN1	fascin actin-bundling protein 1 [Source:HGNC Symbol;Acc:HGNC:11148]	null	null	565	0.8346331715583801	0.12484331	Yes	
+row_2	SCRIB	scribble planar cell polarity protein [Source:HGNC Symbol;Acc:HGNC:30377]	null	null	882	0.7891758680343628	0.17579116	Yes	
+row_3	SLC9A3R1	SLC9A3 regulator 1 [Source:HGNC Symbol;Acc:HGNC:11075]	null	null	1251	0.7453764081001282	0.2178313	Yes	
+row_4	CARMIL2	capping protein regulator and myosin 1 linker 2 [Source:HGNC Symbol;Acc:HGNC:27089]	null	null	1412	0.7247442007064819	0.2760037	Yes	
+row_5	MSN	moesin [Source:HGNC Symbol;Acc:HGNC:7373]	null	null	1564	0.7098939418792725	0.33348438	Yes	
+row_6	CAMSAP3	calmodulin regulated spectrin associated protein family member 3 [Source:HGNC Symbol;Acc:HGNC:29307]	null	null	1604	0.7054293751716614	0.40031332	Yes	
+row_7	SH3BP1	SH3 domain binding protein 1 [Source:HGNC Symbol;Acc:HGNC:10824]	null	null	4530	0.07428138703107834	0.15196054	No	
+row_8	PRKCI	protein kinase C iota [Source:HGNC Symbol;Acc:HGNC:9404]	null	null	6188	-0.3802013695240021	0.044936173	No	
+row_9	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	null	null	6581	-0.45572715997695923	0.05603776	No	
+row_10	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	null	null	7235	-0.5561584234237671	0.05431852	No	
+row_11	MYO9A	myosin IXA [Source:HGNC Symbol;Acc:HGNC:7608]	null	null	7366	-0.5747022032737732	0.10017445	No	
+row_12	TCF15	transcription factor 15 [Source:HGNC Symbol;Acc:HGNC:11627]	null	null	10670	-0.8356924057006836	-0.105415985	No	
+row_13	MAP1B	microtubule associated protein 1B [Source:HGNC Symbol;Acc:HGNC:6836]	null	null	11026	-0.8650922775268555	-0.050319195	No	
+row_14	GBF1	golgi brefeldin A resistant guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:4181]	null	null	11155	-0.877700686454773	0.02588087	No	

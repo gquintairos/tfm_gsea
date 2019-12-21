@@ -1,0 +1,35 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HIST1H4C	histone cluster 1 H4 family member c [Source:HGNC Symbol;Acc:HGNC:4787]	null	null	3	0.9760323762893677	0.03934867	Yes	
+row_1	HIST1H4D	histone cluster 1 H4 family member d [Source:HGNC Symbol;Acc:HGNC:4782]	null	null	6	0.9720510840415955	0.07857919	Yes	
+row_2	HIST1H4E	histone cluster 1 H4 family member e [Source:HGNC Symbol;Acc:HGNC:4790]	null	null	11	0.964266836643219	0.117409095	Yes	
+row_3	HIST1H4B	histone cluster 1 H4 family member b [Source:HGNC Symbol;Acc:HGNC:4789]	null	null	16	0.957683801651001	0.15597275	Yes	
+row_4	HIST1H4L	histone cluster 1 H4 family member l [Source:HGNC Symbol;Acc:HGNC:4791]	null	null	30	0.9490928649902344	0.193803	Yes	
+row_5	HIST1H3I	histone cluster 1 H3 family member i [Source:HGNC Symbol;Acc:HGNC:4771]	null	null	79	0.9285191297531128	0.22930032	Yes	
+row_6	HIST1H3F	histone cluster 1 H3 family member f [Source:HGNC Symbol;Acc:HGNC:4773]	null	null	129	0.9119916558265686	0.26408628	Yes	
+row_7	HIST1H3A	histone cluster 1 H3 family member a [Source:HGNC Symbol;Acc:HGNC:4766]	null	null	141	0.9099676012992859	0.3004198	Yes	
+row_8	SUV39H1	suppressor of variegation 3-9 homolog 1 [Source:HGNC Symbol;Acc:HGNC:11479]	null	null	269	0.8846129179000854	0.33075374	Yes	
+row_9	HIST2H3D	histone cluster 2 H3 family member d [Source:HGNC Symbol;Acc:HGNC:25311]	null	null	503	0.8539852499961853	0.35530367	Yes	
+row_10	HIST1H4F	histone cluster 1 H4 family member f [Source:HGNC Symbol;Acc:HGNC:4783]	null	null	516	0.8520819544792175	0.38925302	Yes	
+row_11	HIST1H4H	histone cluster 1 H4 family member h [Source:HGNC Symbol;Acc:HGNC:4788]	null	null	600	0.8437955379486084	0.41982275	Yes	
+row_12	HIST1H3B	histone cluster 1 H3 family member b [Source:HGNC Symbol;Acc:HGNC:4776]	null	null	653	0.8380300402641296	0.45148858	Yes	
+row_13	SMARCA5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 [Source:HGNC Symbol;Acc:HGNC:11101]	null	null	878	0.8192237019538879	0.4750184	Yes	
+row_14	HIST1H3J	histone cluster 1 H3 family member j [Source:HGNC Symbol;Acc:HGNC:4774]	null	null	892	0.8182434439659119	0.50755626	Yes	
+row_15	HIST1H4A	histone cluster 1 H4 family member a [Source:HGNC Symbol;Acc:HGNC:4781]	null	null	975	0.8128736615180969	0.53691816	Yes	
+row_16	H3F3A	H3 histone family member 3A [Source:HGNC Symbol;Acc:HGNC:4764]	null	null	1013	0.8100914359092712	0.5680972	Yes	
+row_17	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	null	null	1379	0.7833684086799622	0.5841307	Yes	
+row_18	HIST1H4I	histone cluster 1 H4 family member i [Source:HGNC Symbol;Acc:HGNC:4793]	null	null	2053	0.7423290610313416	0.58529735	Yes	
+row_19	PHF2	PHD finger protein 2 [Source:HGNC Symbol;Acc:HGNC:8920]	null	null	2943	0.6913965344429016	0.5751419	No	
+row_20	BAZ2A	bromodomain adjacent to zinc finger domain 2A [Source:HGNC Symbol;Acc:HGNC:962]	null	null	3654	0.6511374711990356	0.57103366	No	
+row_21	HIST1H3C	histone cluster 1 H3 family member c [Source:HGNC Symbol;Acc:HGNC:4768]	null	null	4326	0.6103867888450623	0.5669494	No	
+row_22	HIST1H3E	histone cluster 1 H3 family member e [Source:HGNC Symbol;Acc:HGNC:4769]	null	null	5369	0.540912389755249	0.54414684	No	
+row_23	PHF8	PHD finger protein 8 [Source:HGNC Symbol;Acc:HGNC:20672]	null	null	7230	0.3938407599925995	0.48031992	No	
+row_24	NAA40	N(alpha)-acetyltransferase 40, NatD catalytic subunit [Source:HGNC Symbol;Acc:HGNC:25845]	null	null	7966	0.3363420069217682	0.4624072	No	
+row_25	H3F3B	H3 histone family member 3B [Source:HGNC Symbol;Acc:HGNC:4765]	null	null	11249	0.05383199080824852	0.323853	No	
+row_26	HIST1H3H	histone cluster 1 H3 family member h [Source:HGNC Symbol;Acc:HGNC:4775]	null	null	14036	-0.17583689093589783	0.21150188	No	
+row_27	RRP8	ribosomal RNA processing 8 [Source:HGNC Symbol;Acc:HGNC:29030]	null	null	15415	-0.28223541378974915	0.163829	No	
+row_28	HIST4H4	histone cluster 4 H4 [Source:HGNC Symbol;Acc:HGNC:20510]	null	null	19815	-0.6074893474578857	-2.2832936E-4	No	
+row_29	HIST1H4J	histone cluster 1 H4 family member j [Source:HGNC Symbol;Acc:HGNC:4785]	null	null	20520	-0.6620360612869263	-0.003638529	No	
+row_30	HIST2H4B	histone cluster 2 H4 family member b [Source:HGNC Symbol;Acc:HGNC:29607]	null	null	20592	-0.6676651835441589	0.02032187	No	
+row_31	BEND3	BEN domain containing 3 [Source:HGNC Symbol;Acc:HGNC:23040]	null	null	22026	-0.7837991118431091	-0.009422794	No	
+row_32	SIRT1	sirtuin 1 [Source:HGNC Symbol;Acc:HGNC:14929]	null	null	22240	-0.8015443086624146	0.0138636455	No	
+row_33	MBD2	methyl-CpG binding domain protein 2 [Source:HGNC Symbol;Acc:HGNC:6917]	null	null	22625	-0.8371904492378235	0.031259406	No	

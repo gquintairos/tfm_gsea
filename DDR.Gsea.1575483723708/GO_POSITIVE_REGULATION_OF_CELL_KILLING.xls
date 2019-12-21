@@ -1,0 +1,35 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD226	CD226 molecule [Source:HGNC Symbol;Acc:HGNC:16961]	null	null	334	0.8690046668052673	0.012930383	No	
+row_1	FCER2	Fc fragment of IgE receptor II [Source:HGNC Symbol;Acc:HGNC:3612]	null	null	354	0.865303099155426	0.053269107	No	
+row_2	CD1E	CD1e molecule [Source:HGNC Symbol;Acc:HGNC:1638]	null	null	665	0.8206927180290222	0.06595632	No	
+row_3	CD1C	CD1c molecule [Source:HGNC Symbol;Acc:HGNC:1636]	null	null	878	0.7896347045898438	0.08571888	No	
+row_4	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	null	null	3402	0.40456917881965637	-0.11560979	No	
+row_5	MICB	MHC class I polypeptide-related sequence B [Source:HGNC Symbol;Acc:HGNC:7091]	null	null	3476	0.38491496443748474	-0.103319004	No	
+row_6	STAP1	signal transducing adaptor family member 1 [Source:HGNC Symbol;Acc:HGNC:24133]	null	null	3530	0.3659779727458954	-0.09019583	No	
+row_7	PGLYRP4	peptidoglycan recognition protein 4 [Source:HGNC Symbol;Acc:HGNC:30015]	null	null	3724	0.314989298582077	-0.091809034	No	
+row_8	SH2D1A	SH2 domain containing 1A [Source:HGNC Symbol;Acc:HGNC:10820]	null	null	3858	0.2791782021522522	-0.089905694	No	
+row_9	SLAMF6	SLAM family member 6 [Source:HGNC Symbol;Acc:HGNC:21392]	null	null	3980	0.24484369158744812	-0.08861802	No	
+row_10	PVR	PVR cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:9705]	null	null	4322	0.1414184868335724	-0.111618534	No	
+row_11	ITGAM	integrin subunit alpha M [Source:HGNC Symbol;Acc:HGNC:6149]	null	null	4803	-0.011256585828959942	-0.15311101	No	
+row_12	P2RX7	purinergic receptor P2X 7 [Source:HGNC Symbol;Acc:HGNC:8537]	null	null	5072	-0.10118420422077179	-0.17167114	No	
+row_13	HLA-A	major histocompatibility complex, class I, A [Source:HGNC Symbol;Acc:HGNC:4931]	null	null	5279	-0.16439130902290344	-0.18173309	No	
+row_14	STX7	syntaxin 7 [Source:HGNC Symbol;Acc:HGNC:11442]	null	null	5936	-0.32373112440109253	-0.22347197	No	
+row_15	NCR3	natural cytotoxicity triggering receptor 3 [Source:HGNC Symbol;Acc:HGNC:19077]	null	null	6336	-0.4067135453224182	-0.23867446	No	
+row_16	RASGRP1	RAS guanyl releasing protein 1 [Source:HGNC Symbol;Acc:HGNC:9878]	null	null	6890	-0.502784013748169	-0.2627011	No	
+row_17	B2M	beta-2-microglobulin [Source:HGNC Symbol;Acc:HGNC:914]	null	null	8652	-0.6984768509864807	-0.38302642	Yes	
+row_18	HLA-E	major histocompatibility complex, class I, E [Source:HGNC Symbol;Acc:HGNC:4962]	null	null	8764	-0.7083479166030884	-0.35836393	Yes	
+row_19	HLA-G	major histocompatibility complex, class I, G [Source:HGNC Symbol;Acc:HGNC:4964]	null	null	8947	-0.7214744687080383	-0.3392825	Yes	
+row_20	IL23A	interleukin 23 subunit alpha [Source:HGNC Symbol;Acc:HGNC:15488]	null	null	9100	-0.732710063457489	-0.31702825	Yes	
+row_21	BAD	BCL2 associated agonist of cell death [Source:HGNC Symbol;Acc:HGNC:936]	null	null	9276	-0.7467361688613892	-0.29610753	Yes	
+row_22	FAM49B	family with sequence similarity 49 member B [Source:HGNC Symbol;Acc:HGNC:25216]	null	null	9450	-0.7585536241531372	-0.27443802	Yes	
+row_23	STAT5B	signal transducer and activator of transcription 5B [Source:HGNC Symbol;Acc:HGNC:11367]	null	null	9460	-0.7592629790306091	-0.2383708	Yes	
+row_24	FADD	Fas associated via death domain [Source:HGNC Symbol;Acc:HGNC:3573]	null	null	9933	-0.791084885597229	-0.24130891	Yes	
+row_25	HLA-C	major histocompatibility complex, class I, C [Source:HGNC Symbol;Acc:HGNC:4933]	null	null	9988	-0.794047474861145	-0.20749435	Yes	
+row_26	IL12RB1	interleukin 12 receptor subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:5971]	null	null	10701	-0.8374448418617249	-0.22920154	Yes	
+row_27	LAG3	lymphocyte activating 3 [Source:HGNC Symbol;Acc:HGNC:6476]	null	null	10758	-0.8430103063583374	-0.19318543	Yes	
+row_28	AP1G1	adaptor related protein complex 1 subunit gamma 1 [Source:HGNC Symbol;Acc:HGNC:555]	null	null	10793	-0.8456264138221741	-0.15511554	Yes	
+row_29	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	null	null	10839	-0.848982036113739	-0.11784617	Yes	
+row_30	VAV1	vav guanine nucleotide exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:12657]	null	null	10874	-0.8514564037322998	-0.07949329	Yes	
+row_31	HLA-F	major histocompatibility complex, class I, F [Source:HGNC Symbol;Acc:HGNC:4963]	null	null	11145	-0.8768075108528137	-0.06057897	Yes	
+row_32	CADM1	cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5951]	null	null	11284	-0.8939993977546692	-0.029269435	Yes	
+row_33	HLA-H	major histocompatibility complex, class I, H (pseudogene) [Source:HGNC Symbol;Acc:HGNC:4965]	null	null	11322	-0.9024944305419922	0.0112981405	Yes	

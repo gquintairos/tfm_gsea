@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CXCL9	C-X-C motif chemokine ligand 9 [Source:HGNC Symbol;Acc:HGNC:7098]	null	null	27	0.953372597694397	0.07682146	Yes	
+row_1	CXCL10	C-X-C motif chemokine ligand 10 [Source:HGNC Symbol;Acc:HGNC:10637]	null	null	126	0.9130575656890869	0.14408554	Yes	
+row_2	CX3CL1	C-X3-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10647]	null	null	168	0.9035556316375732	0.21554513	Yes	
+row_3	IL17D	interleukin 17D [Source:HGNC Symbol;Acc:HGNC:5984]	null	null	350	0.8660401701927185	0.27164575	Yes	
+row_4	STAT4	signal transducer and activator of transcription 4 [Source:HGNC Symbol;Acc:HGNC:11365]	null	null	360	0.8644135594367981	0.3426528	Yes	
+row_5	CCR7	C-C motif chemokine receptor 7 [Source:HGNC Symbol;Acc:HGNC:1608]	null	null	369	0.8621946573257446	0.413563	Yes	
+row_6	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	null	null	727	0.8119459748268127	0.44977948	Yes	
+row_7	IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	null	null	2127	0.6414682269096375	0.38071314	No	
+row_8	IRGM	immunity related GTPase M [Source:HGNC Symbol;Acc:HGNC:29597]	null	null	2514	0.5817323923110962	0.39527306	No	
+row_9	PIAS2	protein inhibitor of activated STAT 2 [Source:HGNC Symbol;Acc:HGNC:17311]	null	null	3790	0.29633182287216187	0.30838522	No	
+row_10	PIAS3	protein inhibitor of activated STAT 3 [Source:HGNC Symbol;Acc:HGNC:16861]	null	null	4595	0.05630762130022049	0.2427514	No	
+row_11	IFNAR1	interferon alpha and beta receptor subunit 1 [Source:HGNC Symbol;Acc:HGNC:5432]	null	null	6733	-0.4816598892211914	0.09587342	No	
+row_12	IL2RG	interleukin 2 receptor subunit gamma [Source:HGNC Symbol;Acc:HGNC:6010]	null	null	7267	-0.5605600476264954	0.095819615	No	
+row_13	VPREB3	V-set pre-B cell surrogate light chain 3 [Source:HGNC Symbol;Acc:HGNC:12710]	null	null	9596	-0.7675870060920715	-0.044013716	No	
+row_14	IL4I1	interleukin 4 induced 1 [Source:HGNC Symbol;Acc:HGNC:19094]	null	null	9736	-0.777091383934021	0.008372171	No	
+row_15	IFRD1	interferon related developmental regulator 1 [Source:HGNC Symbol;Acc:HGNC:5456]	null	null	10203	-0.8057937026023865	0.034545522	No	
+row_16	CCL4	C-C motif chemokine ligand 4 [Source:HGNC Symbol;Acc:HGNC:10630]	null	null	11300	-0.8970597982406616	0.013204992	No	

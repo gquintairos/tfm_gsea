@@ -1,0 +1,17 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDH2	cadherin 2 [Source:HGNC Symbol;Acc:HGNC:1759]	null	null	23	0.9566855430603027	0.09292561	Yes	
+row_1	ADAM19	ADAM metallopeptidase domain 19 [Source:HGNC Symbol;Acc:HGNC:197]	null	null	71	0.9328485727310181	0.18138713	Yes	
+row_2	PPM1F	protein phosphatase, Mg2+/Mn2+ dependent 1F [Source:HGNC Symbol;Acc:HGNC:19388]	null	null	87	0.9249639511108398	0.27186438	Yes	
+row_3	CDH1	cadherin 1 [Source:HGNC Symbol;Acc:HGNC:1748]	null	null	361	0.864093542098999	0.33374083	Yes	
+row_4	AFDN	afadin, adherens junction formation factor [Source:HGNC Symbol;Acc:HGNC:7137]	null	null	368	0.8628079891204834	0.418837	Yes	
+row_5	CDHR2	cadherin related family member 2 [Source:HGNC Symbol;Acc:HGNC:18231]	null	null	425	0.8544837236404419	0.49873498	Yes	
+row_6	CDH9	cadherin 9 [Source:HGNC Symbol;Acc:HGNC:1768]	null	null	597	0.830266535282135	0.5661738	Yes	
+row_7	CDH11	cadherin 11 [Source:HGNC Symbol;Acc:HGNC:1750]	null	null	625	0.8258906602859497	0.6457702	Yes	
+row_8	PLEKHA7	pleckstrin homology domain containing A7 [Source:HGNC Symbol;Acc:HGNC:27049]	null	null	2835	0.5267785787582397	0.50488317	No	
+row_9	FER	FER tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3655]	null	null	3405	0.4038551151752472	0.49520463	No	
+row_10	MAD2L2	mitotic arrest deficient 2 like 2 [Source:HGNC Symbol;Acc:HGNC:6764]	null	null	4177	0.18743577599525452	0.44638616	No	
+row_11	CDH7	cadherin 7 [Source:HGNC Symbol;Acc:HGNC:1766]	null	null	5263	-0.16109739243984222	0.36749685	No	
+row_12	NEXMIF	neurite extension and migration factor [Source:HGNC Symbol;Acc:HGNC:29433]	null	null	5413	-0.1981361359357834	0.37412986	No	
+row_13	FLOT1	flotillin 1 [Source:HGNC Symbol;Acc:HGNC:3757]	null	null	5740	-0.27854692935943604	0.37326503	No	
+row_14	DENND6A	DENN domain containing 6A [Source:HGNC Symbol;Acc:HGNC:26635]	null	null	6448	-0.4328750967979431	0.35439914	No	
+row_15	RGCC	regulator of cell cycle [Source:HGNC Symbol;Acc:HGNC:20369]	null	null	10678	-0.8363115787506104	0.06759347	No	

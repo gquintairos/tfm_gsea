@@ -1,0 +1,19 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CIB1	calcium and integrin binding 1 [Source:HGNC Symbol;Acc:HGNC:16920]	null	null	2214	0.7327010631561279	-0.02241938	No	
+row_1	AP2A1	adaptor related protein complex 2 subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:561]	null	null	2699	0.705780029296875	0.026630424	No	
+row_2	CYFIP1	cytoplasmic FMR1 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:13759]	null	null	4127	0.6226289868354797	0.027050095	No	
+row_3	OSBPL3	oxysterol binding protein like 3 [Source:HGNC Symbol;Acc:HGNC:16370]	null	null	5778	0.5126295685768127	0.0070370925	No	
+row_4	EPHB1	EPH receptor B1 [Source:HGNC Symbol;Acc:HGNC:3392]	null	null	5984	0.4953395128250122	0.047233243	No	
+row_5	TTYH1	tweety family member 1 [Source:HGNC Symbol;Acc:HGNC:13476]	null	null	7587	0.3659982979297638	0.014777769	No	
+row_6	MYO10	myosin X [Source:HGNC Symbol;Acc:HGNC:7593]	null	null	11042	0.07073601335287094	-0.12623298	No	
+row_7	MORN4	MORN repeat containing 4 [Source:HGNC Symbol;Acc:HGNC:24001]	null	null	11956	-0.0047366018407046795	-0.16488704	No	
+row_8	MYO3A	myosin IIIA [Source:HGNC Symbol;Acc:HGNC:7601]	null	null	12611	-0.06010431796312332	-0.18696792	No	
+row_9	NLGN1	neuroligin 1 [Source:HGNC Symbol;Acc:HGNC:14291]	null	null	13901	-0.16350384056568146	-0.22603442	No	
+row_10	FZD3	frizzled class receptor 3 [Source:HGNC Symbol;Acc:HGNC:4041]	null	null	20522	-0.6621688008308411	-0.44422713	Yes	
+row_11	UBE2K	ubiquitin conjugating enzyme E2 K [Source:HGNC Symbol;Acc:HGNC:4914]	null	null	21836	-0.7674551010131836	-0.4246017	Yes	
+row_12	FMR1	fragile X mental retardation 1 [Source:HGNC Symbol;Acc:HGNC:3775]	null	null	21945	-0.775841236114502	-0.3525123	Yes	
+row_13	VIL1	villin 1 [Source:HGNC Symbol;Acc:HGNC:12690]	null	null	22042	-0.7844040989875793	-0.279062	Yes	
+row_14	ABI2	abl interactor 2 [Source:HGNC Symbol;Acc:HGNC:24011]	null	null	22464	-0.8220779299736023	-0.21581277	Yes	
+row_15	ABITRAM	actin binding transcription modulator [Source:HGNC Symbol;Acc:HGNC:1364]	null	null	22485	-0.8238276839256287	-0.1352075	Yes	
+row_16	ABI1	abl interactor 1 [Source:HGNC Symbol;Acc:HGNC:11320]	null	null	22845	-0.8595962524414062	-0.06559165	Yes	
+row_17	MYO5A	myosin VA [Source:HGNC Symbol;Acc:HGNC:7602]	null	null	23010	-0.8834686279296875	0.014740613	Yes	

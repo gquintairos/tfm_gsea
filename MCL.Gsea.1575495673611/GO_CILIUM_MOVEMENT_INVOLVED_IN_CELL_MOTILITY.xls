@@ -1,0 +1,21 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BBS4	Bardet-Biedl syndrome 4 [Source:HGNC Symbol;Acc:HGNC:969]	null	null	244	0.39166584610939026	0.12783274	Yes	
+row_1	DNAH1	dynein axonemal heavy chain 1 [Source:HGNC Symbol;Acc:HGNC:2940]	null	null	987	0.29870060086250305	0.20106128	Yes	
+row_2	CFAP410	cilia and flagella associated protein 410 [Source:HGNC Symbol;Acc:HGNC:1260]	null	null	1754	0.2498391717672348	0.2559664	Yes	
+row_3	MAFIP	MAFF interacting protein (pseudogene) [Source:HGNC Symbol;Acc:HGNC:31102]	null	null	2083	0.23516342043876648	0.32479835	Yes	
+row_4	CCSAP	centriole, cilia and spindle associated protein [Source:HGNC Symbol;Acc:HGNC:29578]	null	null	2608	0.21248367428779602	0.3770573	Yes	
+row_5	CATSPER1	cation channel sperm associated 1 [Source:HGNC Symbol;Acc:HGNC:17116]	null	null	2824	0.2041081339120865	0.43984073	Yes	
+row_6	TEKT5	tektin 5 [Source:HGNC Symbol;Acc:HGNC:26554]	null	null	3106	0.19368551671504974	0.49605858	Yes	
+row_7	BBS2	Bardet-Biedl syndrome 2 [Source:HGNC Symbol;Acc:HGNC:967]	null	null	4527	0.1510857343673706	0.48750457	Yes	
+row_8	TTLL1	tubulin tyrosine ligase like 1 [Source:HGNC Symbol;Acc:HGNC:1312]	null	null	4802	0.14348497986793518	0.52627844	Yes	
+row_9	MKKS	McKusick-Kaufman syndrome [Source:HGNC Symbol;Acc:HGNC:7108]	null	null	5436	0.12665951251983643	0.54343534	Yes	
+row_10	GAS8	growth arrest specific 8 [Source:HGNC Symbol;Acc:HGNC:4166]	null	null	6091	0.11049415916204453	0.55396014	Yes	
+row_11	DNAH11	dynein axonemal heavy chain 11 [Source:HGNC Symbol;Acc:HGNC:2942]	null	null	8882	0.05025969445705414	0.44996557	No	
+row_12	TEKT1	tektin 1 [Source:HGNC Symbol;Acc:HGNC:15534]	null	null	9423	0.0396016463637352	0.44040015	No	
+row_13	RSPH9	radial spoke head 9 homolog [Source:HGNC Symbol;Acc:HGNC:21057]	null	null	9615	0.035731323063373566	0.44469783	No	
+row_14	CFAP46	cilia and flagella associated protein 46 [Source:HGNC Symbol;Acc:HGNC:25247]	null	null	11743	-0.006620550062507391	0.35420927	No	
+row_15	LRRC6	leucine rich repeat containing 6 [Source:HGNC Symbol;Acc:HGNC:16725]	null	null	12334	-0.018080897629261017	0.33485258	No	
+row_16	CFAP54	cilia and flagella associated protein 54 [Source:HGNC Symbol;Acc:HGNC:26456]	null	null	12355	-0.018452556803822517	0.340504	No	
+row_17	TEKT3	tektin 3 [Source:HGNC Symbol;Acc:HGNC:14293]	null	null	14293	-0.05657557025551796	0.2759703	No	
+row_18	CFAP43	cilia and flagella associated protein 43 [Source:HGNC Symbol;Acc:HGNC:26684]	null	null	15054	-0.07260482758283615	0.26847234	No	
+row_19	CFAP20	cilia and flagella associated protein 20 [Source:HGNC Symbol;Acc:HGNC:29523]	null	null	20153	-0.21298791468143463	0.12128493	No	

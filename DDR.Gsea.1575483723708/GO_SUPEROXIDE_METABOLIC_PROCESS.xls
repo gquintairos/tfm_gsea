@@ -1,0 +1,42 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SH3PXD2A	SH3 and PX domains 2A [Source:HGNC Symbol;Acc:HGNC:23664]	null	null	1114	0.7631680965423584	-0.06139793	No	
+row_1	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	null	null	1294	0.7397285103797913	-0.04197004	No	
+row_2	PRDX1	peroxiredoxin 1 [Source:HGNC Symbol;Acc:HGNC:9352]	null	null	1994	0.660413920879364	-0.07187723	No	
+row_3	SOD1	superoxide dismutase 1 [Source:HGNC Symbol;Acc:HGNC:11179]	null	null	2263	0.6210913062095642	-0.065880485	No	
+row_4	NOX4	NADPH oxidase 4 [Source:HGNC Symbol;Acc:HGNC:7891]	null	null	3070	0.47794458270072937	-0.11382631	No	
+row_5	GSTP1	glutathione S-transferase pi 1 [Source:HGNC Symbol;Acc:HGNC:4638]	null	null	3267	0.4366118609905243	-0.110277	No	
+row_6	AATF	apoptosis antagonizing transcription factor [Source:HGNC Symbol;Acc:HGNC:19235]	null	null	3442	0.39293384552001953	-0.10687309	No	
+row_7	ITGB2	integrin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6155]	null	null	3532	0.36553817987442017	-0.09732068	No	
+row_8	SZT2	SZT2 subunit of KICSTOR complex [Source:HGNC Symbol;Acc:HGNC:29040]	null	null	3920	0.26207947731018066	-0.11879456	No	
+row_9	CYBA	cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	null	null	3921	0.26195043325424194	-0.106359914	No	
+row_10	PRKCD	protein kinase C delta [Source:HGNC Symbol;Acc:HGNC:9399]	null	null	4202	0.17902852594852448	-0.122399256	No	
+row_11	FANCC	FA complementation group C [Source:HGNC Symbol;Acc:HGNC:3584]	null	null	4266	0.16056010127067566	-0.12029854	No	
+row_12	CCS	copper chaperone for superoxide dismutase [Source:HGNC Symbol;Acc:HGNC:1613]	null	null	4559	0.06540323048830032	-0.14278324	No	
+row_13	PARK7	Parkinsonism associated deglycase [Source:HGNC Symbol;Acc:HGNC:16369]	null	null	4688	0.030093641951680183	-0.15257195	No	
+row_14	DUOX1	dual oxidase 1 [Source:HGNC Symbol;Acc:HGNC:3062]	null	null	4712	0.022970478981733322	-0.15349716	No	
+row_15	ITGAM	integrin subunit alpha M [Source:HGNC Symbol;Acc:HGNC:6149]	null	null	4803	-0.011256585828959942	-0.16084994	No	
+row_16	FBLN5	fibulin 5 [Source:HGNC Symbol;Acc:HGNC:3602]	null	null	4843	-0.02586156688630581	-0.16304006	No	
+row_17	RGN	regucalcin [Source:HGNC Symbol;Acc:HGNC:9989]	null	null	4871	-0.03537856787443161	-0.16372679	No	
+row_18	SOD2	superoxide dismutase 2 [Source:HGNC Symbol;Acc:HGNC:11180]	null	null	5024	-0.08131156861782074	-0.17318746	No	
+row_19	IMMP2L	inner mitochondrial membrane peptidase subunit 2 [Source:HGNC Symbol;Acc:HGNC:14598]	null	null	5047	-0.09107408672571182	-0.17079219	No	
+row_20	NCF2	neutrophil cytosolic factor 2 [Source:HGNC Symbol;Acc:HGNC:7661]	null	null	5316	-0.17289619147777557	-0.18607101	No	
+row_21	GNAI2	G protein subunit alpha i2 [Source:HGNC Symbol;Acc:HGNC:4385]	null	null	6533	-0.4464794993400574	-0.2714407	No	
+row_22	GNAI3	G protein subunit alpha i3 [Source:HGNC Symbol;Acc:HGNC:4387]	null	null	6661	-0.46850699186325073	-0.26033056	No	
+row_23	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	null	null	7493	-0.5903929471969604	-0.3051294	No	
+row_24	NRROS	negative regulator of reactive oxygen species [Source:HGNC Symbol;Acc:HGNC:24613]	null	null	7869	-0.628341019153595	-0.30816543	No	
+row_25	DHFRP1	dihydrofolate reductase pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:2862]	null	null	8857	-0.7143042683601379	-0.36075327	Yes	
+row_26	GCH1	GTP cyclohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:4193]	null	null	8861	-0.7145645022392273	-0.3270962	Yes	
+row_27	EDN1	endothelin 1 [Source:HGNC Symbol;Acc:HGNC:3176]	null	null	9353	-0.751814603805542	-0.33443663	Yes	
+row_28	NFE2L2	nuclear factor, erythroid 2 like 2 [Source:HGNC Symbol;Acc:HGNC:7782]	null	null	9519	-0.7626920342445374	-0.31269178	Yes	
+row_29	ACP5	acid phosphatase 5, tartrate resistant [Source:HGNC Symbol;Acc:HGNC:124]	null	null	9720	-0.7762131094932556	-0.2933723	Yes	
+row_30	MT3	metallothionein 3 [Source:HGNC Symbol;Acc:HGNC:7408]	null	null	9741	-0.777285635471344	-0.25822768	Yes	
+row_31	ATP7A	ATPase copper transporting alpha [Source:HGNC Symbol;Acc:HGNC:869]	null	null	10041	-0.7971370816230774	-0.24659081	Yes	
+row_32	NCF1C	neutrophil cytosolic factor 1C pseudogene [Source:HGNC Symbol;Acc:HGNC:32523]	null	null	10635	-0.8336111903190613	-0.25898716	Yes	
+row_33	NQO1	NAD(P)H quinone dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:2874]	null	null	10733	-0.8403698205947876	-0.22759582	Yes	
+row_34	PREX1	phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:32594]	null	null	10761	-0.8433315753936768	-0.18992947	Yes	
+row_35	NCF1B	neutrophil cytosolic factor 1B pseudogene [Source:HGNC Symbol;Acc:HGNC:32522]	null	null	10870	-0.8511672616004944	-0.15898958	Yes	
+row_36	CYB5R4	cytochrome b5 reductase 4 [Source:HGNC Symbol;Acc:HGNC:20147]	null	null	10977	-0.8609530329704285	-0.1274099	Yes	
+row_37	NCF1	neutrophil cytosolic factor 1 [Source:HGNC Symbol;Acc:HGNC:7660]	null	null	10986	-0.8618019223213196	-0.087201715	Yes	
+row_38	SYK	spleen associated tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11491]	null	null	11031	-0.8653188943862915	-0.049981426	Yes	
+row_39	PRDX2	peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353]	null	null	11317	-0.9018418788909912	-0.03214739	Yes	
+row_40	NCF4	neutrophil cytosolic factor 4 [Source:HGNC Symbol;Acc:HGNC:7662]	null	null	11405	-0.922756016254425	0.0040311133	Yes	

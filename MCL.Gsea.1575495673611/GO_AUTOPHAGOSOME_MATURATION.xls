@@ -1,0 +1,35 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAP1LC3B	microtubule associated protein 1 light chain 3 beta [Source:HGNC Symbol;Acc:HGNC:13352]	null	null	86	0.44795140624046326	0.080213375	Yes	
+row_1	CLEC16A	C-type lectin domain containing 16A [Source:HGNC Symbol;Acc:HGNC:29013]	null	null	167	0.4148416519165039	0.1544823	Yes	
+row_2	ATG14	autophagy related 14 [Source:HGNC Symbol;Acc:HGNC:19962]	null	null	338	0.374257355928421	0.21721336	Yes	
+row_3	UVRAG	UV radiation resistance associated [Source:HGNC Symbol;Acc:HGNC:12640]	null	null	404	0.3637874126434326	0.28256717	Yes	
+row_4	SMCR8	SMCR8-C9orf72 complex subunit [Source:HGNC Symbol;Acc:HGNC:17921]	null	null	889	0.30719390511512756	0.31901473	Yes	
+row_5	RUBCN	rubicon autophagy regulator [Source:HGNC Symbol;Acc:HGNC:28991]	null	null	1299	0.2758650481700897	0.3528649	Yes	
+row_6	MAP1LC3A	microtubule associated protein 1 light chain 3 alpha [Source:HGNC Symbol;Acc:HGNC:6838]	null	null	1552	0.26050230860710144	0.39069152	Yes	
+row_7	EPG5	ectopic P-granules autophagy protein 5 homolog [Source:HGNC Symbol;Acc:HGNC:29331]	null	null	1899	0.24298307299613953	0.42112914	Yes	
+row_8	PHF23	PHD finger protein 23 [Source:HGNC Symbol;Acc:HGNC:28428]	null	null	2231	0.22900961339473724	0.44960245	Yes	
+row_9	SNX14	sorting nexin 14 [Source:HGNC Symbol;Acc:HGNC:14977]	null	null	2423	0.22036133706569672	0.48256847	Yes	
+row_10	UBQLN1	ubiquilin 1 [Source:HGNC Symbol;Acc:HGNC:12508]	null	null	2829	0.20385031402111053	0.5030941	Yes	
+row_11	VPS16	VPS16 core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:14584]	null	null	2898	0.20132263004779816	0.53786266	Yes	
+row_12	STX17	syntaxin 17 [Source:HGNC Symbol;Acc:HGNC:11432]	null	null	4553	0.15031594038009644	0.49380934	No	
+row_13	SNAP29	synaptosome associated protein 29 [Source:HGNC Symbol;Acc:HGNC:11133]	null	null	5406	0.1275153011083603	0.48050535	No	
+row_14	MAP1LC3C	microtubule associated protein 1 light chain 3 gamma [Source:HGNC Symbol;Acc:HGNC:13353]	null	null	5512	0.12438797950744629	0.49923667	No	
+row_15	LIX1L	limb and CNS expressed 1 like [Source:HGNC Symbol;Acc:HGNC:28715]	null	null	6267	0.10686137527227402	0.48634073	No	
+row_16	VCP	valosin containing protein [Source:HGNC Symbol;Acc:HGNC:12666]	null	null	6647	0.09824441373348236	0.48820582	No	
+row_17	CHMP3	charged multivesicular body protein 3 [Source:HGNC Symbol;Acc:HGNC:29865]	null	null	7026	0.0898110494017601	0.48853374	No	
+row_18	LIX1	limb and CNS expressed 1 [Source:HGNC Symbol;Acc:HGNC:18581]	null	null	7605	0.07836455851793289	0.47798198	No	
+row_19	TBC1D25	TBC1 domain family member 25 [Source:HGNC Symbol;Acc:HGNC:8092]	null	null	8942	0.049026891589164734	0.42882898	No	
+row_20	IRGM	immunity related GTPase M [Source:HGNC Symbol;Acc:HGNC:29597]	null	null	9688	0.03413817659020424	0.40269405	No	
+row_21	SNAPIN	SNAP associated protein [Source:HGNC Symbol;Acc:HGNC:17145]	null	null	9747	0.03293116018176079	0.40633416	No	
+row_22	GABARAPL2	GABA type A receptor associated protein like 2 [Source:HGNC Symbol;Acc:HGNC:13291]	null	null	9818	0.03132804483175278	0.40914974	No	
+row_23	TSG101	tumor susceptibility 101 [Source:HGNC Symbol;Acc:HGNC:15971]	null	null	9919	0.029233019798994064	0.4102625	No	
+row_24	MCOLN1	mucolipin 1 [Source:HGNC Symbol;Acc:HGNC:13356]	null	null	10387	0.020047320052981377	0.39362648	No	
+row_25	ADRB2	adrenoceptor beta 2 [Source:HGNC Symbol;Acc:HGNC:286]	null	null	11117	0.00554701779037714	0.36283085	No	
+row_26	CALCOCO2	calcium binding and coiled-coil domain 2 [Source:HGNC Symbol;Acc:HGNC:29912]	null	null	11357	0.0011527669848874211	0.35260978	No	
+row_27	LAMP2	lysosomal associated membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:6501]	null	null	15447	-0.08144617825746536	0.18931022	No	
+row_28	FYCO1	FYVE and coiled-coil domain containing 1 [Source:HGNC Symbol;Acc:HGNC:14673]	null	null	15533	-0.0832274928689003	0.20119935	No	
+row_29	VAMP8	vesicle associated membrane protein 8 [Source:HGNC Symbol;Acc:HGNC:12647]	null	null	16451	-0.10304923355579376	0.18047063	No	
+row_30	UBQLN4	ubiquilin 4 [Source:HGNC Symbol;Acc:HGNC:1237]	null	null	16718	-0.10926494002342224	0.18933624	No	
+row_31	VPS33A	VPS33A core subunit of CORVET and HOPS complexes [Source:HGNC Symbol;Acc:HGNC:18179]	null	null	17498	-0.12760336697101593	0.17923668	No	
+row_32	GABARAPL1	GABA type A receptor associated protein like 1 [Source:HGNC Symbol;Acc:HGNC:4068]	null	null	17659	-0.13209858536720276	0.1970115	No	
+row_33	TECPR1	tectonin beta-propeller repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:22214]	null	null	19201	-0.17720331251621246	0.16293296	No	

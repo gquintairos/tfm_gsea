@@ -1,0 +1,18 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HOMER3	homer scaffold protein 3 [Source:HGNC Symbol;Acc:HGNC:17514]	null	null	3017	0.6874762773513794	-0.05467315	No	
+row_1	DYRK2	dual specificity tyrosine phosphorylation regulated kinase 2 [Source:HGNC Symbol;Acc:HGNC:3093]	null	null	3936	0.6332923769950867	-0.025286874	No	
+row_2	MAPK7	mitogen-activated protein kinase 7 [Source:HGNC Symbol;Acc:HGNC:6880]	null	null	5836	0.5063485503196716	-0.051710263	No	
+row_3	TBC1D10C	TBC1 domain family member 10C [Source:HGNC Symbol;Acc:HGNC:24702]	null	null	7096	0.40366706252098083	-0.061852977	No	
+row_4	ACTN3	actinin alpha 3 (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:165]	null	null	7201	0.39569956064224243	-0.023370177	No	
+row_5	MIR124-2	microRNA 124-2 [Source:HGNC Symbol;Acc:HGNC:31503]	null	null	10050	0.1531287133693695	-0.12878627	No	
+row_6	MYOZ2	myozenin 2 [Source:HGNC Symbol;Acc:HGNC:1330]	null	null	11149	0.06130366772413254	-0.16918167	No	
+row_7	MYOZ1	myozenin 1 [Source:HGNC Symbol;Acc:HGNC:13752]	null	null	11418	0.03937815874814987	-0.17639199	No	
+row_8	MIR124-3	microRNA 124-3 [Source:HGNC Symbol;Acc:HGNC:31504]	null	null	16130	-0.3334014415740967	-0.3420728	No	
+row_9	HOMER2	homer scaffold protein 2 [Source:HGNC Symbol;Acc:HGNC:17513]	null	null	20003	-0.6223627328872681	-0.44044724	Yes	
+row_10	CHP1	calcineurin like EF-hand protein 1 [Source:HGNC Symbol;Acc:HGNC:17433]	null	null	20307	-0.6441027522087097	-0.383536	Yes	
+row_11	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	null	null	20354	-0.6482661366462708	-0.3151609	Yes	
+row_12	MTOR	mechanistic target of rapamycin kinase [Source:HGNC Symbol;Acc:HGNC:3942]	null	null	20844	-0.6843344569206238	-0.26185378	Yes	
+row_13	ATP2B4	ATPase plasma membrane Ca2+ transporting 4 [Source:HGNC Symbol;Acc:HGNC:817]	null	null	22348	-0.8111202120780945	-0.23823707	Yes	
+row_14	FHL2	four and a half LIM domains 2 [Source:HGNC Symbol;Acc:HGNC:3703]	null	null	22497	-0.824636697769165	-0.1550938	Yes	
+row_15	GSK3B	glycogen synthase kinase 3 beta [Source:HGNC Symbol;Acc:HGNC:4617]	null	null	22564	-0.8309709429740906	-0.06774959	Yes	
+row_16	RCAN1	regulator of calcineurin 1 [Source:HGNC Symbol;Acc:HGNC:3040]	null	null	23273	-0.9358867406845093	0.0034706932	Yes	

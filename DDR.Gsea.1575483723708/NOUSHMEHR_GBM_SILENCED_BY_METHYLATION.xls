@@ -1,0 +1,25 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RARRES2	retinoic acid receptor responder 2 [Source:HGNC Symbol;Acc:HGNC:9868]	null	null	305	0.8736751675605774	0.027070617	No	
+row_1	CNMD	chondromodulin [Source:HGNC Symbol;Acc:HGNC:17005]	null	null	1599	0.7060986161231995	-0.0426245	No	
+row_2	LGALS3	galectin 3 [Source:HGNC Symbol;Acc:HGNC:6563]	null	null	1734	0.6887961030006409	-0.011966714	No	
+row_3	G0S2	G0/G1 switch 2 [Source:HGNC Symbol;Acc:HGNC:30229]	null	null	2391	0.6011695861816406	-0.032378092	No	
+row_4	CHST6	carbohydrate sulfotransferase 6 [Source:HGNC Symbol;Acc:HGNC:6938]	null	null	2841	0.5263285040855408	-0.03928123	No	
+row_5	SEMA3E	semaphorin 3E [Source:HGNC Symbol;Acc:HGNC:10727]	null	null	3140	0.46523916721343994	-0.036730185	No	
+row_6	OCIAD2	OCIA domain containing 2 [Source:HGNC Symbol;Acc:HGNC:28685]	null	null	3805	0.29382967948913574	-0.076753005	No	
+row_7	RBP1	retinol binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9919]	null	null	4256	0.16289116442203522	-0.10610687	No	
+row_8	CTHRC1	collagen triple helix repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:18831]	null	null	5386	-0.19053204357624054	-0.19317539	No	
+row_9	FKBP5	FKBP prolyl isomerase 5 [Source:HGNC Symbol;Acc:HGNC:3721]	null	null	6058	-0.34941598773002625	-0.23039037	No	
+row_10	BIRC3	baculoviral IAP repeat containing 3 [Source:HGNC Symbol;Acc:HGNC:591]	null	null	6576	-0.4554501473903656	-0.24760513	No	
+row_11	FZD6	frizzled class receptor 6 [Source:HGNC Symbol;Acc:HGNC:4044]	null	null	7533	-0.5938224792480469	-0.2947199	No	
+row_12	FAM221A	family with sequence similarity 221 member A [Source:HGNC Symbol;Acc:HGNC:27977]	null	null	9605	-0.7682409882545471	-0.42866966	Yes	
+row_13	SLC25A20	solute carrier family 25 member 20 [Source:HGNC Symbol;Acc:HGNC:1421]	null	null	9698	-0.7741159796714783	-0.38908675	Yes	
+row_14	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	null	null	10435	-0.8198806643486023	-0.40304062	Yes	
+row_15	CCNA1	cyclin A1 [Source:HGNC Symbol;Acc:HGNC:1577]	null	null	10631	-0.8332431316375732	-0.3688324	Yes	
+row_16	SEL1L3	SEL1L family member 3 [Source:HGNC Symbol;Acc:HGNC:29108]	null	null	10876	-0.8515883684158325	-0.3377831	Yes	
+row_17	TRIP4	thyroid hormone receptor interactor 4 [Source:HGNC Symbol;Acc:HGNC:12310]	null	null	10975	-0.8609004020690918	-0.29338512	Yes	
+row_18	JHY	junctional cadherin complex regulator [Source:HGNC Symbol;Acc:HGNC:26288]	null	null	11191	-0.8819449543952942	-0.25793025	Yes	
+row_19	TTC12	tetratricopeptide repeat domain 12 [Source:HGNC Symbol;Acc:HGNC:23700]	null	null	11269	-0.8913092017173767	-0.20982358	Yes	
+row_20	LGALS8	galectin 8 [Source:HGNC Symbol;Acc:HGNC:6569]	null	null	11280	-0.8935846090316772	-0.1557141	Yes	
+row_21	EPHX2	epoxide hydrolase 2 [Source:HGNC Symbol;Acc:HGNC:3402]	null	null	11382	-0.9154294729232788	-0.10822334	Yes	
+row_22	FABP5	fatty acid binding protein 5 [Source:HGNC Symbol;Acc:HGNC:3560]	null	null	11398	-0.9215450286865234	-0.052830897	Yes	
+row_23	CBR1	carbonyl reductase 1 [Source:HGNC Symbol;Acc:HGNC:1548]	null	null	11428	-0.9325334429740906	0.002012624	Yes	

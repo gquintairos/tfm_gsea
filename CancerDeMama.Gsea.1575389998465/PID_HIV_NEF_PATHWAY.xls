@@ -1,0 +1,36 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CASP2	caspase 2 [Source:HGNC Symbol;Acc:HGNC:1503]	null	null	2	0.9823856949806213	0.052564822	No	
+row_1	TRAF2	TNF receptor associated factor 2 [Source:HGNC Symbol;Acc:HGNC:12032]	null	null	87	0.9251432418823242	0.09854546	No	
+row_2	TRADD	TNFRSF1A associated via death domain [Source:HGNC Symbol;Acc:HGNC:12030]	null	null	2715	0.7049022912979126	0.023674348	No	
+row_3	FADD	Fas associated via death domain [Source:HGNC Symbol;Acc:HGNC:3573]	null	null	3408	0.6649397015571594	0.02963744	No	
+row_4	TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	null	null	3830	0.6399642825126648	0.045882907	No	
+row_5	RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	null	null	5323	0.5439584255218506	0.011056732	No	
+row_6	CD247	CD247 molecule [Source:HGNC Symbol;Acc:HGNC:1677]	null	null	5879	0.5025562047958374	0.014191726	No	
+row_7	CASP9	caspase 9 [Source:HGNC Symbol;Acc:HGNC:1511]	null	null	7057	0.4070080518722534	-0.01446653	No	
+row_8	NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	null	null	8181	0.3176978528499603	-0.045595724	No	
+row_9	TNF	tumor necrosis factor [Source:HGNC Symbol;Acc:HGNC:11892]	null	null	9095	0.2375088483095169	-0.07201747	No	
+row_10	CASP6	caspase 6 [Source:HGNC Symbol;Acc:HGNC:1507]	null	null	9535	0.19867826998233795	-0.08019443	No	
+row_11	MAP2K7	mitogen-activated protein kinase kinase 7 [Source:HGNC Symbol;Acc:HGNC:6847]	null	null	10731	0.0975693017244339	-0.1262088	No	
+row_12	TRAF1	TNF receptor associated factor 1 [Source:HGNC Symbol;Acc:HGNC:12031]	null	null	10849	0.08679372817277908	-0.12657428	No	
+row_13	FASLG	Fas ligand [Source:HGNC Symbol;Acc:HGNC:11936]	null	null	11841	0.0047468640841543674	-0.16881558	No	
+row_14	MAP3K5	mitogen-activated protein kinase kinase kinase 5 [Source:HGNC Symbol;Acc:HGNC:6857]	null	null	12303	-0.03392939642071724	-0.1867656	No	
+row_15	CASP7	caspase 7 [Source:HGNC Symbol;Acc:HGNC:1508]	null	null	12934	-0.08641166985034943	-0.20914982	No	
+row_16	RIPK1	receptor interacting serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:10019]	null	null	13910	-0.1640932559967041	-0.24216491	No	
+row_17	FAS	Fas cell surface death receptor [Source:HGNC Symbol;Acc:HGNC:11920]	null	null	14110	-0.18189065158367157	-0.24095	No	
+row_18	DFFB	DNA fragmentation factor subunit beta [Source:HGNC Symbol;Acc:HGNC:2773]	null	null	15257	-0.2709953188896179	-0.2755685	No	
+row_19	MAPK8	mitogen-activated protein kinase 8 [Source:HGNC Symbol;Acc:HGNC:6881]	null	null	16734	-0.3784189522266388	-0.31858057	No	
+row_20	MAP3K14	mitogen-activated protein kinase kinase kinase 14 [Source:HGNC Symbol;Acc:HGNC:6853]	null	null	19278	-0.5668098330497742	-0.39725065	Yes	
+row_21	BAG4	BCL2 associated athanogene 4 [Source:HGNC Symbol;Acc:HGNC:940]	null	null	19998	-0.621300995349884	-0.39478415	Yes	
+row_22	BCL2	BCL2 apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:990]	null	null	20585	-0.6669838428497314	-0.38416606	Yes	
+row_23	CASP3	caspase 3 [Source:HGNC Symbol;Acc:HGNC:1504]	null	null	20691	-0.67408287525177	-0.35254142	Yes	
+row_24	APAF1	apoptotic peptidase activating factor 1 [Source:HGNC Symbol;Acc:HGNC:576]	null	null	21182	-0.7125257849693298	-0.3353659	Yes	
+row_25	CRADD	CASP2 and RIPK1 domain containing adaptor with death domain [Source:HGNC Symbol;Acc:HGNC:2340]	null	null	21218	-0.7147767543792725	-0.29855856	Yes	
+row_26	CFLAR	CASP8 and FADD like apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:1876]	null	null	21451	-0.733624279499054	-0.2691888	Yes	
+row_27	CYCS	cytochrome c, somatic [Source:HGNC Symbol;Acc:HGNC:19986]	null	null	21697	-0.7550315260887146	-0.23922916	Yes	
+row_28	BID	BH3 interacting domain death agonist [Source:HGNC Symbol;Acc:HGNC:1050]	null	null	21745	-0.7597867250442505	-0.20052412	Yes	
+row_29	CASP8	caspase 8 [Source:HGNC Symbol;Acc:HGNC:1509]	null	null	22159	-0.7936580181121826	-0.17569844	Yes	
+row_30	DAXX	death domain associated protein [Source:HGNC Symbol;Acc:HGNC:2681]	null	null	22262	-0.803882896900177	-0.13698857	Yes	
+row_31	DFFA	DNA fragmentation factor subunit alpha [Source:HGNC Symbol;Acc:HGNC:2772]	null	null	22388	-0.8147164583206177	-0.09868436	Yes	
+row_32	BIRC3	baculoviral IAP repeat containing 3 [Source:HGNC Symbol;Acc:HGNC:591]	null	null	22447	-0.820441484451294	-0.057200246	Yes	
+row_33	CHUK	component of inhibitor of nuclear factor kappa B kinase complex [Source:HGNC Symbol;Acc:HGNC:1974]	null	null	22928	-0.8722306489944458	-0.031036569	Yes	
+row_34	NFKB1	nuclear factor kappa B subunit 1 [Source:HGNC Symbol;Acc:HGNC:7794]	null	null	23217	-0.9191468358039856	0.0058748415	Yes	

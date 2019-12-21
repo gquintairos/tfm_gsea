@@ -1,0 +1,47 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRRX1	paired related homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9142]	null	null	8	0.972427248954773	0.032306753	No	
+row_1	BEX4	brain expressed X-linked 4 [Source:HGNC Symbol;Acc:HGNC:25475]	null	null	139	0.9102471470832825	0.051806737	No	
+row_2	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	null	null	525	0.8396676778793335	0.046554312	No	
+row_3	CDH11	cadherin 11 [Source:HGNC Symbol;Acc:HGNC:1750]	null	null	625	0.8258906602859497	0.06590876	No	
+row_4	GREM1	gremlin 1, DAN family BMP antagonist [Source:HGNC Symbol;Acc:HGNC:2001]	null	null	2180	0.6340653896331787	-0.048812564	No	
+row_5	IL17RC	interleukin 17 receptor C [Source:HGNC Symbol;Acc:HGNC:18358]	null	null	2489	0.585416853427887	-0.05594447	No	
+row_6	EPB41L4B	erythrocyte membrane protein band 4.1 like 4B [Source:HGNC Symbol;Acc:HGNC:19818]	null	null	2639	0.5606714487075806	-0.049976297	No	
+row_7	KCNMA1	potassium calcium-activated channel subfamily M alpha 1 [Source:HGNC Symbol;Acc:HGNC:6284]	null	null	2762	0.5412725210189819	-0.04229943	No	
+row_8	ICAM1	intercellular adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5344]	null	null	3100	0.47112971544265747	-0.055853225	No	
+row_9	POSTN	periostin [Source:HGNC Symbol;Acc:HGNC:16953]	null	null	3262	0.43771180510520935	-0.055110883	No	
+row_10	ERMP1	endoplasmic reticulum metallopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:23703]	null	null	3320	0.4248468279838562	-0.04568722	No	
+row_11	SCG5	secretogranin V [Source:HGNC Symbol;Acc:HGNC:10816]	null	null	3509	0.3743998408317566	-0.04946112	No	
+row_12	TPM1	tropomyosin 1 [Source:HGNC Symbol;Acc:HGNC:12010]	null	null	4408	0.11224473267793655	-0.12438157	No	
+row_13	CD83	CD83 molecule [Source:HGNC Symbol;Acc:HGNC:1703]	null	null	4823	-0.015611393377184868	-0.16014835	No	
+row_14	FBLN5	fibulin 5 [Source:HGNC Symbol;Acc:HGNC:3602]	null	null	4843	-0.02586156688630581	-0.16093628	No	
+row_15	ADRB2	adrenoceptor beta 2 [Source:HGNC Symbol;Acc:HGNC:286]	null	null	5019	-0.07933224737644196	-0.17358623	No	
+row_16	TAGLN	transgelin [Source:HGNC Symbol;Acc:HGNC:11553]	null	null	5112	-0.11298403143882751	-0.17781702	No	
+row_17	MAGEH1	MAGE family member H1 [Source:HGNC Symbol;Acc:HGNC:24092]	null	null	5455	-0.21112777292728424	-0.2006347	No	
+row_18	CCNG2	cyclin G2 [Source:HGNC Symbol;Acc:HGNC:1593]	null	null	5656	-0.26079586148262024	-0.20931686	No	
+row_19	NREP	neuronal regeneration related protein [Source:HGNC Symbol;Acc:HGNC:16834]	null	null	5694	-0.27023017406463623	-0.20338807	No	
+row_20	EPAS1	endothelial PAS domain protein 1 [Source:HGNC Symbol;Acc:HGNC:3374]	null	null	6512	-0.4437344968318939	-0.25995487	No	
+row_21	BIRC3	baculoviral IAP repeat containing 3 [Source:HGNC Symbol;Acc:HGNC:591]	null	null	6576	-0.4554501473903656	-0.25001845	No	
+row_22	TNFAIP3	TNF alpha induced protein 3 [Source:HGNC Symbol;Acc:HGNC:11896]	null	null	8045	-0.6459048390388489	-0.356798	No	
+row_23	MYO1B	myosin IB [Source:HGNC Symbol;Acc:HGNC:7596]	null	null	8523	-0.6881994605064392	-0.37525782	No	
+row_24	GALNT10	polypeptide N-acetylgalactosaminyltransferase 10 [Source:HGNC Symbol;Acc:HGNC:19873]	null	null	8762	-0.7082843780517578	-0.37208197	No	
+row_25	ARHGAP22	Rho GTPase activating protein 22 [Source:HGNC Symbol;Acc:HGNC:30320]	null	null	9126	-0.734973669052124	-0.37895933	No	
+row_26	SORL1	sortilin related receptor 1 [Source:HGNC Symbol;Acc:HGNC:11185]	null	null	9355	-0.7519506216049194	-0.37342453	No	
+row_27	PELI1	pellino E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:8827]	null	null	9897	-0.7884297966957092	-0.3940932	No	
+row_28	MYL9	myosin light chain 9 [Source:HGNC Symbol;Acc:HGNC:15754]	null	null	10230	-0.8079662322998047	-0.39577502	Yes	
+row_29	FZD3	frizzled class receptor 3 [Source:HGNC Symbol;Acc:HGNC:4041]	null	null	10267	-0.8100311160087585	-0.3714355	Yes	
+row_30	LMCD1	LIM and cysteine rich domains 1 [Source:HGNC Symbol;Acc:HGNC:6633]	null	null	10342	-0.8143532872200012	-0.35028085	Yes	
+row_31	ACKR1	atypical chemokine receptor 1 (Duffy blood group) [Source:HGNC Symbol;Acc:HGNC:4035]	null	null	10505	-0.8245911002159119	-0.33649394	Yes	
+row_32	SOX9	SRY-box 9 [Source:HGNC Symbol;Acc:HGNC:11204]	null	null	10541	-0.8271029591560364	-0.31148726	Yes	
+row_33	DOCK10	dedicator of cytokinesis 10 [Source:HGNC Symbol;Acc:HGNC:23479]	null	null	10797	-0.8458662033081055	-0.30513176	Yes	
+row_34	FERMT2	fermitin family member 2 [Source:HGNC Symbol;Acc:HGNC:15767]	null	null	10799	-0.8459563255310059	-0.27650422	Yes	
+row_35	NDRG1	N-myc downstream regulated 1 [Source:HGNC Symbol;Acc:HGNC:7679]	null	null	11011	-0.8638705015182495	-0.26568	Yes	
+row_36	MAP1B	microtubule associated protein 1B [Source:HGNC Symbol;Acc:HGNC:6836]	null	null	11026	-0.8650922775268555	-0.23754266	Yes	
+row_37	SYBU	syntabulin [Source:HGNC Symbol;Acc:HGNC:26011]	null	null	11041	-0.8667834997177124	-0.20934792	Yes	
+row_38	STC2	stanniocalcin 2 [Source:HGNC Symbol;Acc:HGNC:11374]	null	null	11129	-0.8751277923583984	-0.18727009	Yes	
+row_39	MIOS	meiosis regulator for oocyte development [Source:HGNC Symbol;Acc:HGNC:21905]	null	null	11177	-0.8805665373802185	-0.1615007	Yes	
+row_40	SLC46A3	solute carrier family 46 member 3 [Source:HGNC Symbol;Acc:HGNC:27501]	null	null	11249	-0.888834536075592	-0.13755484	Yes	
+row_41	IFIH1	interferon induced with helicase C domain 1 [Source:HGNC Symbol;Acc:HGNC:18873]	null	null	11256	-0.8898113965988159	-0.10787706	Yes	
+row_42	CD82	CD82 molecule [Source:HGNC Symbol;Acc:HGNC:6210]	null	null	11327	-0.9031245112419128	-0.08335846	Yes	
+row_43	ACTA2	actin alpha 2, smooth muscle [Source:HGNC Symbol;Acc:HGNC:130]	null	null	11335	-0.9050130844116211	-0.053252343	Yes	
+row_44	BIN1	bridging integrator 1 [Source:HGNC Symbol;Acc:HGNC:1052]	null	null	11401	-0.9221290349960327	-0.027650287	Yes	
+row_45	CREG1	cellular repressor of E1A stimulated genes 1 [Source:HGNC Symbol;Acc:HGNC:2351]	null	null	11439	-0.9411404132843018	0.001051944	Yes	

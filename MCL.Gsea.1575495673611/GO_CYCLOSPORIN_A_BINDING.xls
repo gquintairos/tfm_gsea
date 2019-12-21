@@ -1,0 +1,16 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PPIE	peptidylprolyl isomerase E [Source:HGNC Symbol;Acc:HGNC:9258]	null	null	6829	0.09430746734142303	-0.267653	No	
+row_1	PPIAL4A	peptidylprolyl isomerase A like 4A [Source:HGNC Symbol;Acc:HGNC:24369]	null	null	8495	0.05858627334237099	-0.3214662	No	
+row_2	PPIL6	peptidylprolyl isomerase like 6 [Source:HGNC Symbol;Acc:HGNC:21557]	null	null	11582	-0.0032671105582267046	-0.45506972	No	
+row_3	PPWD1	peptidylprolyl isomerase domain and WD repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:28954]	null	null	13260	-0.03567923232913017	-0.5167718	No	
+row_4	PPP3CA	protein phosphatase 3 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9314]	null	null	13828	-0.04687317833304405	-0.5264412	No	
+row_5	NKTR	natural killer cell triggering receptor [Source:HGNC Symbol;Acc:HGNC:7833]	null	null	15471	-0.08178190141916275	-0.57179284	No	
+row_6	PPIC	peptidylprolyl isomerase C [Source:HGNC Symbol;Acc:HGNC:9256]	null	null	21065	-0.25874313712120056	-0.7326439	Yes	
+row_7	PPID	peptidylprolyl isomerase D [Source:HGNC Symbol;Acc:HGNC:9257]	null	null	21090	-0.26015448570251465	-0.6500444	Yes	
+row_8	PPIB	peptidylprolyl isomerase B [Source:HGNC Symbol;Acc:HGNC:9255]	null	null	21405	-0.2773151695728302	-0.5745811	Yes	
+row_9	PPIL1	peptidylprolyl isomerase like 1 [Source:HGNC Symbol;Acc:HGNC:9260]	null	null	21762	-0.3034185469150543	-0.49255747	Yes	
+row_10	PPIA	peptidylprolyl isomerase A [Source:HGNC Symbol;Acc:HGNC:9253]	null	null	21837	-0.3097316324710846	-0.3961993	Yes	
+row_11	PPIF	peptidylprolyl isomerase F [Source:HGNC Symbol;Acc:HGNC:9259]	null	null	22043	-0.3269977867603302	-0.30000556	Yes	
+row_12	PPIG	peptidylprolyl isomerase G [Source:HGNC Symbol;Acc:HGNC:14650]	null	null	22046	-0.3270496726036072	-0.19493751	Yes	
+row_13	PPP3R1	protein phosphatase 3 regulatory subunit B, alpha [Source:HGNC Symbol;Acc:HGNC:9317]	null	null	22292	-0.36003243923187256	-0.08986764	Yes	
+row_14	PPIH	peptidylprolyl isomerase H [Source:HGNC Symbol;Acc:HGNC:14651]	null	null	22339	-0.3662202060222626	0.025874916	Yes	

@@ -1,0 +1,52 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HIST1H1D	histone cluster 1 H1 family member d [Source:HGNC Symbol;Acc:HGNC:4717]	null	null	10	0.9654891490936279	0.031927764	Yes	
+row_1	HIST1H3I	histone cluster 1 H3 family member i [Source:HGNC Symbol;Acc:HGNC:4771]	null	null	79	0.9285191297531128	0.060127698	Yes	
+row_2	HIST1H1B	histone cluster 1 H1 family member b [Source:HGNC Symbol;Acc:HGNC:4719]	null	null	102	0.9207684993743896	0.09004179	Yes	
+row_3	HIST1H3F	histone cluster 1 H3 family member f [Source:HGNC Symbol;Acc:HGNC:4773]	null	null	129	0.9119916558265686	0.11949009	Yes	
+row_4	HIST1H3A	histone cluster 1 H3 family member a [Source:HGNC Symbol;Acc:HGNC:4766]	null	null	141	0.9099676012992859	0.14951423	Yes	
+row_5	H1FOO	H1 histone family member O oocyte specific [Source:HGNC Symbol;Acc:HGNC:18463]	null	null	231	0.8921762704849243	0.17559505	Yes	
+row_6	HIST2H3D	histone cluster 2 H3 family member d [Source:HGNC Symbol;Acc:HGNC:25311]	null	null	503	0.8539852499961853	0.19258614	Yes	
+row_7	RCC1	regulator of chromosome condensation 1 [Source:HGNC Symbol;Acc:HGNC:1913]	null	null	567	0.8479027152061462	0.21829888	Yes	
+row_8	H1FNT	H1 histone family member N, testis specific [Source:HGNC Symbol;Acc:HGNC:24893]	null	null	631	0.8407692909240723	0.24377257	Yes	
+row_9	HIST1H3B	histone cluster 1 H3 family member b [Source:HGNC Symbol;Acc:HGNC:4776]	null	null	653	0.8380300402641296	0.27095672	Yes	
+row_10	HIST1H3J	histone cluster 1 H3 family member j [Source:HGNC Symbol;Acc:HGNC:4774]	null	null	892	0.8182434439659119	0.28816605	Yes	
+row_11	H3F3A	H3 histone family member 3A [Source:HGNC Symbol;Acc:HGNC:4764]	null	null	1013	0.8100914359092712	0.31016567	Yes	
+row_12	H2AFZ	H2A histone family member Z [Source:HGNC Symbol;Acc:HGNC:4741]	null	null	1026	0.8090826272964478	0.3367659	Yes	
+row_13	HIST1H1E	histone cluster 1 H1 family member e [Source:HGNC Symbol;Acc:HGNC:4718]	null	null	1211	0.7960789799690247	0.3555496	Yes	
+row_14	H3F3C	H3 histone family member 3C [Source:HGNC Symbol;Acc:HGNC:33164]	null	null	1491	0.7764222025871277	0.369598	Yes	
+row_15	H1F0	H1 histone family member 0 [Source:HGNC Symbol;Acc:HGNC:4714]	null	null	1619	0.7682908177375793	0.3898964	Yes	
+row_16	H1FX	H1 histone family member X [Source:HGNC Symbol;Acc:HGNC:4722]	null	null	1751	0.7601244449615479	0.40974942	Yes	
+row_17	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2 [Source:HGNC Symbol;Acc:HGNC:11105]	null	null	2194	0.7335453033447266	0.41536635	Yes	
+row_18	HMGN2	high mobility group nucleosomal binding domain 2 [Source:HGNC Symbol;Acc:HGNC:4986]	null	null	2503	0.7165616154670715	0.4261642	Yes	
+row_19	H2AFY	H2A histone family member Y [Source:HGNC Symbol;Acc:HGNC:4740]	null	null	2613	0.710874617099762	0.44531077	Yes	
+row_20	HNRNPC	heterogeneous nuclear ribonucleoprotein C (C1/C2) [Source:HGNC Symbol;Acc:HGNC:5035]	null	null	2899	0.6933731436729431	0.45631844	Yes	
+row_21	SMARCB1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1 [Source:HGNC Symbol;Acc:HGNC:11103]	null	null	3418	0.6643895506858826	0.45635647	Yes	
+row_22	HIST1H3C	histone cluster 1 H3 family member c [Source:HGNC Symbol;Acc:HGNC:4768]	null	null	4326	0.6103867888450623	0.4378923	Yes	
+row_23	RBBP4	RB binding protein 4, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9887]	null	null	4403	0.6052462458610535	0.45491493	Yes	
+row_24	MTA2	metastasis associated 1 family member 2 [Source:HGNC Symbol;Acc:HGNC:7411]	null	null	4718	0.5858509540557861	0.46107474	Yes	
+row_25	SMARCD2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 2 [Source:HGNC Symbol;Acc:HGNC:11107]	null	null	5107	0.5573777556419373	0.4631049	Yes	
+row_26	HIST1H3E	histone cluster 1 H3 family member e [Source:HGNC Symbol;Acc:HGNC:4769]	null	null	5369	0.540912389755249	0.47003293	Yes	
+row_27	HDAC1	histone deacetylase 1 [Source:HGNC Symbol;Acc:HGNC:4852]	null	null	7140	0.4004896581172943	0.4075021	No	
+row_28	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4 [Source:HGNC Symbol;Acc:HGNC:11100]	null	null	8360	0.3029249608516693	0.36534557	No	
+row_29	HILS1	histone linker H1 domain, spermatid-specific 1 (pseudogene) [Source:HGNC Symbol;Acc:HGNC:30616]	null	null	10204	0.13975873589515686	0.29094422	No	
+row_30	HIST1H1A	histone cluster 1 H1 family member a [Source:HGNC Symbol;Acc:HGNC:4715]	null	null	10858	0.08547598123550415	0.26578787	No	
+row_31	GATAD2B	GATA zinc finger domain containing 2B [Source:HGNC Symbol;Acc:HGNC:30778]	null	null	11192	0.05883747711777687	0.25347033	No	
+row_32	H3F3B	H3 histone family member 3B [Source:HGNC Symbol;Acc:HGNC:4765]	null	null	11249	0.05383199080824852	0.2528714	No	
+row_33	MBD3	methyl-CpG binding domain protein 3 [Source:NCBI gene;Acc:53615]	null	null	11689	0.017647216096520424	0.23462486	No	
+row_34	SMARCE1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1 [Source:HGNC Symbol;Acc:HGNC:11109]	null	null	11788	0.008705033920705318	0.23071131	No	
+row_35	CHD4	chromodomain helicase DNA binding protein 4 [Source:HGNC Symbol;Acc:HGNC:1919]	null	null	12388	-0.041102856397628784	0.20638506	No	
+row_36	HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]	null	null	13842	-0.15820986032485962	0.14933741	No	
+row_37	HIST1H3H	histone cluster 1 H3 family member h [Source:HGNC Symbol;Acc:HGNC:4775]	null	null	14036	-0.17583689093589783	0.14694847	No	
+row_38	HMGN3	high mobility group nucleosomal binding domain 3 [Source:HGNC Symbol;Acc:HGNC:12312]	null	null	14436	-0.20803874731063843	0.13679905	No	
+row_39	HIST3H3	histone cluster 3 H3 [Source:HGNC Symbol;Acc:HGNC:4778]	null	null	14684	-0.22714059054851532	0.13381228	No	
+row_40	HIST1H1T	histone cluster 1 H1 family member t [Source:HGNC Symbol;Acc:HGNC:4720]	null	null	15431	-0.28286662697792053	0.11128044	No	
+row_41	CENPA	centromere protein A [Source:HGNC Symbol;Acc:HGNC:1851]	null	null	15976	-0.32336121797561646	0.098773755	No	
+row_42	ACTB	actin beta [Source:HGNC Symbol;Acc:HGNC:132]	null	null	18057	-0.47545963525772095	0.02545299	No	
+row_43	HMGN1	high mobility group nucleosome binding domain 1 [Source:HGNC Symbol;Acc:HGNC:4984]	null	null	19892	-0.6127089858055115	-0.032711953	No	
+row_44	ACTL6A	actin like 6A [Source:HGNC Symbol;Acc:HGNC:24124]	null	null	20014	-0.6232842206954956	-0.017015787	No	
+row_45	HDAC2	histone deacetylase 2 [Source:HGNC Symbol;Acc:HGNC:4853]	null	null	20404	-0.6521546840667725	-0.011852244	No	
+row_46	HMGN4	high mobility group nucleosomal binding domain 4 [Source:HGNC Symbol;Acc:HGNC:4989]	null	null	21626	-0.7489962577819824	-0.03914523	No	
+row_47	HMGN5	high mobility group nucleosome binding domain 5 [Source:HGNC Symbol;Acc:HGNC:8013]	null	null	22566	-0.8312538266181946	-0.051580556	No	
+row_48	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1 [Source:HGNC Symbol;Acc:HGNC:11104]	null	null	22574	-0.8318505883216858	-0.024002746	No	
+row_49	MBD2	methyl-CpG binding domain protein 2 [Source:HGNC Symbol;Acc:HGNC:6917]	null	null	22625	-0.8371904492378235	0.0019088432	No	
+row_50	HIST1H1C	histone cluster 1 H1 family member c [Source:HGNC Symbol;Acc:HGNC:4716]	null	null	22941	-0.8751884698867798	0.017722439	No	

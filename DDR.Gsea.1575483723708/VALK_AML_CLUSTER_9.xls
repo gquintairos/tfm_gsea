@@ -1,0 +1,21 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FAM171A1	family with sequence similarity 171 member A1 [Source:HGNC Symbol;Acc:HGNC:23522]	null	null	76	0.9306750297546387	0.05978349	Yes	
+row_1	RPS6KA2	ribosomal protein S6 kinase A2 [Source:HGNC Symbol;Acc:HGNC:10431]	null	null	156	0.9069312810897827	0.117609724	Yes	
+row_2	CHST12	carbohydrate sulfotransferase 12 [Source:HGNC Symbol;Acc:HGNC:17423]	null	null	347	0.8663347959518433	0.16282861	Yes	
+row_3	MTMR11	myotubularin related protein 11 [Source:HGNC Symbol;Acc:HGNC:24307]	null	null	483	0.8456441760063171	0.21138164	Yes	
+row_4	CLIP3	CAP-Gly domain containing linker protein 3 [Source:HGNC Symbol;Acc:HGNC:24314]	null	null	623	0.8262010812759399	0.25819695	Yes	
+row_5	CLIP2	CAP-Gly domain containing linker protein 2 [Source:HGNC Symbol;Acc:HGNC:2586]	null	null	657	0.8216813802719116	0.31396186	Yes	
+row_6	MN1	MN1 proto-oncogene, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:7180]	null	null	784	0.8029207587242126	0.36025256	Yes	
+row_7	CD1C	CD1c molecule [Source:HGNC Symbol;Acc:HGNC:1636]	null	null	878	0.7896347045898438	0.40848154	Yes	
+row_8	RUNX3	runt related transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:10473]	null	null	927	0.7844809889793396	0.460279	Yes	
+row_9	MYH11	myosin heavy chain 11 [Source:HGNC Symbol;Acc:HGNC:7569]	null	null	1867	0.6748166084289551	0.42630947	No	
+row_10	NDE1	nudE neurodevelopment protein 1 [Source:HGNC Symbol;Acc:HGNC:17619]	null	null	4355	0.13075032830238342	0.21809518	No	
+row_11	DHRS3	dehydrogenase/reductase 3 [Source:HGNC Symbol;Acc:HGNC:17693]	null	null	5245	-0.1558450311422348	0.15145521	No	
+row_12	NT5E	5'-nucleotidase ecto [Source:HGNC Symbol;Acc:HGNC:8021]	null	null	6927	-0.5083318948745728	0.0406965	No	
+row_13	SPARC	secreted protein acidic and cysteine rich [Source:HGNC Symbol;Acc:HGNC:11219]	null	null	7371	-0.5755667686462402	0.043029528	No	
+row_14	CBFB	core-binding factor subunit beta [Source:HGNC Symbol;Acc:HGNC:1539]	null	null	7752	-0.6173868179321289	0.05385851	No	
+row_15	MGLL	monoglyceride lipase [Source:HGNC Symbol;Acc:HGNC:17038]	null	null	7785	-0.620202898979187	0.095329374	No	
+row_16	FCGR2B	Fc fragment of IgG receptor IIb [Source:HGNC Symbol;Acc:HGNC:3618]	null	null	9254	-0.7452260255813599	0.020112054	No	
+row_17	CD81	CD81 molecule [Source:HGNC Symbol;Acc:HGNC:1701]	null	null	9290	-0.7476125955581665	0.07041499	No	
+row_18	EMID1	EMI domain containing 1 [Source:HGNC Symbol;Acc:HGNC:18036]	null	null	10461	-0.8225622177124023	0.026785102	No	
+row_19	CD59	CD59 molecule (CD59 blood group) [Source:HGNC Symbol;Acc:HGNC:1689]	null	null	10688	-0.8367404937744141	0.06674249	No	

@@ -1,0 +1,22 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	COL1A1	collagen type I alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2197]	null	null	48	0.9399056434631348	0.06014877	Yes	
+row_1	LARP6	La ribonucleoprotein domain family member 6 [Source:HGNC Symbol;Acc:HGNC:24012]	null	null	74	0.9309195876121521	0.12169441	Yes	
+row_2	BMP4	bone morphogenetic protein 4 [Source:HGNC Symbol;Acc:HGNC:1071]	null	null	247	0.8851221203804016	0.1672449	Yes	
+row_3	WNT4	Wnt family member 4 [Source:HGNC Symbol;Acc:HGNC:12783]	null	null	434	0.8530093431472778	0.20937213	Yes	
+row_4	EMILIN1	elastin microfibril interfacer 1 [Source:HGNC Symbol;Acc:HGNC:19880]	null	null	655	0.821856677532196	0.24639222	Yes	
+row_5	F2R	coagulation factor II thrombin receptor [Source:HGNC Symbol;Acc:HGNC:3537]	null	null	947	0.7826588749885559	0.27451757	Yes	
+row_6	MYB	MYB proto-oncogene, transcription factor [Source:HGNC Symbol;Acc:HGNC:7545]	null	null	1141	0.7604584693908691	0.3096962	Yes	
+row_7	HDAC2	histone deacetylase 2 [Source:HGNC Symbol;Acc:HGNC:4853]	null	null	1143	0.760381281375885	0.361666	Yes	
+row_8	PPARD	peroxisome proliferator activated receptor delta [Source:HGNC Symbol;Acc:HGNC:9235]	null	null	1206	0.7515338659286499	0.4076937	Yes	
+row_9	TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	null	null	1294	0.7397285103797913	0.45072615	Yes	
+row_10	SERPINH1	serpin family H member 1 [Source:HGNC Symbol;Acc:HGNC:1546]	null	null	2495	0.5842786431312561	0.3857494	No	
+row_11	GOT1	glutamic-oxaloacetic transaminase 1 [Source:HGNC Symbol;Acc:HGNC:4432]	null	null	2921	0.510021448135376	0.38348693	No	
+row_12	VIM	vimentin [Source:HGNC Symbol;Acc:HGNC:12692]	null	null	4813	-0.013633706606924534	0.21899296	No	
+row_13	CIITA	class II major histocompatibility complex transactivator [Source:HGNC Symbol;Acc:HGNC:7067]	null	null	5300	-0.16870298981666565	0.18802676	No	
+row_14	UCN	urocortin [Source:HGNC Symbol;Acc:HGNC:12516]	null	null	6705	-0.47692227363586426	0.09785394	No	
+row_15	ERRFI1	ERBB receptor feedback inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:18185]	null	null	7942	-0.6360307335853577	0.033270895	No	
+row_16	PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	null	null	8935	-0.7206191420555115	-0.0041755885	No	
+row_17	TRAM2	translocation associated membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:16855]	null	null	9585	-0.7671065330505371	-0.008433328	No	
+row_18	COL5A1	collagen type V alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2209]	null	null	10016	-0.7952309846878052	0.008392817	No	
+row_19	RGCC	regulator of cell cycle [Source:HGNC Symbol;Acc:HGNC:20369]	null	null	10678	-0.8363115787506104	0.007823222	No	
+row_20	RAP1A	RAP1A, member of RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9855]	null	null	11101	-0.8721967935562134	0.030618457	No	

@@ -1,0 +1,23 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTK2	protein tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:9611]	null	null	57	0.9358600378036499	0.05877371	Yes	
+row_1	PLCB2	phospholipase C beta 2 [Source:HGNC Symbol;Acc:HGNC:9055]	null	null	189	0.8980951905250549	0.108500294	Yes	
+row_2	CREB1	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]	null	null	319	0.8715267777442932	0.15659174	Yes	
+row_3	AKT1	AKT serine/threonine kinase 1 [Source:HGNC Symbol;Acc:HGNC:391]	null	null	457	0.8493513464927673	0.20247245	Yes	
+row_4	GNB1	G protein subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:4396]	null	null	600	0.8296628594398499	0.24657433	Yes	
+row_5	SRC	SRC proto-oncogene, non-receptor tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:11283]	null	null	755	0.8074007630348206	0.2881096	Yes	
+row_6	HRAS	HRas proto-oncogene, GTPase [Source:HGNC Symbol;Acc:HGNC:5173]	null	null	1026	0.7745144367218018	0.3172556	Yes	
+row_7	PELP1	proline, glutamate and leucine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:30134]	null	null	1120	0.7622866034507751	0.36105406	Yes	
+row_8	MAPK3	mitogen-activated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:6877]	null	null	1315	0.737084686756134	0.3942991	Yes	
+row_9	MAPK1	mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871]	null	null	3505	0.37555456161499023	0.22837225	No	
+row_10	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:8979]	null	null	3835	0.28474757075309753	0.21898833	No	
+row_11	RAF1	Raf-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:9829]	null	null	5892	-0.31422948837280273	0.06051943	No	
+row_12	GNAI2	G protein subunit alpha i2 [Source:HGNC Symbol;Acc:HGNC:4385]	null	null	6533	-0.4464794993400574	0.03494529	No	
+row_13	GNAI3	G protein subunit alpha i3 [Source:HGNC Symbol;Acc:HGNC:4387]	null	null	6661	-0.46850699186325073	0.055753782	No	
+row_14	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	null	null	7235	-0.5561584234237671	0.043513887	No	
+row_15	RAC1	Rac family small GTPase 1 [Source:HGNC Symbol;Acc:HGNC:9801]	null	null	7351	-0.5723647475242615	0.07244813	No	
+row_16	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:8975]	null	null	7856	-0.6268436908721924	0.07106079	No	
+row_17	MAP2K2	mitogen-activated protein kinase kinase 2 [Source:HGNC Symbol;Acc:HGNC:6842]	null	null	8181	-0.657082200050354	0.08748166	No	
+row_18	MAP2K1	mitogen-activated protein kinase kinase 1 [Source:HGNC Symbol;Acc:HGNC:6840]	null	null	8686	-0.7008883953094482	0.09113903	No	
+row_19	PLCG2	phospholipase C gamma 2 [Source:NCBI gene;Acc:5336]	null	null	8911	-0.7178367972373962	0.120448045	No	
+row_20	PLCG1	phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065]	null	null	9062	-0.7297630906105042	0.15704378	No	
+row_21	GNG2	G protein subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:4404]	null	null	9504	-0.7614831328392029	0.17034131	No	

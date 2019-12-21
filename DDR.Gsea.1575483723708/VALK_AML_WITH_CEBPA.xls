@@ -1,0 +1,22 @@
+NAME	PROBE	DESCRIPTION<br>(from dataset)	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD7	CD7 molecule [Source:HGNC Symbol;Acc:HGNC:1695]	null	null	120	0.9141928553581238	0.053172056	Yes	
+row_1	TBL1X	transducin beta like 1 X-linked [Source:HGNC Symbol;Acc:HGNC:11585]	null	null	160	0.905562162399292	0.112829015	Yes	
+row_2	ITM2A	integral membrane protein 2A [Source:HGNC Symbol;Acc:HGNC:6173]	null	null	177	0.9006717205047607	0.17415744	Yes	
+row_3	TRIB1	tribbles pseudokinase 1 [Source:HGNC Symbol;Acc:HGNC:16891]	null	null	265	0.8808808326721191	0.22789635	Yes	
+row_4	ARHGEF3	Rho guanine nucleotide exchange factor 3 [Source:HGNC Symbol;Acc:HGNC:683]	null	null	279	0.8783076405525208	0.28792965	Yes	
+row_5	BASP1	brain abundant membrane attached signal protein 1 [Source:HGNC Symbol;Acc:HGNC:957]	null	null	638	0.8242294788360596	0.31401554	Yes	
+row_6	HSPB1	heat shock protein family B (small) member 1 [Source:HGNC Symbol;Acc:HGNC:5246]	null	null	939	0.7836179137229919	0.34234694	Yes	
+row_7	IGF2BP2	insulin like growth factor 2 mRNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:28867]	null	null	1116	0.762795090675354	0.3800758	Yes	
+row_8	ATN1	atrophin 1 [Source:HGNC Symbol;Acc:HGNC:3033]	null	null	1222	0.7490310072898865	0.42305723	Yes	
+row_9	GNA12	G protein subunit alpha 12 [Source:HGNC Symbol;Acc:HGNC:4380]	null	null	3272	0.43508440256118774	0.2741097	No	
+row_10	CTNNA1	catenin alpha 1 [Source:HGNC Symbol;Acc:HGNC:2509]	null	null	4001	0.2395472526550293	0.22710672	No	
+row_11	CD38	CD38 molecule [Source:HGNC Symbol;Acc:HGNC:1667]	null	null	4299	0.150241419672966	0.21158844	No	
+row_12	TUBB6	tubulin beta 6 class V [Source:HGNC Symbol;Acc:HGNC:20776]	null	null	4932	-0.0534043125808239	0.16001959	No	
+row_13	GALC	galactosylceramidase [Source:HGNC Symbol;Acc:HGNC:4115]	null	null	6820	-0.4935755133628845	0.029317709	No	
+row_14	CAMP	cathelicidin antimicrobial peptide [Source:HGNC Symbol;Acc:HGNC:1472]	null	null	7111	-0.5392207503318787	0.04150264	No	
+row_15	B4GALT6	beta-1,4-galactosyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:929]	null	null	8184	-0.6576045751571655	-0.0064779334	No	
+row_16	NDFIP1	Nedd4 family interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:17592]	null	null	8769	-0.7085446715354919	-0.008219812	No	
+row_17	SUCLG2	succinate-CoA ligase GDP-forming beta subunit [Source:HGNC Symbol;Acc:HGNC:11450]	null	null	10614	-0.8321083784103394	-0.111582555	No	
+row_18	TNS3	tensin 3 [Source:HGNC Symbol;Acc:HGNC:21616]	null	null	10794	-0.8456906676292419	-0.0683428	No	
+row_19	SEL1L3	SEL1L family member 3 [Source:HGNC Symbol;Acc:HGNC:29108]	null	null	10876	-0.8515883684158325	-0.016119117	No	
+row_20	IGLL1	immunoglobulin lambda like polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:5870]	null	null	11446	-0.9524383544921875	4.3743628E-4	No	
